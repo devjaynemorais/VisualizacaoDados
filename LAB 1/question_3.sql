@@ -1,4 +1,4 @@
-select tab.etnia,
+select tab.etnia, tab.genero,
 SUM(tab.Computer_Science) AS Computer_Science,  
 SUM(tab.Data_Engineering) AS Data_Engineering, 
 SUM(tab.Software_Engineering) AS Software_Engineering,
@@ -21,4 +21,5 @@ from (SELECT
 	WHERE et.name = aut.name
 	AND aut.paper_key = pap.paper_key
 	AND pap.conf_key = conf.conf_key) tab
-    GROUP BY tab.etnia
+    GROUP BY tab.etnia, tab.genero
+    ORDER BY tab.etnia
