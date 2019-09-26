@@ -1,0 +1,1633 @@
+ano,etnia,genero,subarea,quantidade_subarea,total_paper
+2000,Africans,F,"Computer Science",14,23
+2000,Africans,M,"Computer Science",90,168
+2000,Africans,N/A,"Computer Science",4,6
+2000,British,F,"Computer Science",261,323
+2000,British,M,"Computer Science",1126,1605
+2000,British,N/A,"Computer Science",57,77
+2000,EastEuropean,F,"Computer Science",47,72
+2000,EastEuropean,M,"Computer Science",209,389
+2000,EastEuropean,N/A,"Computer Science",3,6
+2000,GreaterEastAsian,F,"Computer Science",228,287
+2000,GreaterEastAsian,M,"Computer Science",636,876
+2000,GreaterEastAsian,N/A,"Computer Science",212,294
+2000,IndianSubContinent,F,"Computer Science",83,110
+2000,IndianSubContinent,M,"Computer Science",548,762
+2000,IndianSubContinent,N/A,"Computer Science",77,117
+2000,Jewish,F,"Computer Science",143,204
+2000,Jewish,M,"Computer Science",696,1089
+2000,Jewish,N/A,"Computer Science",8,13
+2000,Muslim,F,"Computer Science",18,41
+2000,Muslim,M,"Computer Science",182,284
+2000,Muslim,N/A,"Computer Science",18,20
+2000,WestEuropean,F,"Computer Science",172,326
+2000,WestEuropean,M,"Computer Science",905,1699
+2000,WestEuropean,N/A,"Computer Science",28,34
+2001,Africans,F,"Computer Science",11,19
+2001,Africans,M,"Computer Science",118,210
+2001,Africans,N/A,"Computer Science",13,14
+2001,British,F,"Computer Science",287,380
+2001,British,M,"Computer Science",1128,1679
+2001,British,N/A,"Computer Science",56,78
+2001,EastEuropean,F,"Computer Science",58,91
+2001,EastEuropean,M,"Computer Science",238,472
+2001,EastEuropean,N/A,"Computer Science",2,5
+2001,GreaterEastAsian,F,"Computer Science",265,371
+2001,GreaterEastAsian,M,"Computer Science",782,1149
+2001,GreaterEastAsian,N/A,"Computer Science",292,431
+2001,IndianSubContinent,F,"Computer Science",110,148
+2001,IndianSubContinent,M,"Computer Science",587,847
+2001,IndianSubContinent,N/A,"Computer Science",71,107
+2001,Jewish,F,"Computer Science",146,206
+2001,Jewish,M,"Computer Science",769,1241
+2001,Jewish,N/A,"Computer Science",5,12
+2001,Muslim,F,"Computer Science",40,65
+2001,Muslim,M,"Computer Science",224,343
+2001,Muslim,N/A,"Computer Science",12,18
+2001,WestEuropean,F,"Computer Science",219,382
+2001,WestEuropean,M,"Computer Science",1077,1926
+2001,WestEuropean,N/A,"Computer Science",33,48
+2002,Africans,F,"Computer Science",18,28
+2002,Africans,M,"Computer Science",104,190
+2002,Africans,N/A,"Computer Science",9,10
+2002,British,F,"Computer Science",243,341
+2002,British,M,"Computer Science",1158,1748
+2002,British,N/A,"Computer Science",58,90
+2002,EastEuropean,F,"Computer Science",48,95
+2002,EastEuropean,M,"Computer Science",235,519
+2002,EastEuropean,N/A,"Computer Science",7,10
+2002,GreaterEastAsian,F,"Computer Science",287,409
+2002,GreaterEastAsian,M,"Computer Science",699,1128
+2002,GreaterEastAsian,N/A,"Computer Science",232,360
+2002,IndianSubContinent,F,"Computer Science",110,164
+2002,IndianSubContinent,M,"Computer Science",609,946
+2002,IndianSubContinent,N/A,"Computer Science",87,123
+2002,Jewish,F,"Computer Science",155,239
+2002,Jewish,M,"Computer Science",694,1239
+2002,Jewish,N/A,"Computer Science",16,23
+2002,Muslim,F,"Computer Science",41,65
+2002,Muslim,M,"Computer Science",202,373
+2002,Muslim,N/A,"Computer Science",8,15
+2002,WestEuropean,F,"Computer Science",176,385
+2002,WestEuropean,M,"Computer Science",856,1949
+2002,WestEuropean,N/A,"Computer Science",28,38
+2003,Africans,F,"Computer Science",30,47
+2003,Africans,M,"Computer Science",129,222
+2003,Africans,N/A,"Computer Science",5,6
+2003,British,F,"Computer Science",286,389
+2003,British,M,"Computer Science",1412,2015
+2003,British,N/A,"Computer Science",61,85
+2003,EastEuropean,F,"Computer Science",90,136
+2003,EastEuropean,M,"Computer Science",325,612
+2003,EastEuropean,N/A,"Computer Science",9,10
+2003,GreaterEastAsian,F,"Computer Science",467,625
+2003,GreaterEastAsian,M,"Computer Science",1225,1644
+2003,GreaterEastAsian,N/A,"Computer Science",382,529
+2003,IndianSubContinent,F,"Computer Science",147,205
+2003,IndianSubContinent,M,"Computer Science",796,1188
+2003,IndianSubContinent,N/A,"Computer Science",92,153
+2003,Jewish,F,"Computer Science",171,252
+2003,Jewish,M,"Computer Science",923,1400
+2003,Jewish,N/A,"Computer Science",13,18
+2003,Muslim,F,"Computer Science",69,95
+2003,Muslim,M,"Computer Science",278,429
+2003,Muslim,N/A,"Computer Science",16,26
+2003,WestEuropean,F,"Computer Science",270,462
+2003,WestEuropean,M,"Computer Science",1309,2262
+2003,WestEuropean,N/A,"Computer Science",30,46
+2004,Africans,F,"Computer Science",27,46
+2004,Africans,M,"Computer Science",141,267
+2004,Africans,N/A,"Computer Science",7,14
+2004,British,F,"Computer Science",308,449
+2004,British,M,"Computer Science",1518,2229
+2004,British,N/A,"Computer Science",56,77
+2004,EastEuropean,F,"Computer Science",74,126
+2004,EastEuropean,M,"Computer Science",332,677
+2004,EastEuropean,N/A,"Computer Science",4,6
+2004,GreaterEastAsian,F,"Computer Science",559,856
+2004,GreaterEastAsian,M,"Computer Science",1208,1880
+2004,GreaterEastAsian,N/A,"Computer Science",394,637
+2004,IndianSubContinent,F,"Computer Science",152,208
+2004,IndianSubContinent,M,"Computer Science",935,1387
+2004,IndianSubContinent,N/A,"Computer Science",93,156
+2004,Jewish,F,"Computer Science",161,263
+2004,Jewish,M,"Computer Science",911,1539
+2004,Jewish,N/A,"Computer Science",9,14
+2004,Muslim,F,"Computer Science",59,114
+2004,Muslim,M,"Computer Science",276,499
+2004,Muslim,N/A,"Computer Science",14,27
+2004,WestEuropean,F,"Computer Science",221,463
+2004,WestEuropean,M,"Computer Science",1234,2495
+2004,WestEuropean,N/A,"Computer Science",28,52
+2005,Africans,F,"Computer Science",45,62
+2005,Africans,M,"Computer Science",196,329
+2005,Africans,N/A,"Computer Science",12,19
+2005,British,F,"Computer Science",425,561
+2005,British,M,"Computer Science",2018,2796
+2005,British,N/A,"Computer Science",79,109
+2005,EastEuropean,F,"Computer Science",128,176
+2005,EastEuropean,M,"Computer Science",506,889
+2005,EastEuropean,N/A,"Computer Science",1,4
+2005,GreaterEastAsian,F,"Computer Science",815,1127
+2005,GreaterEastAsian,M,"Computer Science",1868,2763
+2005,GreaterEastAsian,N/A,"Computer Science",547,824
+2005,IndianSubContinent,F,"Computer Science",195,268
+2005,IndianSubContinent,M,"Computer Science",1118,1535
+2005,IndianSubContinent,N/A,"Computer Science",141,190
+2005,Jewish,F,"Computer Science",211,321
+2005,Jewish,M,"Computer Science",1211,1872
+2005,Jewish,N/A,"Computer Science",20,33
+2005,Muslim,F,"Computer Science",94,139
+2005,Muslim,M,"Computer Science",432,639
+2005,Muslim,N/A,"Computer Science",25,35
+2005,WestEuropean,F,"Computer Science",368,612
+2005,WestEuropean,M,"Computer Science",1950,3156
+2005,WestEuropean,N/A,"Computer Science",47,65
+2006,Africans,F,"Computer Science",57,79
+2006,Africans,M,"Computer Science",194,351
+2006,Africans,N/A,"Computer Science",16,21
+2006,British,F,"Computer Science",433,567
+2006,British,M,"Computer Science",2002,2760
+2006,British,N/A,"Computer Science",87,118
+2006,EastEuropean,F,"Computer Science",113,160
+2006,EastEuropean,M,"Computer Science",480,848
+2006,EastEuropean,N/A,"Computer Science",6,12
+2006,GreaterEastAsian,F,"Computer Science",846,1152
+2006,GreaterEastAsian,M,"Computer Science",1904,2604
+2006,GreaterEastAsian,N/A,"Computer Science",613,858
+2006,IndianSubContinent,F,"Computer Science",211,283
+2006,IndianSubContinent,M,"Computer Science",1058,1556
+2006,IndianSubContinent,N/A,"Computer Science",135,199
+2006,Jewish,F,"Computer Science",252,374
+2006,Jewish,M,"Computer Science",1222,1917
+2006,Jewish,N/A,"Computer Science",26,35
+2006,Muslim,F,"Computer Science",105,164
+2006,Muslim,M,"Computer Science",441,686
+2006,Muslim,N/A,"Computer Science",23,35
+2006,WestEuropean,F,"Computer Science",366,641
+2006,WestEuropean,M,"Computer Science",1713,3043
+2006,WestEuropean,N/A,"Computer Science",47,74
+2007,Africans,F,"Computer Science",65,93
+2007,Africans,M,"Computer Science",260,419
+2007,Africans,N/A,"Computer Science",17,26
+2007,British,F,"Computer Science",421,534
+2007,British,M,"Computer Science",2258,3107
+2007,British,N/A,"Computer Science",94,119
+2007,EastEuropean,F,"Computer Science",134,202
+2007,EastEuropean,M,"Computer Science",536,880
+2007,EastEuropean,N/A,"Computer Science",11,18
+2007,GreaterEastAsian,F,"Computer Science",1119,1429
+2007,GreaterEastAsian,M,"Computer Science",2335,3117
+2007,GreaterEastAsian,N/A,"Computer Science",747,1013
+2007,IndianSubContinent,F,"Computer Science",241,301
+2007,IndianSubContinent,M,"Computer Science",1344,1858
+2007,IndianSubContinent,N/A,"Computer Science",177,252
+2007,Jewish,F,"Computer Science",248,366
+2007,Jewish,M,"Computer Science",1455,2143
+2007,Jewish,N/A,"Computer Science",25,35
+2007,Muslim,F,"Computer Science",95,156
+2007,Muslim,M,"Computer Science",603,869
+2007,Muslim,N/A,"Computer Science",20,41
+2007,WestEuropean,F,"Computer Science",465,738
+2007,WestEuropean,M,"Computer Science",2409,3895
+2007,WestEuropean,N/A,"Computer Science",61,89
+2008,Africans,F,"Computer Science",67,84
+2008,Africans,M,"Computer Science",230,399
+2008,Africans,N/A,"Computer Science",22,28
+2008,British,F,"Computer Science",446,573
+2008,British,M,"Computer Science",2196,3031
+2008,British,N/A,"Computer Science",79,102
+2008,EastEuropean,F,"Computer Science",126,194
+2008,EastEuropean,M,"Computer Science",547,977
+2008,EastEuropean,N/A,"Computer Science",8,18
+2008,GreaterEastAsian,F,"Computer Science",1131,1445
+2008,GreaterEastAsian,M,"Computer Science",2354,3122
+2008,GreaterEastAsian,N/A,"Computer Science",724,918
+2008,IndianSubContinent,F,"Computer Science",254,358
+2008,IndianSubContinent,M,"Computer Science",1344,1956
+2008,IndianSubContinent,N/A,"Computer Science",148,214
+2008,Jewish,F,"Computer Science",243,371
+2008,Jewish,M,"Computer Science",1367,2128
+2008,Jewish,N/A,"Computer Science",30,40
+2008,Muslim,F,"Computer Science",137,197
+2008,Muslim,M,"Computer Science",560,863
+2008,Muslim,N/A,"Computer Science",21,41
+2008,WestEuropean,F,"Computer Science",413,731
+2008,WestEuropean,M,"Computer Science",2201,3765
+2008,WestEuropean,N/A,"Computer Science",41,78
+2009,Africans,F,"Computer Science",69,89
+2009,Africans,M,"Computer Science",247,392
+2009,Africans,N/A,"Computer Science",11,24
+2009,British,F,"Computer Science",428,554
+2009,British,M,"Computer Science",2167,3011
+2009,British,N/A,"Computer Science",71,92
+2009,EastEuropean,F,"Computer Science",163,213
+2009,EastEuropean,M,"Computer Science",578,969
+2009,EastEuropean,N/A,"Computer Science",11,15
+2009,GreaterEastAsian,F,"Computer Science",1342,1707
+2009,GreaterEastAsian,M,"Computer Science",2871,3733
+2009,GreaterEastAsian,N/A,"Computer Science",979,1211
+2009,IndianSubContinent,F,"Computer Science",266,355
+2009,IndianSubContinent,M,"Computer Science",1403,1919
+2009,IndianSubContinent,N/A,"Computer Science",148,202
+2009,Jewish,F,"Computer Science",260,376
+2009,Jewish,M,"Computer Science",1351,2039
+2009,Jewish,N/A,"Computer Science",28,34
+2009,Muslim,F,"Computer Science",127,194
+2009,Muslim,M,"Computer Science",528,814
+2009,Muslim,N/A,"Computer Science",30,40
+2009,WestEuropean,F,"Computer Science",469,741
+2009,WestEuropean,M,"Computer Science",2403,3888
+2009,WestEuropean,N/A,"Computer Science",48,78
+2010,Africans,F,"Computer Science",61,91
+2010,Africans,M,"Computer Science",232,388
+2010,Africans,N/A,"Computer Science",20,28
+2010,British,F,"Computer Science",499,630
+2010,British,M,"Computer Science",2225,3043
+2010,British,N/A,"Computer Science",96,110
+2010,EastEuropean,F,"Computer Science",149,236
+2010,EastEuropean,M,"Computer Science",620,1110
+2010,EastEuropean,N/A,"Computer Science",8,12
+2010,GreaterEastAsian,F,"Computer Science",1428,1794
+2010,GreaterEastAsian,M,"Computer Science",2805,3642
+2010,GreaterEastAsian,N/A,"Computer Science",822,1030
+2010,IndianSubContinent,F,"Computer Science",269,346
+2010,IndianSubContinent,M,"Computer Science",1426,1973
+2010,IndianSubContinent,N/A,"Computer Science",132,189
+2010,Jewish,F,"Computer Science",270,403
+2010,Jewish,M,"Computer Science",1380,2144
+2010,Jewish,N/A,"Computer Science",24,36
+2010,Muslim,F,"Computer Science",158,243
+2010,Muslim,M,"Computer Science",587,899
+2010,Muslim,N/A,"Computer Science",24,40
+2010,WestEuropean,F,"Computer Science",503,800
+2010,WestEuropean,M,"Computer Science",2399,3991
+2010,WestEuropean,N/A,"Computer Science",53,77
+2011,Africans,F,"Computer Science",76,110
+2011,Africans,M,"Computer Science",312,438
+2011,Africans,N/A,"Computer Science",24,35
+2011,British,F,"Computer Science",619,767
+2011,British,M,"Computer Science",2861,3688
+2011,British,N/A,"Computer Science",87,110
+2011,EastEuropean,F,"Computer Science",175,248
+2011,EastEuropean,M,"Computer Science",757,1190
+2011,EastEuropean,N/A,"Computer Science",9,13
+2011,GreaterEastAsian,F,"Computer Science",1739,2113
+2011,GreaterEastAsian,M,"Computer Science",3658,4418
+2011,GreaterEastAsian,N/A,"Computer Science",1119,1351
+2011,IndianSubContinent,F,"Computer Science",370,475
+2011,IndianSubContinent,M,"Computer Science",1728,2231
+2011,IndianSubContinent,N/A,"Computer Science",187,241
+2011,Jewish,F,"Computer Science",344,473
+2011,Jewish,M,"Computer Science",1678,2360
+2011,Jewish,N/A,"Computer Science",24,32
+2011,Muslim,F,"Computer Science",170,240
+2011,Muslim,M,"Computer Science",742,1063
+2011,Muslim,N/A,"Computer Science",23,33
+2011,WestEuropean,F,"Computer Science",679,985
+2011,WestEuropean,M,"Computer Science",3084,4595
+2011,WestEuropean,N/A,"Computer Science",62,97
+2012,Africans,F,"Computer Science",88,124
+2012,Africans,M,"Computer Science",329,487
+2012,Africans,N/A,"Computer Science",29,46
+2012,British,F,"Computer Science",580,698
+2012,British,M,"Computer Science",2591,3421
+2012,British,N/A,"Computer Science",78,95
+2012,EastEuropean,F,"Computer Science",159,246
+2012,EastEuropean,M,"Computer Science",700,1169
+2012,EastEuropean,N/A,"Computer Science",6,7
+2012,GreaterEastAsian,F,"Computer Science",1873,2212
+2012,GreaterEastAsian,M,"Computer Science",3638,4502
+2012,GreaterEastAsian,N/A,"Computer Science",1103,1338
+2012,IndianSubContinent,F,"Computer Science",305,411
+2012,IndianSubContinent,M,"Computer Science",1559,2094
+2012,IndianSubContinent,N/A,"Computer Science",159,203
+2012,Jewish,F,"Computer Science",337,441
+2012,Jewish,M,"Computer Science",1493,2202
+2012,Jewish,N/A,"Computer Science",28,37
+2012,Muslim,F,"Computer Science",182,259
+2012,Muslim,M,"Computer Science",705,1056
+2012,Muslim,N/A,"Computer Science",33,43
+2012,WestEuropean,F,"Computer Science",718,1015
+2012,WestEuropean,M,"Computer Science",3053,4649
+2012,WestEuropean,N/A,"Computer Science",67,102
+2013,Africans,F,"Computer Science",96,130
+2013,Africans,M,"Computer Science",402,534
+2013,Africans,N/A,"Computer Science",29,39
+2013,British,F,"Computer Science",735,873
+2013,British,M,"Computer Science",3334,4224
+2013,British,N/A,"Computer Science",75,97
+2013,EastEuropean,F,"Computer Science",246,320
+2013,EastEuropean,M,"Computer Science",917,1455
+2013,EastEuropean,N/A,"Computer Science",15,15
+2013,GreaterEastAsian,F,"Computer Science",2511,2929
+2013,GreaterEastAsian,M,"Computer Science",4769,5718
+2013,GreaterEastAsian,N/A,"Computer Science",1468,1707
+2013,IndianSubContinent,F,"Computer Science",437,563
+2013,IndianSubContinent,M,"Computer Science",1954,2509
+2013,IndianSubContinent,N/A,"Computer Science",161,231
+2013,Jewish,F,"Computer Science",430,541
+2013,Jewish,M,"Computer Science",1993,2787
+2013,Jewish,N/A,"Computer Science",25,36
+2013,Muslim,F,"Computer Science",236,334
+2013,Muslim,M,"Computer Science",1004,1351
+2013,Muslim,N/A,"Computer Science",60,74
+2013,WestEuropean,F,"Computer Science",955,1226
+2013,WestEuropean,M,"Computer Science",4001,5626
+2013,WestEuropean,N/A,"Computer Science",67,104
+2014,Africans,F,"Computer Science",90,128
+2014,Africans,M,"Computer Science",363,538
+2014,Africans,N/A,"Computer Science",31,48
+2014,British,F,"Computer Science",713,854
+2014,British,M,"Computer Science",2987,3863
+2014,British,N/A,"Computer Science",77,100
+2014,EastEuropean,F,"Computer Science",226,308
+2014,EastEuropean,M,"Computer Science",808,1312
+2014,EastEuropean,N/A,"Computer Science",10,12
+2014,GreaterEastAsian,F,"Computer Science",2395,2837
+2014,GreaterEastAsian,M,"Computer Science",4506,5533
+2014,GreaterEastAsian,N/A,"Computer Science",1419,1650
+2014,IndianSubContinent,F,"Computer Science",366,510
+2014,IndianSubContinent,M,"Computer Science",1848,2508
+2014,IndianSubContinent,N/A,"Computer Science",174,228
+2014,Jewish,F,"Computer Science",379,513
+2014,Jewish,M,"Computer Science",1709,2468
+2014,Jewish,N/A,"Computer Science",15,27
+2014,Muslim,F,"Computer Science",234,335
+2014,Muslim,M,"Computer Science",936,1310
+2014,Muslim,N/A,"Computer Science",36,54
+2014,WestEuropean,F,"Computer Science",738,1075
+2014,WestEuropean,M,"Computer Science",3320,5150
+2014,WestEuropean,N/A,"Computer Science",54,83
+2015,Africans,F,"Computer Science",118,171
+2015,Africans,M,"Computer Science",473,649
+2015,Africans,N/A,"Computer Science",46,58
+2015,British,F,"Computer Science",746,879
+2015,British,M,"Computer Science",3554,4412
+2015,British,N/A,"Computer Science",82,96
+2015,EastEuropean,F,"Computer Science",287,359
+2015,EastEuropean,M,"Computer Science",1169,1723
+2015,EastEuropean,N/A,"Computer Science",9,10
+2015,GreaterEastAsian,F,"Computer Science",2908,3397
+2015,GreaterEastAsian,M,"Computer Science",5979,7079
+2015,GreaterEastAsian,N/A,"Computer Science",1707,1957
+2015,IndianSubContinent,F,"Computer Science",407,545
+2015,IndianSubContinent,M,"Computer Science",2129,2735
+2015,IndianSubContinent,N/A,"Computer Science",196,255
+2015,Jewish,F,"Computer Science",436,576
+2015,Jewish,M,"Computer Science",2093,2912
+2015,Jewish,N/A,"Computer Science",22,32
+2015,Muslim,F,"Computer Science",260,366
+2015,Muslim,M,"Computer Science",1085,1526
+2015,Muslim,N/A,"Computer Science",41,52
+2015,WestEuropean,F,"Computer Science",1047,1393
+2015,WestEuropean,M,"Computer Science",4619,6368
+2015,WestEuropean,N/A,"Computer Science",74,113
+2016,Africans,F,"Computer Science",127,164
+2016,Africans,M,"Computer Science",471,606
+2016,Africans,N/A,"Computer Science",40,53
+2016,British,F,"Computer Science",839,939
+2016,British,M,"Computer Science",3297,4016
+2016,British,N/A,"Computer Science",100,112
+2016,EastEuropean,F,"Computer Science",292,374
+2016,EastEuropean,M,"Computer Science",962,1437
+2016,EastEuropean,N/A,"Computer Science",15,18
+2016,GreaterEastAsian,F,"Computer Science",2958,3485
+2016,GreaterEastAsian,M,"Computer Science",5810,6957
+2016,GreaterEastAsian,N/A,"Computer Science",1621,1896
+2016,IndianSubContinent,F,"Computer Science",476,600
+2016,IndianSubContinent,M,"Computer Science",2092,2599
+2016,IndianSubContinent,N/A,"Computer Science",201,258
+2016,Jewish,F,"Computer Science",433,545
+2016,Jewish,M,"Computer Science",1837,2554
+2016,Jewish,N/A,"Computer Science",29,41
+2016,Muslim,F,"Computer Science",302,380
+2016,Muslim,M,"Computer Science",1086,1448
+2016,Muslim,N/A,"Computer Science",27,44
+2016,WestEuropean,F,"Computer Science",927,1226
+2016,WestEuropean,M,"Computer Science",3953,5504
+2016,WestEuropean,N/A,"Computer Science",83,107
+2000,Africans,F,"Data Engineering",4,23
+2000,Africans,M,"Data Engineering",32,168
+2000,Africans,N/A,"Data Engineering",1,6
+2000,British,F,"Data Engineering",35,323
+2000,British,M,"Data Engineering",188,1605
+2000,British,N/A,"Data Engineering",9,77
+2000,EastEuropean,F,"Data Engineering",12,72
+2000,EastEuropean,M,"Data Engineering",74,389
+2000,EastEuropean,N/A,"Data Engineering",3,6
+2000,GreaterEastAsian,F,"Data Engineering",51,287
+2000,GreaterEastAsian,M,"Data Engineering",170,876
+2000,GreaterEastAsian,N/A,"Data Engineering",87,294
+2000,IndianSubContinent,F,"Data Engineering",16,110
+2000,IndianSubContinent,M,"Data Engineering",155,762
+2000,IndianSubContinent,N/A,"Data Engineering",23,117
+2000,Jewish,F,"Data Engineering",34,204
+2000,Jewish,M,"Data Engineering",138,1089
+2000,Jewish,N/A,"Data Engineering",3,13
+2000,Muslim,F,"Data Engineering",13,41
+2000,Muslim,M,"Data Engineering",82,284
+2000,Muslim,N/A,"Data Engineering",5,20
+2000,WestEuropean,F,"Data Engineering",55,326
+2000,WestEuropean,M,"Data Engineering",312,1699
+2000,WestEuropean,N/A,"Data Engineering",4,34
+2001,Africans,F,"Data Engineering",1,19
+2001,Africans,M,"Data Engineering",51,210
+2001,Africans,N/A,"Data Engineering",1,14
+2001,British,F,"Data Engineering",54,380
+2001,British,M,"Data Engineering",215,1679
+2001,British,N/A,"Data Engineering",15,78
+2001,EastEuropean,F,"Data Engineering",12,91
+2001,EastEuropean,M,"Data Engineering",75,472
+2001,EastEuropean,N/A,"Data Engineering",1,5
+2001,GreaterEastAsian,F,"Data Engineering",97,371
+2001,GreaterEastAsian,M,"Data Engineering",282,1149
+2001,GreaterEastAsian,N/A,"Data Engineering",157,431
+2001,IndianSubContinent,F,"Data Engineering",40,148
+2001,IndianSubContinent,M,"Data Engineering",205,847
+2001,IndianSubContinent,N/A,"Data Engineering",23,107
+2001,Jewish,F,"Data Engineering",28,206
+2001,Jewish,M,"Data Engineering",193,1241
+2001,Jewish,N/A,"Data Engineering",3,12
+2001,Muslim,F,"Data Engineering",13,65
+2001,Muslim,M,"Data Engineering",82,343
+2001,Muslim,N/A,"Data Engineering",6,18
+2001,WestEuropean,F,"Data Engineering",72,382
+2001,WestEuropean,M,"Data Engineering",327,1926
+2001,WestEuropean,N/A,"Data Engineering",12,48
+2002,Africans,F,"Data Engineering",10,28
+2002,Africans,M,"Data Engineering",48,190
+2002,Africans,N/A,"Data Engineering",0,10
+2002,British,F,"Data Engineering",57,341
+2002,British,M,"Data Engineering",316,1748
+2002,British,N/A,"Data Engineering",30,90
+2002,EastEuropean,F,"Data Engineering",17,95
+2002,EastEuropean,M,"Data Engineering",124,519
+2002,EastEuropean,N/A,"Data Engineering",5,10
+2002,GreaterEastAsian,F,"Data Engineering",140,409
+2002,GreaterEastAsian,M,"Data Engineering",366,1128
+2002,GreaterEastAsian,N/A,"Data Engineering",141,360
+2002,IndianSubContinent,F,"Data Engineering",57,164
+2002,IndianSubContinent,M,"Data Engineering",290,946
+2002,IndianSubContinent,N/A,"Data Engineering",43,123
+2002,Jewish,F,"Data Engineering",36,239
+2002,Jewish,M,"Data Engineering",245,1239
+2002,Jewish,N/A,"Data Engineering",10,23
+2002,Muslim,F,"Data Engineering",19,65
+2002,Muslim,M,"Data Engineering",104,373
+2002,Muslim,N/A,"Data Engineering",6,15
+2002,WestEuropean,F,"Data Engineering",103,385
+2002,WestEuropean,M,"Data Engineering",498,1949
+2002,WestEuropean,N/A,"Data Engineering",12,38
+2003,Africans,F,"Data Engineering",13,47
+2003,Africans,M,"Data Engineering",35,222
+2003,Africans,N/A,"Data Engineering",0,6
+2003,British,F,"Data Engineering",50,389
+2003,British,M,"Data Engineering",248,2015
+2003,British,N/A,"Data Engineering",10,85
+2003,EastEuropean,F,"Data Engineering",26,136
+2003,EastEuropean,M,"Data Engineering",86,612
+2003,EastEuropean,N/A,"Data Engineering",0,10
+2003,GreaterEastAsian,F,"Data Engineering",148,625
+2003,GreaterEastAsian,M,"Data Engineering",275,1644
+2003,GreaterEastAsian,N/A,"Data Engineering",112,529
+2003,IndianSubContinent,F,"Data Engineering",34,205
+2003,IndianSubContinent,M,"Data Engineering",256,1188
+2003,IndianSubContinent,N/A,"Data Engineering",42,153
+2003,Jewish,F,"Data Engineering",36,252
+2003,Jewish,M,"Data Engineering",160,1400
+2003,Jewish,N/A,"Data Engineering",2,18
+2003,Muslim,F,"Data Engineering",13,95
+2003,Muslim,M,"Data Engineering",69,429
+2003,Muslim,N/A,"Data Engineering",6,26
+2003,WestEuropean,F,"Data Engineering",84,462
+2003,WestEuropean,M,"Data Engineering",359,2262
+2003,WestEuropean,N/A,"Data Engineering",5,46
+2004,Africans,F,"Data Engineering",12,46
+2004,Africans,M,"Data Engineering",67,267
+2004,Africans,N/A,"Data Engineering",4,14
+2004,British,F,"Data Engineering",65,449
+2004,British,M,"Data Engineering",365,2229
+2004,British,N/A,"Data Engineering",12,77
+2004,EastEuropean,F,"Data Engineering",23,126
+2004,EastEuropean,M,"Data Engineering",116,677
+2004,EastEuropean,N/A,"Data Engineering",1,6
+2004,GreaterEastAsian,F,"Data Engineering",280,856
+2004,GreaterEastAsian,M,"Data Engineering",555,1880
+2004,GreaterEastAsian,N/A,"Data Engineering",201,637
+2004,IndianSubContinent,F,"Data Engineering",39,208
+2004,IndianSubContinent,M,"Data Engineering",395,1387
+2004,IndianSubContinent,N/A,"Data Engineering",44,156
+2004,Jewish,F,"Data Engineering",57,263
+2004,Jewish,M,"Data Engineering",274,1539
+2004,Jewish,N/A,"Data Engineering",2,14
+2004,Muslim,F,"Data Engineering",31,114
+2004,Muslim,M,"Data Engineering",152,499
+2004,Muslim,N/A,"Data Engineering",12,27
+2004,WestEuropean,F,"Data Engineering",108,463
+2004,WestEuropean,M,"Data Engineering",554,2495
+2004,WestEuropean,N/A,"Data Engineering",18,52
+2005,Africans,F,"Data Engineering",15,62
+2005,Africans,M,"Data Engineering",76,329
+2005,Africans,N/A,"Data Engineering",7,19
+2005,British,F,"Data Engineering",73,561
+2005,British,M,"Data Engineering",343,2796
+2005,British,N/A,"Data Engineering",19,109
+2005,EastEuropean,F,"Data Engineering",23,176
+2005,EastEuropean,M,"Data Engineering",134,889
+2005,EastEuropean,N/A,"Data Engineering",1,4
+2005,GreaterEastAsian,F,"Data Engineering",317,1127
+2005,GreaterEastAsian,M,"Data Engineering",759,2763
+2005,GreaterEastAsian,N/A,"Data Engineering",238,824
+2005,IndianSubContinent,F,"Data Engineering",51,268
+2005,IndianSubContinent,M,"Data Engineering",332,1535
+2005,IndianSubContinent,N/A,"Data Engineering",51,190
+2005,Jewish,F,"Data Engineering",59,321
+2005,Jewish,M,"Data Engineering",272,1872
+2005,Jewish,N/A,"Data Engineering",5,33
+2005,Muslim,F,"Data Engineering",23,139
+2005,Muslim,M,"Data Engineering",128,639
+2005,Muslim,N/A,"Data Engineering",16,35
+2005,WestEuropean,F,"Data Engineering",109,612
+2005,WestEuropean,M,"Data Engineering",516,3156
+2005,WestEuropean,N/A,"Data Engineering",11,65
+2006,Africans,F,"Data Engineering",16,79
+2006,Africans,M,"Data Engineering",79,351
+2006,Africans,N/A,"Data Engineering",2,21
+2006,British,F,"Data Engineering",84,567
+2006,British,M,"Data Engineering",367,2760
+2006,British,N/A,"Data Engineering",18,118
+2006,EastEuropean,F,"Data Engineering",18,160
+2006,EastEuropean,M,"Data Engineering",148,848
+2006,EastEuropean,N/A,"Data Engineering",3,12
+2006,GreaterEastAsian,F,"Data Engineering",325,1152
+2006,GreaterEastAsian,M,"Data Engineering",582,2604
+2006,GreaterEastAsian,N/A,"Data Engineering",241,858
+2006,IndianSubContinent,F,"Data Engineering",57,283
+2006,IndianSubContinent,M,"Data Engineering",407,1556
+2006,IndianSubContinent,N/A,"Data Engineering",57,199
+2006,Jewish,F,"Data Engineering",57,374
+2006,Jewish,M,"Data Engineering",301,1917
+2006,Jewish,N/A,"Data Engineering",4,35
+2006,Muslim,F,"Data Engineering",30,164
+2006,Muslim,M,"Data Engineering",146,686
+2006,Muslim,N/A,"Data Engineering",11,35
+2006,WestEuropean,F,"Data Engineering",121,641
+2006,WestEuropean,M,"Data Engineering",578,3043
+2006,WestEuropean,N/A,"Data Engineering",18,74
+2007,Africans,F,"Data Engineering",27,93
+2007,Africans,M,"Data Engineering",107,419
+2007,Africans,N/A,"Data Engineering",5,26
+2007,British,F,"Data Engineering",69,534
+2007,British,M,"Data Engineering",380,3107
+2007,British,N/A,"Data Engineering",15,119
+2007,EastEuropean,F,"Data Engineering",34,202
+2007,EastEuropean,M,"Data Engineering",130,880
+2007,EastEuropean,N/A,"Data Engineering",9,18
+2007,GreaterEastAsian,F,"Data Engineering",361,1429
+2007,GreaterEastAsian,M,"Data Engineering",686,3117
+2007,GreaterEastAsian,N/A,"Data Engineering",260,1013
+2007,IndianSubContinent,F,"Data Engineering",41,301
+2007,IndianSubContinent,M,"Data Engineering",370,1858
+2007,IndianSubContinent,N/A,"Data Engineering",60,252
+2007,Jewish,F,"Data Engineering",66,366
+2007,Jewish,M,"Data Engineering",273,2143
+2007,Jewish,N/A,"Data Engineering",3,35
+2007,Muslim,F,"Data Engineering",28,156
+2007,Muslim,M,"Data Engineering",167,869
+2007,Muslim,N/A,"Data Engineering",20,41
+2007,WestEuropean,F,"Data Engineering",153,738
+2007,WestEuropean,M,"Data Engineering",707,3895
+2007,WestEuropean,N/A,"Data Engineering",20,89
+2008,Africans,F,"Data Engineering",16,84
+2008,Africans,M,"Data Engineering",96,399
+2008,Africans,N/A,"Data Engineering",6,28
+2008,British,F,"Data Engineering",90,573
+2008,British,M,"Data Engineering",421,3031
+2008,British,N/A,"Data Engineering",18,102
+2008,EastEuropean,F,"Data Engineering",44,194
+2008,EastEuropean,M,"Data Engineering",172,977
+2008,EastEuropean,N/A,"Data Engineering",7,18
+2008,GreaterEastAsian,F,"Data Engineering",338,1445
+2008,GreaterEastAsian,M,"Data Engineering",727,3122
+2008,GreaterEastAsian,N/A,"Data Engineering",199,918
+2008,IndianSubContinent,F,"Data Engineering",74,358
+2008,IndianSubContinent,M,"Data Engineering",446,1956
+2008,IndianSubContinent,N/A,"Data Engineering",50,214
+2008,Jewish,F,"Data Engineering",64,371
+2008,Jewish,M,"Data Engineering",310,2128
+2008,Jewish,N/A,"Data Engineering",4,40
+2008,Muslim,F,"Data Engineering",53,197
+2008,Muslim,M,"Data Engineering",210,863
+2008,Muslim,N/A,"Data Engineering",17,41
+2008,WestEuropean,F,"Data Engineering",174,731
+2008,WestEuropean,M,"Data Engineering",740,3765
+2008,WestEuropean,N/A,"Data Engineering",21,78
+2009,Africans,F,"Data Engineering",21,89
+2009,Africans,M,"Data Engineering",102,392
+2009,Africans,N/A,"Data Engineering",6,24
+2009,British,F,"Data Engineering",62,554
+2009,British,M,"Data Engineering",362,3011
+2009,British,N/A,"Data Engineering",19,92
+2009,EastEuropean,F,"Data Engineering",27,213
+2009,EastEuropean,M,"Data Engineering",142,969
+2009,EastEuropean,N/A,"Data Engineering",3,15
+2009,GreaterEastAsian,F,"Data Engineering",495,1707
+2009,GreaterEastAsian,M,"Data Engineering",929,3733
+2009,GreaterEastAsian,N/A,"Data Engineering",290,1211
+2009,IndianSubContinent,F,"Data Engineering",83,355
+2009,IndianSubContinent,M,"Data Engineering",386,1919
+2009,IndianSubContinent,N/A,"Data Engineering",32,202
+2009,Jewish,F,"Data Engineering",61,376
+2009,Jewish,M,"Data Engineering",264,2039
+2009,Jewish,N/A,"Data Engineering",6,34
+2009,Muslim,F,"Data Engineering",44,194
+2009,Muslim,M,"Data Engineering",154,814
+2009,Muslim,N/A,"Data Engineering",9,40
+2009,WestEuropean,F,"Data Engineering",119,741
+2009,WestEuropean,M,"Data Engineering",634,3888
+2009,WestEuropean,N/A,"Data Engineering",15,78
+2010,Africans,F,"Data Engineering",19,91
+2010,Africans,M,"Data Engineering",78,388
+2010,Africans,N/A,"Data Engineering",4,28
+2010,British,F,"Data Engineering",89,630
+2010,British,M,"Data Engineering",405,3043
+2010,British,N/A,"Data Engineering",14,110
+2010,EastEuropean,F,"Data Engineering",44,236
+2010,EastEuropean,M,"Data Engineering",205,1110
+2010,EastEuropean,N/A,"Data Engineering",5,12
+2010,GreaterEastAsian,F,"Data Engineering",481,1794
+2010,GreaterEastAsian,M,"Data Engineering",899,3642
+2010,GreaterEastAsian,N/A,"Data Engineering",234,1030
+2010,IndianSubContinent,F,"Data Engineering",54,346
+2010,IndianSubContinent,M,"Data Engineering",400,1973
+2010,IndianSubContinent,N/A,"Data Engineering",41,189
+2010,Jewish,F,"Data Engineering",62,403
+2010,Jewish,M,"Data Engineering",344,2144
+2010,Jewish,N/A,"Data Engineering",2,36
+2010,Muslim,F,"Data Engineering",54,243
+2010,Muslim,M,"Data Engineering",186,899
+2010,Muslim,N/A,"Data Engineering",8,40
+2010,WestEuropean,F,"Data Engineering",131,800
+2010,WestEuropean,M,"Data Engineering",723,3991
+2010,WestEuropean,N/A,"Data Engineering",14,77
+2011,Africans,F,"Data Engineering",22,110
+2011,Africans,M,"Data Engineering",85,438
+2011,Africans,N/A,"Data Engineering",9,35
+2011,British,F,"Data Engineering",83,767
+2011,British,M,"Data Engineering",408,3688
+2011,British,N/A,"Data Engineering",16,110
+2011,EastEuropean,F,"Data Engineering",53,248
+2011,EastEuropean,M,"Data Engineering",192,1190
+2011,EastEuropean,N/A,"Data Engineering",5,13
+2011,GreaterEastAsian,F,"Data Engineering",472,2113
+2011,GreaterEastAsian,M,"Data Engineering",883,4418
+2011,GreaterEastAsian,N/A,"Data Engineering",251,1351
+2011,IndianSubContinent,F,"Data Engineering",80,475
+2011,IndianSubContinent,M,"Data Engineering",371,2231
+2011,IndianSubContinent,N/A,"Data Engineering",48,241
+2011,Jewish,F,"Data Engineering",73,473
+2011,Jewish,M,"Data Engineering",288,2360
+2011,Jewish,N/A,"Data Engineering",2,32
+2011,Muslim,F,"Data Engineering",47,240
+2011,Muslim,M,"Data Engineering",185,1063
+2011,Muslim,N/A,"Data Engineering",7,33
+2011,WestEuropean,F,"Data Engineering",173,985
+2011,WestEuropean,M,"Data Engineering",893,4595
+2011,WestEuropean,N/A,"Data Engineering",21,97
+2012,Africans,F,"Data Engineering",31,124
+2012,Africans,M,"Data Engineering",89,487
+2012,Africans,N/A,"Data Engineering",16,46
+2012,British,F,"Data Engineering",76,698
+2012,British,M,"Data Engineering",434,3421
+2012,British,N/A,"Data Engineering",20,95
+2012,EastEuropean,F,"Data Engineering",53,246
+2012,EastEuropean,M,"Data Engineering",199,1169
+2012,EastEuropean,N/A,"Data Engineering",2,7
+2012,GreaterEastAsian,F,"Data Engineering",513,2212
+2012,GreaterEastAsian,M,"Data Engineering",1029,4502
+2012,GreaterEastAsian,N/A,"Data Engineering",318,1338
+2012,IndianSubContinent,F,"Data Engineering",75,411
+2012,IndianSubContinent,M,"Data Engineering",401,2094
+2012,IndianSubContinent,N/A,"Data Engineering",37,203
+2012,Jewish,F,"Data Engineering",61,441
+2012,Jewish,M,"Data Engineering",295,2202
+2012,Jewish,N/A,"Data Engineering",5,37
+2012,Muslim,F,"Data Engineering",53,259
+2012,Muslim,M,"Data Engineering",222,1056
+2012,Muslim,N/A,"Data Engineering",10,43
+2012,WestEuropean,F,"Data Engineering",166,1015
+2012,WestEuropean,M,"Data Engineering",841,4649
+2012,WestEuropean,N/A,"Data Engineering",25,102
+2013,Africans,F,"Data Engineering",25,130
+2013,Africans,M,"Data Engineering",89,534
+2013,Africans,N/A,"Data Engineering",5,39
+2013,British,F,"Data Engineering",77,873
+2013,British,M,"Data Engineering",485,4224
+2013,British,N/A,"Data Engineering",15,97
+2013,EastEuropean,F,"Data Engineering",53,320
+2013,EastEuropean,M,"Data Engineering",230,1455
+2013,EastEuropean,N/A,"Data Engineering",3,15
+2013,GreaterEastAsian,F,"Data Engineering",540,2929
+2013,GreaterEastAsian,M,"Data Engineering",992,5718
+2013,GreaterEastAsian,N/A,"Data Engineering",322,1707
+2013,IndianSubContinent,F,"Data Engineering",83,563
+2013,IndianSubContinent,M,"Data Engineering",402,2509
+2013,IndianSubContinent,N/A,"Data Engineering",46,231
+2013,Jewish,F,"Data Engineering",68,541
+2013,Jewish,M,"Data Engineering",375,2787
+2013,Jewish,N/A,"Data Engineering",4,36
+2013,Muslim,F,"Data Engineering",69,334
+2013,Muslim,M,"Data Engineering",232,1351
+2013,Muslim,N/A,"Data Engineering",11,74
+2013,WestEuropean,F,"Data Engineering",149,1226
+2013,WestEuropean,M,"Data Engineering",806,5626
+2013,WestEuropean,N/A,"Data Engineering",21,104
+2014,Africans,F,"Data Engineering",22,128
+2014,Africans,M,"Data Engineering",104,538
+2014,Africans,N/A,"Data Engineering",12,48
+2014,British,F,"Data Engineering",75,854
+2014,British,M,"Data Engineering",461,3863
+2014,British,N/A,"Data Engineering",11,100
+2014,EastEuropean,F,"Data Engineering",43,308
+2014,EastEuropean,M,"Data Engineering",205,1312
+2014,EastEuropean,N/A,"Data Engineering",3,12
+2014,GreaterEastAsian,F,"Data Engineering",592,2837
+2014,GreaterEastAsian,M,"Data Engineering",1053,5533
+2014,GreaterEastAsian,N/A,"Data Engineering",303,1650
+2014,IndianSubContinent,F,"Data Engineering",80,510
+2014,IndianSubContinent,M,"Data Engineering",396,2508
+2014,IndianSubContinent,N/A,"Data Engineering",47,228
+2014,Jewish,F,"Data Engineering",72,513
+2014,Jewish,M,"Data Engineering",315,2468
+2014,Jewish,N/A,"Data Engineering",1,27
+2014,Muslim,F,"Data Engineering",70,335
+2014,Muslim,M,"Data Engineering",230,1310
+2014,Muslim,N/A,"Data Engineering",19,54
+2014,WestEuropean,F,"Data Engineering",162,1075
+2014,WestEuropean,M,"Data Engineering",827,5150
+2014,WestEuropean,N/A,"Data Engineering",20,83
+2015,Africans,F,"Data Engineering",36,171
+2015,Africans,M,"Data Engineering",113,649
+2015,Africans,N/A,"Data Engineering",9,58
+2015,British,F,"Data Engineering",61,879
+2015,British,M,"Data Engineering",401,4412
+2015,British,N/A,"Data Engineering",9,96
+2015,EastEuropean,F,"Data Engineering",50,359
+2015,EastEuropean,M,"Data Engineering",205,1723
+2015,EastEuropean,N/A,"Data Engineering",1,10
+2015,GreaterEastAsian,F,"Data Engineering",568,3397
+2015,GreaterEastAsian,M,"Data Engineering",1066,7079
+2015,GreaterEastAsian,N/A,"Data Engineering",271,1957
+2015,IndianSubContinent,F,"Data Engineering",72,545
+2015,IndianSubContinent,M,"Data Engineering",331,2735
+2015,IndianSubContinent,N/A,"Data Engineering",35,255
+2015,Jewish,F,"Data Engineering",63,576
+2015,Jewish,M,"Data Engineering",331,2912
+2015,Jewish,N/A,"Data Engineering",5,32
+2015,Muslim,F,"Data Engineering",80,366
+2015,Muslim,M,"Data Engineering",244,1526
+2015,Muslim,N/A,"Data Engineering",13,52
+2015,WestEuropean,F,"Data Engineering",154,1393
+2015,WestEuropean,M,"Data Engineering",818,6368
+2015,WestEuropean,N/A,"Data Engineering",20,113
+2016,Africans,F,"Data Engineering",22,164
+2016,Africans,M,"Data Engineering",105,606
+2016,Africans,N/A,"Data Engineering",9,53
+2016,British,F,"Data Engineering",57,939
+2016,British,M,"Data Engineering",369,4016
+2016,British,N/A,"Data Engineering",18,112
+2016,EastEuropean,F,"Data Engineering",59,374
+2016,EastEuropean,M,"Data Engineering",204,1437
+2016,EastEuropean,N/A,"Data Engineering",3,18
+2016,GreaterEastAsian,F,"Data Engineering",670,3485
+2016,GreaterEastAsian,M,"Data Engineering",1222,6957
+2016,GreaterEastAsian,N/A,"Data Engineering",327,1896
+2016,IndianSubContinent,F,"Data Engineering",86,600
+2016,IndianSubContinent,M,"Data Engineering",397,2599
+2016,IndianSubContinent,N/A,"Data Engineering",34,258
+2016,Jewish,F,"Data Engineering",52,545
+2016,Jewish,M,"Data Engineering",280,2554
+2016,Jewish,N/A,"Data Engineering",3,41
+2016,Muslim,F,"Data Engineering",55,380
+2016,Muslim,M,"Data Engineering",255,1448
+2016,Muslim,N/A,"Data Engineering",11,44
+2016,WestEuropean,F,"Data Engineering",164,1226
+2016,WestEuropean,M,"Data Engineering",810,5504
+2016,WestEuropean,N/A,"Data Engineering",16,107
+2000,Africans,F,"Software Engineering",2,23
+2000,Africans,M,"Software Engineering",25,168
+2000,Africans,N/A,"Software Engineering",0,6
+2000,British,F,"Software Engineering",58,323
+2000,British,M,"Software Engineering",223,1605
+2000,British,N/A,"Software Engineering",15,77
+2000,EastEuropean,F,"Software Engineering",8,72
+2000,EastEuropean,M,"Software Engineering",38,389
+2000,EastEuropean,N/A,"Software Engineering",1,6
+2000,GreaterEastAsian,F,"Software Engineering",11,287
+2000,GreaterEastAsian,M,"Software Engineering",42,876
+2000,GreaterEastAsian,N/A,"Software Engineering",7,294
+2000,IndianSubContinent,F,"Software Engineering",11,110
+2000,IndianSubContinent,M,"Software Engineering",28,762
+2000,IndianSubContinent,N/A,"Software Engineering",6,117
+2000,Jewish,F,"Software Engineering",11,204
+2000,Jewish,M,"Software Engineering",98,1089
+2000,Jewish,N/A,"Software Engineering",5,13
+2000,Muslim,F,"Software Engineering",8,41
+2000,Muslim,M,"Software Engineering",28,284
+2000,Muslim,N/A,"Software Engineering",1,20
+2000,WestEuropean,F,"Software Engineering",48,326
+2000,WestEuropean,M,"Software Engineering",218,1699
+2000,WestEuropean,N/A,"Software Engineering",6,34
+2001,Africans,F,"Software Engineering",1,19
+2001,Africans,M,"Software Engineering",23,210
+2001,Africans,N/A,"Software Engineering",0,14
+2001,British,F,"Software Engineering",58,380
+2001,British,M,"Software Engineering",281,1679
+2001,British,N/A,"Software Engineering",12,78
+2001,EastEuropean,F,"Software Engineering",15,91
+2001,EastEuropean,M,"Software Engineering",59,472
+2001,EastEuropean,N/A,"Software Engineering",2,5
+2001,GreaterEastAsian,F,"Software Engineering",25,371
+2001,GreaterEastAsian,M,"Software Engineering",80,1149
+2001,GreaterEastAsian,N/A,"Software Engineering",16,431
+2001,IndianSubContinent,F,"Software Engineering",13,148
+2001,IndianSubContinent,M,"Software Engineering",42,847
+2001,IndianSubContinent,N/A,"Software Engineering",4,107
+2001,Jewish,F,"Software Engineering",12,206
+2001,Jewish,M,"Software Engineering",143,1241
+2001,Jewish,N/A,"Software Engineering",2,12
+2001,Muslim,F,"Software Engineering",12,65
+2001,Muslim,M,"Software Engineering",32,343
+2001,Muslim,N/A,"Software Engineering",0,18
+2001,WestEuropean,F,"Software Engineering",55,382
+2001,WestEuropean,M,"Software Engineering",278,1926
+2001,WestEuropean,N/A,"Software Engineering",13,48
+2002,Africans,F,"Software Engineering",0,28
+2002,Africans,M,"Software Engineering",18,190
+2002,Africans,N/A,"Software Engineering",3,10
+2002,British,F,"Software Engineering",41,341
+2002,British,M,"Software Engineering",221,1748
+2002,British,N/A,"Software Engineering",12,90
+2002,EastEuropean,F,"Software Engineering",13,95
+2002,EastEuropean,M,"Software Engineering",55,519
+2002,EastEuropean,N/A,"Software Engineering",2,10
+2002,GreaterEastAsian,F,"Software Engineering",28,409
+2002,GreaterEastAsian,M,"Software Engineering",120,1128
+2002,GreaterEastAsian,N/A,"Software Engineering",22,360
+2002,IndianSubContinent,F,"Software Engineering",11,164
+2002,IndianSubContinent,M,"Software Engineering",47,946
+2002,IndianSubContinent,N/A,"Software Engineering",2,123
+2002,Jewish,F,"Software Engineering",18,239
+2002,Jewish,M,"Software Engineering",123,1239
+2002,Jewish,N/A,"Software Engineering",2,23
+2002,Muslim,F,"Software Engineering",4,65
+2002,Muslim,M,"Software Engineering",56,373
+2002,Muslim,N/A,"Software Engineering",2,15
+2002,WestEuropean,F,"Software Engineering",64,385
+2002,WestEuropean,M,"Software Engineering",286,1949
+2002,WestEuropean,N/A,"Software Engineering",10,38
+2003,Africans,F,"Software Engineering",5,47
+2003,Africans,M,"Software Engineering",21,222
+2003,Africans,N/A,"Software Engineering",0,6
+2003,British,F,"Software Engineering",54,389
+2003,British,M,"Software Engineering",291,2015
+2003,British,N/A,"Software Engineering",11,85
+2003,EastEuropean,F,"Software Engineering",11,136
+2003,EastEuropean,M,"Software Engineering",67,612
+2003,EastEuropean,N/A,"Software Engineering",1,10
+2003,GreaterEastAsian,F,"Software Engineering",31,625
+2003,GreaterEastAsian,M,"Software Engineering",97,1644
+2003,GreaterEastAsian,N/A,"Software Engineering",14,529
+2003,IndianSubContinent,F,"Software Engineering",18,205
+2003,IndianSubContinent,M,"Software Engineering",64,1188
+2003,IndianSubContinent,N/A,"Software Engineering",8,153
+2003,Jewish,F,"Software Engineering",31,252
+2003,Jewish,M,"Software Engineering",135,1400
+2003,Jewish,N/A,"Software Engineering",2,18
+2003,Muslim,F,"Software Engineering",14,95
+2003,Muslim,M,"Software Engineering",47,429
+2003,Muslim,N/A,"Software Engineering",4,26
+2003,WestEuropean,F,"Software Engineering",65,462
+2003,WestEuropean,M,"Software Engineering",296,2262
+2003,WestEuropean,N/A,"Software Engineering",4,46
+2004,Africans,F,"Software Engineering",5,46
+2004,Africans,M,"Software Engineering",31,267
+2004,Africans,N/A,"Software Engineering",0,14
+2004,British,F,"Software Engineering",55,449
+2004,British,M,"Software Engineering",242,2229
+2004,British,N/A,"Software Engineering",5,77
+2004,EastEuropean,F,"Software Engineering",10,126
+2004,EastEuropean,M,"Software Engineering",68,677
+2004,EastEuropean,N/A,"Software Engineering",1,6
+2004,GreaterEastAsian,F,"Software Engineering",56,856
+2004,GreaterEastAsian,M,"Software Engineering",119,1880
+2004,GreaterEastAsian,N/A,"Software Engineering",31,637
+2004,IndianSubContinent,F,"Software Engineering",16,208
+2004,IndianSubContinent,M,"Software Engineering",83,1387
+2004,IndianSubContinent,N/A,"Software Engineering",4,156
+2004,Jewish,F,"Software Engineering",12,263
+2004,Jewish,M,"Software Engineering",118,1539
+2004,Jewish,N/A,"Software Engineering",0,14
+2004,Muslim,F,"Software Engineering",16,114
+2004,Muslim,M,"Software Engineering",50,499
+2004,Muslim,N/A,"Software Engineering",1,27
+2004,WestEuropean,F,"Software Engineering",65,463
+2004,WestEuropean,M,"Software Engineering",319,2495
+2004,WestEuropean,N/A,"Software Engineering",6,52
+2005,Africans,F,"Software Engineering",3,62
+2005,Africans,M,"Software Engineering",38,329
+2005,Africans,N/A,"Software Engineering",3,19
+2005,British,F,"Software Engineering",92,561
+2005,British,M,"Software Engineering",338,2796
+2005,British,N/A,"Software Engineering",14,109
+2005,EastEuropean,F,"Software Engineering",17,176
+2005,EastEuropean,M,"Software Engineering",103,889
+2005,EastEuropean,N/A,"Software Engineering",0,4
+2005,GreaterEastAsian,F,"Software Engineering",63,1127
+2005,GreaterEastAsian,M,"Software Engineering",160,2763
+2005,GreaterEastAsian,N/A,"Software Engineering",23,824
+2005,IndianSubContinent,F,"Software Engineering",20,268
+2005,IndianSubContinent,M,"Software Engineering",78,1535
+2005,IndianSubContinent,N/A,"Software Engineering",3,190
+2005,Jewish,F,"Software Engineering",21,321
+2005,Jewish,M,"Software Engineering",170,1872
+2005,Jewish,N/A,"Software Engineering",4,33
+2005,Muslim,F,"Software Engineering",16,139
+2005,Muslim,M,"Software Engineering",75,639
+2005,Muslim,N/A,"Software Engineering",2,35
+2005,WestEuropean,F,"Software Engineering",79,612
+2005,WestEuropean,M,"Software Engineering",376,3156
+2005,WestEuropean,N/A,"Software Engineering",4,65
+2006,Africans,F,"Software Engineering",3,79
+2006,Africans,M,"Software Engineering",33,351
+2006,Africans,N/A,"Software Engineering",1,21
+2006,British,F,"Software Engineering",68,567
+2006,British,M,"Software Engineering",293,2760
+2006,British,N/A,"Software Engineering",20,118
+2006,EastEuropean,F,"Software Engineering",8,160
+2006,EastEuropean,M,"Software Engineering",74,848
+2006,EastEuropean,N/A,"Software Engineering",2,12
+2006,GreaterEastAsian,F,"Software Engineering",87,1152
+2006,GreaterEastAsian,M,"Software Engineering",279,2604
+2006,GreaterEastAsian,N/A,"Software Engineering",56,858
+2006,IndianSubContinent,F,"Software Engineering",22,283
+2006,IndianSubContinent,M,"Software Engineering",78,1556
+2006,IndianSubContinent,N/A,"Software Engineering",10,199
+2006,Jewish,F,"Software Engineering",21,374
+2006,Jewish,M,"Software Engineering",189,1917
+2006,Jewish,N/A,"Software Engineering",9,35
+2006,Muslim,F,"Software Engineering",28,164
+2006,Muslim,M,"Software Engineering",61,686
+2006,Muslim,N/A,"Software Engineering",2,35
+2006,WestEuropean,F,"Software Engineering",94,641
+2006,WestEuropean,M,"Software Engineering",418,3043
+2006,WestEuropean,N/A,"Software Engineering",12,74
+2007,Africans,F,"Software Engineering",4,93
+2007,Africans,M,"Software Engineering",46,419
+2007,Africans,N/A,"Software Engineering",3,26
+2007,British,F,"Software Engineering",64,534
+2007,British,M,"Software Engineering",384,3107
+2007,British,N/A,"Software Engineering",10,119
+2007,EastEuropean,F,"Software Engineering",15,202
+2007,EastEuropean,M,"Software Engineering",67,880
+2007,EastEuropean,N/A,"Software Engineering",0,18
+2007,GreaterEastAsian,F,"Software Engineering",71,1429
+2007,GreaterEastAsian,M,"Software Engineering",170,3117
+2007,GreaterEastAsian,N/A,"Software Engineering",46,1013
+2007,IndianSubContinent,F,"Software Engineering",18,301
+2007,IndianSubContinent,M,"Software Engineering",107,1858
+2007,IndianSubContinent,N/A,"Software Engineering",16,252
+2007,Jewish,F,"Software Engineering",35,366
+2007,Jewish,M,"Software Engineering",201,2143
+2007,Jewish,N/A,"Software Engineering",7,35
+2007,Muslim,F,"Software Engineering",25,156
+2007,Muslim,M,"Software Engineering",99,869
+2007,Muslim,N/A,"Software Engineering",3,41
+2007,WestEuropean,F,"Software Engineering",107,738
+2007,WestEuropean,M,"Software Engineering",456,3895
+2007,WestEuropean,N/A,"Software Engineering",9,89
+2008,Africans,F,"Software Engineering",10,84
+2008,Africans,M,"Software Engineering",42,399
+2008,Africans,N/A,"Software Engineering",4,28
+2008,British,F,"Software Engineering",76,573
+2008,British,M,"Software Engineering",381,3031
+2008,British,N/A,"Software Engineering",8,102
+2008,EastEuropean,F,"Software Engineering",21,194
+2008,EastEuropean,M,"Software Engineering",91,977
+2008,EastEuropean,N/A,"Software Engineering",2,18
+2008,GreaterEastAsian,F,"Software Engineering",84,1445
+2008,GreaterEastAsian,M,"Software Engineering",207,3122
+2008,GreaterEastAsian,N/A,"Software Engineering",33,918
+2008,IndianSubContinent,F,"Software Engineering",25,358
+2008,IndianSubContinent,M,"Software Engineering",111,1956
+2008,IndianSubContinent,N/A,"Software Engineering",5,214
+2008,Jewish,F,"Software Engineering",31,371
+2008,Jewish,M,"Software Engineering",227,2128
+2008,Jewish,N/A,"Software Engineering",6,40
+2008,Muslim,F,"Software Engineering",26,197
+2008,Muslim,M,"Software Engineering",97,863
+2008,Muslim,N/A,"Software Engineering",1,41
+2008,WestEuropean,F,"Software Engineering",131,731
+2008,WestEuropean,M,"Software Engineering",608,3765
+2008,WestEuropean,N/A,"Software Engineering",10,78
+2009,Africans,F,"Software Engineering",11,89
+2009,Africans,M,"Software Engineering",44,392
+2009,Africans,N/A,"Software Engineering",6,24
+2009,British,F,"Software Engineering",105,554
+2009,British,M,"Software Engineering",413,3011
+2009,British,N/A,"Software Engineering",10,92
+2009,EastEuropean,F,"Software Engineering",20,213
+2009,EastEuropean,M,"Software Engineering",140,969
+2009,EastEuropean,N/A,"Software Engineering",3,15
+2009,GreaterEastAsian,F,"Software Engineering",87,1707
+2009,GreaterEastAsian,M,"Software Engineering",238,3733
+2009,GreaterEastAsian,N/A,"Software Engineering",45,1211
+2009,IndianSubContinent,F,"Software Engineering",33,355
+2009,IndianSubContinent,M,"Software Engineering",131,1919
+2009,IndianSubContinent,N/A,"Software Engineering",9,202
+2009,Jewish,F,"Software Engineering",45,376
+2009,Jewish,M,"Software Engineering",256,2039
+2009,Jewish,N/A,"Software Engineering",3,34
+2009,Muslim,F,"Software Engineering",36,194
+2009,Muslim,M,"Software Engineering",121,814
+2009,Muslim,N/A,"Software Engineering",3,40
+2009,WestEuropean,F,"Software Engineering",130,741
+2009,WestEuropean,M,"Software Engineering",655,3888
+2009,WestEuropean,N/A,"Software Engineering",11,78
+2010,Africans,F,"Software Engineering",14,91
+2010,Africans,M,"Software Engineering",52,388
+2010,Africans,N/A,"Software Engineering",6,28
+2010,British,F,"Software Engineering",81,630
+2010,British,M,"Software Engineering",356,3043
+2010,British,N/A,"Software Engineering",10,110
+2010,EastEuropean,F,"Software Engineering",31,236
+2010,EastEuropean,M,"Software Engineering",121,1110
+2010,EastEuropean,N/A,"Software Engineering",0,12
+2010,GreaterEastAsian,F,"Software Engineering",107,1794
+2010,GreaterEastAsian,M,"Software Engineering",207,3642
+2010,GreaterEastAsian,N/A,"Software Engineering",27,1030
+2010,IndianSubContinent,F,"Software Engineering",33,346
+2010,IndianSubContinent,M,"Software Engineering",112,1973
+2010,IndianSubContinent,N/A,"Software Engineering",16,189
+2010,Jewish,F,"Software Engineering",39,403
+2010,Jewish,M,"Software Engineering",211,2144
+2010,Jewish,N/A,"Software Engineering",6,36
+2010,Muslim,F,"Software Engineering",50,243
+2010,Muslim,M,"Software Engineering",117,899
+2010,Muslim,N/A,"Software Engineering",1,40
+2010,WestEuropean,F,"Software Engineering",137,800
+2010,WestEuropean,M,"Software Engineering",715,3991
+2010,WestEuropean,N/A,"Software Engineering",15,77
+2011,Africans,F,"Software Engineering",12,110
+2011,Africans,M,"Software Engineering",53,438
+2011,Africans,N/A,"Software Engineering",5,35
+2011,British,F,"Software Engineering",116,767
+2011,British,M,"Software Engineering",450,3688
+2011,British,N/A,"Software Engineering",5,110
+2011,EastEuropean,F,"Software Engineering",31,248
+2011,EastEuropean,M,"Software Engineering",152,1190
+2011,EastEuropean,N/A,"Software Engineering",0,13
+2011,GreaterEastAsian,F,"Software Engineering",127,2113
+2011,GreaterEastAsian,M,"Software Engineering",283,4418
+2011,GreaterEastAsian,N/A,"Software Engineering",66,1351
+2011,IndianSubContinent,F,"Software Engineering",55,475
+2011,IndianSubContinent,M,"Software Engineering",164,2231
+2011,IndianSubContinent,N/A,"Software Engineering",13,241
+2011,Jewish,F,"Software Engineering",39,473
+2011,Jewish,M,"Software Engineering",249,2360
+2011,Jewish,N/A,"Software Engineering",2,32
+2011,Muslim,F,"Software Engineering",39,240
+2011,Muslim,M,"Software Engineering",157,1063
+2011,Muslim,N/A,"Software Engineering",2,33
+2011,WestEuropean,F,"Software Engineering",130,985
+2011,WestEuropean,M,"Software Engineering",662,4595
+2011,WestEuropean,N/A,"Software Engineering",18,97
+2012,Africans,F,"Software Engineering",27,124
+2012,Africans,M,"Software Engineering",73,487
+2012,Africans,N/A,"Software Engineering",12,46
+2012,British,F,"Software Engineering",107,698
+2012,British,M,"Software Engineering",460,3421
+2012,British,N/A,"Software Engineering",6,95
+2012,EastEuropean,F,"Software Engineering",33,246
+2012,EastEuropean,M,"Software Engineering",147,1169
+2012,EastEuropean,N/A,"Software Engineering",2,7
+2012,GreaterEastAsian,F,"Software Engineering",143,2212
+2012,GreaterEastAsian,M,"Software Engineering",358,4502
+2012,GreaterEastAsian,N/A,"Software Engineering",54,1338
+2012,IndianSubContinent,F,"Software Engineering",41,411
+2012,IndianSubContinent,M,"Software Engineering",142,2094
+2012,IndianSubContinent,N/A,"Software Engineering",10,203
+2012,Jewish,F,"Software Engineering",49,441
+2012,Jewish,M,"Software Engineering",285,2202
+2012,Jewish,N/A,"Software Engineering",6,37
+2012,Muslim,F,"Software Engineering",45,259
+2012,Muslim,M,"Software Engineering",160,1056
+2012,Muslim,N/A,"Software Engineering",5,43
+2012,WestEuropean,F,"Software Engineering",198,1015
+2012,WestEuropean,M,"Software Engineering",912,4649
+2012,WestEuropean,N/A,"Software Engineering",23,102
+2013,Africans,F,"Software Engineering",22,130
+2013,Africans,M,"Software Engineering",55,534
+2013,Africans,N/A,"Software Engineering",12,39
+2013,British,F,"Software Engineering",140,873
+2013,British,M,"Software Engineering",516,4224
+2013,British,N/A,"Software Engineering",11,97
+2013,EastEuropean,F,"Software Engineering",35,320
+2013,EastEuropean,M,"Software Engineering",150,1455
+2013,EastEuropean,N/A,"Software Engineering",3,15
+2013,GreaterEastAsian,F,"Software Engineering",152,2929
+2013,GreaterEastAsian,M,"Software Engineering",380,5718
+2013,GreaterEastAsian,N/A,"Software Engineering",46,1707
+2013,IndianSubContinent,F,"Software Engineering",83,563
+2013,IndianSubContinent,M,"Software Engineering",217,2509
+2013,IndianSubContinent,N/A,"Software Engineering",27,231
+2013,Jewish,F,"Software Engineering",57,541
+2013,Jewish,M,"Software Engineering",275,2787
+2013,Jewish,N/A,"Software Engineering",2,36
+2013,Muslim,F,"Software Engineering",54,334
+2013,Muslim,M,"Software Engineering",175,1351
+2013,Muslim,N/A,"Software Engineering",10,74
+2013,WestEuropean,F,"Software Engineering",172,1226
+2013,WestEuropean,M,"Software Engineering",819,5626
+2013,WestEuropean,N/A,"Software Engineering",17,104
+2014,Africans,F,"Software Engineering",18,128
+2014,Africans,M,"Software Engineering",63,538
+2014,Africans,N/A,"Software Engineering",9,48
+2014,British,F,"Software Engineering",98,854
+2014,British,M,"Software Engineering",417,3863
+2014,British,N/A,"Software Engineering",8,100
+2014,EastEuropean,F,"Software Engineering",37,308
+2014,EastEuropean,M,"Software Engineering",162,1312
+2014,EastEuropean,N/A,"Software Engineering",4,12
+2014,GreaterEastAsian,F,"Software Engineering",177,2837
+2014,GreaterEastAsian,M,"Software Engineering",418,5533
+2014,GreaterEastAsian,N/A,"Software Engineering",74,1650
+2014,IndianSubContinent,F,"Software Engineering",90,510
+2014,IndianSubContinent,M,"Software Engineering",245,2508
+2014,IndianSubContinent,N/A,"Software Engineering",25,228
+2014,Jewish,F,"Software Engineering",45,513
+2014,Jewish,M,"Software Engineering",246,2468
+2014,Jewish,N/A,"Software Engineering",2,27
+2014,Muslim,F,"Software Engineering",51,335
+2014,Muslim,M,"Software Engineering",142,1310
+2014,Muslim,N/A,"Software Engineering",3,54
+2014,WestEuropean,F,"Software Engineering",160,1075
+2014,WestEuropean,M,"Software Engineering",804,5150
+2014,WestEuropean,N/A,"Software Engineering",14,83
+2015,Africans,F,"Software Engineering",22,171
+2015,Africans,M,"Software Engineering",83,649
+2015,Africans,N/A,"Software Engineering",11,58
+2015,British,F,"Software Engineering",129,879
+2015,British,M,"Software Engineering",538,4412
+2015,British,N/A,"Software Engineering",10,96
+2015,EastEuropean,F,"Software Engineering",50,359
+2015,EastEuropean,M,"Software Engineering",221,1723
+2015,EastEuropean,N/A,"Software Engineering",2,10
+2015,GreaterEastAsian,F,"Software Engineering",215,3397
+2015,GreaterEastAsian,M,"Software Engineering",466,7079
+2015,GreaterEastAsian,N/A,"Software Engineering",63,1957
+2015,IndianSubContinent,F,"Software Engineering",68,545
+2015,IndianSubContinent,M,"Software Engineering",234,2735
+2015,IndianSubContinent,N/A,"Software Engineering",22,255
+2015,Jewish,F,"Software Engineering",61,576
+2015,Jewish,M,"Software Engineering",329,2912
+2015,Jewish,N/A,"Software Engineering",4,32
+2015,Muslim,F,"Software Engineering",46,366
+2015,Muslim,M,"Software Engineering",191,1526
+2015,Muslim,N/A,"Software Engineering",3,52
+2015,WestEuropean,F,"Software Engineering",252,1393
+2015,WestEuropean,M,"Software Engineering",1075,6368
+2015,WestEuropean,N/A,"Software Engineering",17,113
+2016,Africans,F,"Software Engineering",22,164
+2016,Africans,M,"Software Engineering",72,606
+2016,Africans,N/A,"Software Engineering",13,53
+2016,British,F,"Software Engineering",81,939
+2016,British,M,"Software Engineering",420,4016
+2016,British,N/A,"Software Engineering",11,112
+2016,EastEuropean,F,"Software Engineering",26,374
+2016,EastEuropean,M,"Software Engineering",136,1437
+2016,EastEuropean,N/A,"Software Engineering",3,18
+2016,GreaterEastAsian,F,"Software Engineering",211,3485
+2016,GreaterEastAsian,M,"Software Engineering",486,6957
+2016,GreaterEastAsian,N/A,"Software Engineering",100,1896
+2016,IndianSubContinent,F,"Software Engineering",60,600
+2016,IndianSubContinent,M,"Software Engineering",198,2599
+2016,IndianSubContinent,N/A,"Software Engineering",16,258
+2016,Jewish,F,"Software Engineering",41,545
+2016,Jewish,M,"Software Engineering",232,2554
+2016,Jewish,N/A,"Software Engineering",6,41
+2016,Muslim,F,"Software Engineering",46,380
+2016,Muslim,M,"Software Engineering",168,1448
+2016,Muslim,N/A,"Software Engineering",3,44
+2016,WestEuropean,F,"Software Engineering",156,1226
+2016,WestEuropean,M,"Software Engineering",703,5504
+2016,WestEuropean,N/A,"Software Engineering",16,107
+2000,Africans,F,Theory,7,23
+2000,Africans,M,Theory,51,168
+2000,Africans,N/A,Theory,1,6
+2000,British,F,Theory,48,323
+2000,British,M,Theory,392,1605
+2000,British,N/A,Theory,16,77
+2000,EastEuropean,F,Theory,18,72
+2000,EastEuropean,M,Theory,156,389
+2000,EastEuropean,N/A,Theory,0,6
+2000,GreaterEastAsian,F,Theory,51,287
+2000,GreaterEastAsian,M,Theory,195,876
+2000,GreaterEastAsian,N/A,Theory,63,294
+2000,IndianSubContinent,F,Theory,27,110
+2000,IndianSubContinent,M,Theory,261,762
+2000,IndianSubContinent,N/A,Theory,40,117
+2000,Jewish,F,Theory,63,204
+2000,Jewish,M,Theory,425,1089
+2000,Jewish,N/A,Theory,1,13
+2000,Muslim,F,Theory,13,41
+2000,Muslim,M,Theory,78,284
+2000,Muslim,N/A,Theory,5,20
+2000,WestEuropean,F,Theory,108,326
+2000,WestEuropean,M,Theory,602,1699
+2000,WestEuropean,N/A,Theory,5,34
+2001,Africans,F,Theory,7,19
+2001,Africans,M,Theory,75,210
+2001,Africans,N/A,Theory,0,14
+2001,British,F,Theory,50,380
+2001,British,M,Theory,341,1679
+2001,British,N/A,Theory,5,78
+2001,EastEuropean,F,Theory,20,91
+2001,EastEuropean,M,Theory,190,472
+2001,EastEuropean,N/A,Theory,0,5
+2001,GreaterEastAsian,F,Theory,56,371
+2001,GreaterEastAsian,M,Theory,197,1149
+2001,GreaterEastAsian,N/A,Theory,67,431
+2001,IndianSubContinent,F,Theory,22,148
+2001,IndianSubContinent,M,Theory,258,847
+2001,IndianSubContinent,N/A,Theory,35,107
+2001,Jewish,F,Theory,68,206
+2001,Jewish,M,Theory,445,1241
+2001,Jewish,N/A,Theory,2,12
+2001,Muslim,F,Theory,10,65
+2001,Muslim,M,Theory,94,343
+2001,Muslim,N/A,Theory,5,18
+2001,WestEuropean,F,Theory,99,382
+2001,WestEuropean,M,Theory,563,1926
+2001,WestEuropean,N/A,Theory,1,48
+2002,Africans,F,Theory,6,28
+2002,Africans,M,Theory,63,190
+2002,Africans,N/A,Theory,1,10
+2002,British,F,Theory,40,341
+2002,British,M,Theory,352,1748
+2002,British,N/A,Theory,11,90
+2002,EastEuropean,F,Theory,25,95
+2002,EastEuropean,M,Theory,212,519
+2002,EastEuropean,N/A,Theory,0,10
+2002,GreaterEastAsian,F,Theory,45,409
+2002,GreaterEastAsian,M,Theory,202,1128
+2002,GreaterEastAsian,N/A,Theory,58,360
+2002,IndianSubContinent,F,Theory,30,164
+2002,IndianSubContinent,M,Theory,292,946
+2002,IndianSubContinent,N/A,Theory,44,123
+2002,Jewish,F,Theory,76,239
+2002,Jewish,M,Theory,468,1239
+2002,Jewish,N/A,Theory,1,23
+2002,Muslim,F,Theory,14,65
+2002,Muslim,M,Theory,100,373
+2002,Muslim,N/A,Theory,5,15
+2002,WestEuropean,F,Theory,94,385
+2002,WestEuropean,M,Theory,628,1949
+2002,WestEuropean,N/A,Theory,3,38
+2003,Africans,F,Theory,7,47
+2003,Africans,M,Theory,67,222
+2003,Africans,N/A,Theory,1,6
+2003,British,F,Theory,59,389
+2003,British,M,Theory,357,2015
+2003,British,N/A,Theory,13,85
+2003,EastEuropean,F,Theory,29,136
+2003,EastEuropean,M,Theory,217,612
+2003,EastEuropean,N/A,Theory,1,10
+2003,GreaterEastAsian,F,Theory,60,625
+2003,GreaterEastAsian,M,Theory,208,1644
+2003,GreaterEastAsian,N/A,Theory,76,529
+2003,IndianSubContinent,F,Theory,33,205
+2003,IndianSubContinent,M,Theory,308,1188
+2003,IndianSubContinent,N/A,Theory,39,153
+2003,Jewish,F,Theory,64,252
+2003,Jewish,M,Theory,471,1400
+2003,Jewish,N/A,Theory,1,18
+2003,Muslim,F,Theory,16,95
+2003,Muslim,M,Theory,106,429
+2003,Muslim,N/A,Theory,5,26
+2003,WestEuropean,F,Theory,101,462
+2003,WestEuropean,M,Theory,592,2262
+2003,WestEuropean,N/A,Theory,10,46
+2004,Africans,F,Theory,8,46
+2004,Africans,M,Theory,80,267
+2004,Africans,N/A,Theory,3,14
+2004,British,F,Theory,74,449
+2004,British,M,Theory,438,2229
+2004,British,N/A,Theory,12,77
+2004,EastEuropean,F,Theory,33,126
+2004,EastEuropean,M,Theory,275,677
+2004,EastEuropean,N/A,Theory,1,6
+2004,GreaterEastAsian,F,Theory,88,856
+2004,GreaterEastAsian,M,Theory,291,1880
+2004,GreaterEastAsian,N/A,Theory,79,637
+2004,IndianSubContinent,F,Theory,31,208
+2004,IndianSubContinent,M,Theory,338,1387
+2004,IndianSubContinent,N/A,Theory,51,156
+2004,Jewish,F,Theory,88,263
+2004,Jewish,M,Theory,554,1539
+2004,Jewish,N/A,Theory,6,14
+2004,Muslim,F,Theory,19,114
+2004,Muslim,M,Theory,133,499
+2004,Muslim,N/A,Theory,5,27
+2004,WestEuropean,F,Theory,115,463
+2004,WestEuropean,M,Theory,751,2495
+2004,WestEuropean,N/A,Theory,8,52
+2005,Africans,F,Theory,7,62
+2005,Africans,M,Theory,96,329
+2005,Africans,N/A,Theory,1,19
+2005,British,F,Theory,55,561
+2005,British,M,Theory,446,2796
+2005,British,N/A,Theory,14,109
+2005,EastEuropean,F,Theory,34,176
+2005,EastEuropean,M,Theory,305,889
+2005,EastEuropean,N/A,Theory,2,4
+2005,GreaterEastAsian,F,Theory,96,1127
+2005,GreaterEastAsian,M,Theory,313,2763
+2005,GreaterEastAsian,N/A,Theory,121,824
+2005,IndianSubContinent,F,Theory,40,268
+2005,IndianSubContinent,M,Theory,343,1535
+2005,IndianSubContinent,N/A,Theory,45,190
+2005,Jewish,F,Theory,90,321
+2005,Jewish,M,Theory,551,1872
+2005,Jewish,N/A,Theory,10,33
+2005,Muslim,F,Theory,28,139
+2005,Muslim,M,Theory,118,639
+2005,Muslim,N/A,Theory,1,35
+2005,WestEuropean,F,Theory,131,612
+2005,WestEuropean,M,Theory,772,3156
+2005,WestEuropean,N/A,Theory,11,65
+2006,Africans,F,Theory,10,79
+2006,Africans,M,Theory,106,351
+2006,Africans,N/A,Theory,3,21
+2006,British,F,Theory,55,567
+2006,British,M,Theory,440,2760
+2006,British,N/A,Theory,15,118
+2006,EastEuropean,F,Theory,40,160
+2006,EastEuropean,M,Theory,294,848
+2006,EastEuropean,N/A,Theory,1,12
+2006,GreaterEastAsian,F,Theory,88,1152
+2006,GreaterEastAsian,M,Theory,260,2604
+2006,GreaterEastAsian,N/A,Theory,90,858
+2006,IndianSubContinent,F,Theory,54,283
+2006,IndianSubContinent,M,Theory,354,1556
+2006,IndianSubContinent,N/A,Theory,36,199
+2006,Jewish,F,Theory,114,374
+2006,Jewish,M,Theory,547,1917
+2006,Jewish,N/A,Theory,6,35
+2006,Muslim,F,Theory,27,164
+2006,Muslim,M,Theory,162,686
+2006,Muslim,N/A,Theory,7,35
+2006,WestEuropean,F,Theory,130,641
+2006,WestEuropean,M,Theory,749,3043
+2006,WestEuropean,N/A,Theory,7,74
+2007,Africans,F,Theory,8,93
+2007,Africans,M,Theory,100,419
+2007,Africans,N/A,Theory,5,26
+2007,British,F,Theory,64,534
+2007,British,M,Theory,492,3107
+2007,British,N/A,Theory,18,119
+2007,EastEuropean,F,Theory,46,202
+2007,EastEuropean,M,Theory,278,880
+2007,EastEuropean,N/A,Theory,0,18
+2007,GreaterEastAsian,F,Theory,92,1429
+2007,GreaterEastAsian,M,Theory,333,3117
+2007,GreaterEastAsian,N/A,Theory,113,1013
+2007,IndianSubContinent,F,Theory,34,301
+2007,IndianSubContinent,M,Theory,364,1858
+2007,IndianSubContinent,N/A,Theory,37,252
+2007,Jewish,F,Theory,84,366
+2007,Jewish,M,Theory,561,2143
+2007,Jewish,N/A,Theory,6,35
+2007,Muslim,F,Theory,29,156
+2007,Muslim,M,Theory,162,869
+2007,Muslim,N/A,Theory,7,41
+2007,WestEuropean,F,Theory,132,738
+2007,WestEuropean,M,Theory,850,3895
+2007,WestEuropean,N/A,Theory,15,89
+2008,Africans,F,Theory,7,84
+2008,Africans,M,Theory,104,399
+2008,Africans,N/A,Theory,2,28
+2008,British,F,Theory,52,573
+2008,British,M,Theory,499,3031
+2008,British,N/A,Theory,15,102
+2008,EastEuropean,F,Theory,38,194
+2008,EastEuropean,M,Theory,323,977
+2008,EastEuropean,N/A,Theory,2,18
+2008,GreaterEastAsian,F,Theory,96,1445
+2008,GreaterEastAsian,M,Theory,309,3122
+2008,GreaterEastAsian,N/A,Theory,91,918
+2008,IndianSubContinent,F,Theory,56,358
+2008,IndianSubContinent,M,Theory,419,1956
+2008,IndianSubContinent,N/A,Theory,42,214
+2008,Jewish,F,Theory,101,371
+2008,Jewish,M,Theory,610,2128
+2008,Jewish,N/A,Theory,9,40
+2008,Muslim,F,Theory,25,197
+2008,Muslim,M,Theory,148,863
+2008,Muslim,N/A,Theory,14,41
+2008,WestEuropean,F,Theory,122,731
+2008,WestEuropean,M,Theory,827,3765
+2008,WestEuropean,N/A,Theory,17,78
+2009,Africans,F,Theory,7,89
+2009,Africans,M,Theory,84,392
+2009,Africans,N/A,Theory,1,24
+2009,British,F,Theory,60,554
+2009,British,M,Theory,504,3011
+2009,British,N/A,Theory,11,92
+2009,EastEuropean,F,Theory,32,213
+2009,EastEuropean,M,Theory,274,969
+2009,EastEuropean,N/A,Theory,0,15
+2009,GreaterEastAsian,F,Theory,99,1707
+2009,GreaterEastAsian,M,Theory,336,3733
+2009,GreaterEastAsian,N/A,Theory,106,1211
+2009,IndianSubContinent,F,Theory,40,355
+2009,IndianSubContinent,M,Theory,387,1919
+2009,IndianSubContinent,N/A,Theory,46,202
+2009,Jewish,F,Theory,82,376
+2009,Jewish,M,Theory,515,2039
+2009,Jewish,N/A,Theory,2,34
+2009,Muslim,F,Theory,29,194
+2009,Muslim,M,Theory,164,814
+2009,Muslim,N/A,Theory,7,40
+2009,WestEuropean,F,Theory,148,741
+2009,WestEuropean,M,Theory,830,3888
+2009,WestEuropean,N/A,Theory,17,78
+2010,Africans,F,Theory,9,91
+2010,Africans,M,Theory,98,388
+2010,Africans,N/A,Theory,2,28
+2010,British,F,Theory,59,630
+2010,British,M,Theory,518,3043
+2010,British,N/A,Theory,10,110
+2010,EastEuropean,F,Theory,48,236
+2010,EastEuropean,M,Theory,370,1110
+2010,EastEuropean,N/A,Theory,1,12
+2010,GreaterEastAsian,F,Theory,110,1794
+2010,GreaterEastAsian,M,Theory,304,3642
+2010,GreaterEastAsian,N/A,Theory,94,1030
+2010,IndianSubContinent,F,Theory,46,346
+2010,IndianSubContinent,M,Theory,437,1973
+2010,IndianSubContinent,N/A,Theory,30,189
+2010,Jewish,F,Theory,92,403
+2010,Jewish,M,Theory,596,2144
+2010,Jewish,N/A,Theory,8,36
+2010,Muslim,F,Theory,37,243
+2010,Muslim,M,Theory,165,899
+2010,Muslim,N/A,Theory,14,40
+2010,WestEuropean,F,Theory,153,800
+2010,WestEuropean,M,Theory,874,3991
+2010,WestEuropean,N/A,Theory,11,77
+2011,Africans,F,Theory,12,110
+2011,Africans,M,Theory,75,438
+2011,Africans,N/A,Theory,0,35
+2011,British,F,Theory,68,767
+2011,British,M,Theory,514,3688
+2011,British,N/A,Theory,18,110
+2011,EastEuropean,F,Theory,40,248
+2011,EastEuropean,M,Theory,306,1190
+2011,EastEuropean,N/A,Theory,1,13
+2011,GreaterEastAsian,F,Theory,100,2113
+2011,GreaterEastAsian,M,Theory,297,4418
+2011,GreaterEastAsian,N/A,Theory,102,1351
+2011,IndianSubContinent,F,Theory,38,475
+2011,IndianSubContinent,M,Theory,376,2231
+2011,IndianSubContinent,N/A,Theory,28,241
+2011,Jewish,F,Theory,92,473
+2011,Jewish,M,Theory,552,2360
+2011,Jewish,N/A,Theory,8,32
+2011,Muslim,F,Theory,32,240
+2011,Muslim,M,Theory,179,1063
+2011,Muslim,N/A,Theory,9,33
+2011,WestEuropean,F,Theory,142,985
+2011,WestEuropean,M,Theory,771,4595
+2011,WestEuropean,N/A,Theory,10,97
+2012,Africans,F,Theory,8,124
+2012,Africans,M,Theory,91,487
+2012,Africans,N/A,Theory,3,46
+2012,British,F,Theory,63,698
+2012,British,M,Theory,499,3421
+2012,British,N/A,Theory,10,95
+2012,EastEuropean,F,Theory,44,246
+2012,EastEuropean,M,Theory,363,1169
+2012,EastEuropean,N/A,Theory,0,7
+2012,GreaterEastAsian,F,Theory,103,2212
+2012,GreaterEastAsian,M,Theory,340,4502
+2012,GreaterEastAsian,N/A,Theory,101,1338
+2012,IndianSubContinent,F,Theory,58,411
+2012,IndianSubContinent,M,Theory,441,2094
+2012,IndianSubContinent,N/A,Theory,39,203
+2012,Jewish,F,Theory,78,441
+2012,Jewish,M,Theory,539,2202
+2012,Jewish,N/A,Theory,6,37
+2012,Muslim,F,Theory,39,259
+2012,Muslim,M,Theory,183,1056
+2012,Muslim,N/A,Theory,5,43
+2012,WestEuropean,F,Theory,132,1015
+2012,WestEuropean,M,Theory,863,4649
+2012,WestEuropean,N/A,Theory,11,102
+2013,Africans,F,Theory,11,130
+2013,Africans,M,Theory,67,534
+2013,Africans,N/A,Theory,1,39
+2013,British,F,Theory,50,873
+2013,British,M,Theory,567,4224
+2013,British,N/A,Theory,14,97
+2013,EastEuropean,F,Theory,28,320
+2013,EastEuropean,M,Theory,388,1455
+2013,EastEuropean,N/A,Theory,1,15
+2013,GreaterEastAsian,F,Theory,128,2929
+2013,GreaterEastAsian,M,Theory,316,5718
+2013,GreaterEastAsian,N/A,Theory,109,1707
+2013,IndianSubContinent,F,Theory,66,563
+2013,IndianSubContinent,M,Theory,406,2509
+2013,IndianSubContinent,N/A,Theory,34,231
+2013,Jewish,F,Theory,83,541
+2013,Jewish,M,Theory,634,2787
+2013,Jewish,N/A,Theory,11,36
+2013,Muslim,F,Theory,41,334
+2013,Muslim,M,Theory,185,1351
+2013,Muslim,N/A,Theory,7,74
+2013,WestEuropean,F,Theory,143,1226
+2013,WestEuropean,M,Theory,916,5626
+2013,WestEuropean,N/A,Theory,14,104
+2014,Africans,F,Theory,11,128
+2014,Africans,M,Theory,94,538
+2014,Africans,N/A,Theory,2,48
+2014,British,F,Theory,80,854
+2014,British,M,Theory,534,3863
+2014,British,N/A,Theory,13,100
+2014,EastEuropean,F,Theory,50,308
+2014,EastEuropean,M,Theory,365,1312
+2014,EastEuropean,N/A,Theory,2,12
+2014,GreaterEastAsian,F,Theory,130,2837
+2014,GreaterEastAsian,M,Theory,389,5533
+2014,GreaterEastAsian,N/A,Theory,101,1650
+2014,IndianSubContinent,F,Theory,73,510
+2014,IndianSubContinent,M,Theory,488,2508
+2014,IndianSubContinent,N/A,Theory,31,228
+2014,Jewish,F,Theory,91,513
+2014,Jewish,M,Theory,597,2468
+2014,Jewish,N/A,Theory,12,27
+2014,Muslim,F,Theory,40,335
+2014,Muslim,M,Theory,202,1310
+2014,Muslim,N/A,Theory,7,54
+2014,WestEuropean,F,Theory,158,1075
+2014,WestEuropean,M,Theory,887,5150
+2014,WestEuropean,N/A,Theory,9,83
+2015,Africans,F,Theory,22,171
+2015,Africans,M,Theory,87,649
+2015,Africans,N/A,Theory,4,58
+2015,British,F,Theory,70,879
+2015,British,M,Theory,561,4412
+2015,British,N/A,Theory,13,96
+2015,EastEuropean,F,Theory,35,359
+2015,EastEuropean,M,Theory,398,1723
+2015,EastEuropean,N/A,Theory,1,10
+2015,GreaterEastAsian,F,Theory,132,3397
+2015,GreaterEastAsian,M,Theory,408,7079
+2015,GreaterEastAsian,N/A,Theory,110,1957
+2015,IndianSubContinent,F,Theory,81,545
+2015,IndianSubContinent,M,Theory,460,2735
+2015,IndianSubContinent,N/A,Theory,32,255
+2015,Jewish,F,Theory,99,576
+2015,Jewish,M,Theory,618,2912
+2015,Jewish,N/A,Theory,8,32
+2015,Muslim,F,Theory,36,366
+2015,Muslim,M,Theory,261,1526
+2015,Muslim,N/A,Theory,5,52
+2015,WestEuropean,F,Theory,157,1393
+2015,WestEuropean,M,Theory,878,6368
+2015,WestEuropean,N/A,Theory,18,113
+2016,Africans,F,Theory,13,164
+2016,Africans,M,Theory,64,606
+2016,Africans,N/A,Theory,0,53
+2016,British,F,Theory,63,939
+2016,British,M,Theory,515,4016
+2016,British,N/A,Theory,6,112
+2016,EastEuropean,F,Theory,51,374
+2016,EastEuropean,M,Theory,359,1437
+2016,EastEuropean,N/A,Theory,3,18
+2016,GreaterEastAsian,F,Theory,115,3485
+2016,GreaterEastAsian,M,Theory,366,6957
+2016,GreaterEastAsian,N/A,Theory,81,1896
+2016,IndianSubContinent,F,Theory,73,600
+2016,IndianSubContinent,M,Theory,392,2599
+2016,IndianSubContinent,N/A,Theory,37,258
+2016,Jewish,F,Theory,97,545
+2016,Jewish,M,Theory,598,2554
+2016,Jewish,N/A,Theory,10,41
+2016,Muslim,F,Theory,34,380
+2016,Muslim,M,Theory,215,1448
+2016,Muslim,N/A,Theory,9,44
+2016,WestEuropean,F,Theory,158,1226
+2016,WestEuropean,M,Theory,939,5504
+2016,WestEuropean,N/A,Theory,14,107
