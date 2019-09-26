@@ -4,7 +4,7 @@ SELECT
 	FROM sigcas_ethnicity.papers as pap
 	INNER JOIN sigcas_ethnicity.conferences as conf
 	WHERE conf.conf_key = pap.conf_key)*100) AS Computer_Science, 
-(SUM(conf.de) / (SELECT 
+(SUM(conf.de) / (SELECT 	
 	SUM(conf.de) 
 	FROM sigcas_ethnicity.papers as pap
 	INNER JOIN sigcas_ethnicity.conferences as conf
