@@ -1,0 +1,69 @@
+ano,subarea,quantidade_subarea,qt_with_key_word
+2000,"Computer Science",2178,24
+2001,"Computer Science",2427,20
+2002,"Computer Science",2127,11
+2003,"Computer Science",3028,28
+2004,"Computer Science",2966,40
+2005,"Computer Science",4211,62
+2006,"Computer Science",4076,51
+2007,"Computer Science",4979,66
+2008,"Computer Science",4677,64
+2009,"Computer Science",4977,79
+2010,"Computer Science",4976,75
+2011,"Computer Science",6217,112
+2012,"Computer Science",5778,76
+2013,"Computer Science",7453,132
+2014,"Computer Science",6553,81
+2015,"Computer Science",8160,121
+2016,"Computer Science",7535,129
+2000,"Data Engineering",508,0
+2001,"Data Engineering",676,0
+2002,"Data Engineering",911,8
+2003,"Data Engineering",700,3
+2004,"Data Engineering",1088,5
+2005,"Data Engineering",1134,4
+2006,"Data Engineering",1167,1
+2007,"Data Engineering",1250,2
+2008,"Data Engineering",1349,10
+2009,"Data Engineering",1283,2
+2010,"Data Engineering",1320,6
+2011,"Data Engineering",1423,5
+2012,"Data Engineering",1433,4
+2013,"Data Engineering",1487,7
+2014,"Data Engineering",1398,6
+2015,"Data Engineering",1360,7
+2016,"Data Engineering",1384,12
+2000,"Software Engineering",381,0
+2001,"Software Engineering",458,0
+2002,"Software Engineering",444,1
+2003,"Software Engineering",506,6
+2004,"Software Engineering",499,2
+2005,"Software Engineering",653,5
+2006,"Software Engineering",687,1
+2007,"Software Engineering",719,0
+2008,"Software Engineering",773,4
+2009,"Software Engineering",824,3
+2010,"Software Engineering",805,6
+2011,"Software Engineering",905,5
+2012,"Software Engineering",1033,6
+2013,"Software Engineering",1057,12
+2014,"Software Engineering",1000,8
+2015,"Software Engineering",1229,8
+2016,"Software Engineering",917,9
+2000,Theory,1122,1
+2001,Theory,1116,2
+2002,Theory,1189,0
+2003,Theory,1182,0
+2004,Theory,1420,2
+2005,Theory,1461,4
+2006,Theory,1441,3
+2007,Theory,1476,1
+2008,Theory,1511,4
+2009,Theory,1424,0
+2010,Theory,1513,0
+2011,Theory,1371,2
+2012,Theory,1482,0
+2013,Theory,1514,0
+2014,Theory,1515,0
+2015,Theory,1574,4
+2016,Theory,1479,0
