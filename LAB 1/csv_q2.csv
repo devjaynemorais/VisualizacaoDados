@@ -1,97 +1,1633 @@
-subarea,genero,etnia,autores,prop_autores
-Computer Science,Feminino,Africans,1059,1.9337167899205698
-Computer Science,Feminino,British,8269,15.099059618369395
-Computer Science,Feminino,EastEuropean,2515,4.59234912809276
-Computer Science,Feminino,GreaterEastAsian,22871,41.76207431753857
-Computer Science,Feminino,IndianSubContinent,4399,8.032502510727655
-Computer Science,Feminino,Jewish,4619,8.434218935451474
-Computer Science,Feminino,Muslim,2327,4.249064183328769
-Computer Science,Feminino,WestEuropean,8706,15.897014516570804
-Computer Science,Masculino,Africans,4291,2.2038355263833678
-Computer Science,Masculino,British,37832,19.430320585909012
-Computer Science,Masculino,EastEuropean,9919,5.094347375016691
-Computer Science,Masculino,GreaterEastAsian,47047,24.16309718241862
-Computer Science,Masculino,IndianSubContinent,22478,11.544585169434942
-Computer Science,Masculino,Jewish,22782,11.700718005608456
-Computer Science,Masculino,Muslim,9871,5.069694821936664
-Computer Science,Masculino,WestEuropean,40486,20.79340133329225
-Computer Science,Não Informado,Africans,335,1.6624485137214033
-Computer Science,Não Informado,British,1293,6.416555009676939
-Computer Science,Não Informado,EastEuropean,134,0.6649794054885614
-Computer Science,Não Informado,GreaterEastAsian,14381,71.36618530097762
-Computer Science,Não Informado,IndianSubContinent,2379,11.805865713860355
-Computer Science,Não Informado,Jewish,347,1.7219989082427671
-Computer Science,Não Informado,Muslim,431,2.138851669892313
-Computer Science,Não Informado,WestEuropean,851,4.223115478140042
-Data Engineering,Feminino,Africans,312,2.3439260761775977
-Data Engineering,Feminino,British,1157,8.69205919915859
-Data Engineering,Feminino,EastEuropean,591,4.439936894297949
-Data Engineering,Feminino,GreaterEastAsian,6388,47.99038389302081
-Data Engineering,Feminino,IndianSubContinent,1022,7.67786041619713
-Data Engineering,Feminino,Jewish,949,7.129441815040193
-Data Engineering,Feminino,Muslim,695,5.221245586357148
-Data Engineering,Feminino,WestEuropean,2197,16.505146119750584
-Data Engineering,Masculino,Africans,1356,2.883327308681877
-Data Engineering,Masculino,British,6168,13.115311828871548
-Data Engineering,Masculino,EastEuropean,2641,5.615683939696782
-Data Engineering,Masculino,GreaterEastAsian,12475,26.52618597035871
-Data Engineering,Masculino,IndianSubContinent,5940,12.63050458227902
-Data Engineering,Masculino,Jewish,4658,9.904526993982437
-Data Engineering,Masculino,Muslim,2848,6.055837887261052
-Data Engineering,Masculino,WestEuropean,10943,23.268621488868572
-Data Engineering,Não Informado,Africans,96,1.7118402282453637
-Data Engineering,Não Informado,British,268,4.778887303851641
-Data Engineering,Não Informado,EastEuropean,55,0.9807417974322395
-Data Engineering,Não Informado,GreaterEastAsian,3952,70.47075606276746
-Data Engineering,Não Informado,IndianSubContinent,713,12.713980028530669
-Data Engineering,Não Informado,Jewish,64,1.1412268188302426
-Data Engineering,Não Informado,Muslim,187,3.3345221112696146
-Data Engineering,Não Informado,WestEuropean,273,4.868045649072753
-Software Engineering,Feminino,Africans,181,2.44462452728255
-Software Engineering,Feminino,British,1423,19.219340896812533
-Software Engineering,Feminino,EastEuropean,381,5.145867098865478
-Software Engineering,Feminino,GreaterEastAsian,1675,22.622906537007022
-Software Engineering,Feminino,IndianSubContinent,617,8.333333333333332
-Software Engineering,Feminino,Jewish,568,7.671528903295516
-Software Engineering,Feminino,Muslim,516,6.9692058346839545
-Software Engineering,Feminino,WestEuropean,2043,27.593192868719612
-Software Engineering,Masculino,Africans,772,2.581853449717401
-Software Engineering,Masculino,British,6224,20.815357345908165
-Software Engineering,Masculino,EastEuropean,1851,6.190428413765426
-Software Engineering,Masculino,GreaterEastAsian,4110,13.74535968696699
-Software Engineering,Masculino,IndianSubContinent,2081,6.959633457075014
-Software Engineering,Masculino,Jewish,3487,11.661817330524062
-Software Engineering,Masculino,Muslim,1776,5.939600682251429
-Software Engineering,Masculino,WestEuropean,9600,32.10594963379151
-Software Engineering,Não Informado,Africans,88,5.7441253263707575
-Software Engineering,Não Informado,British,178,11.618798955613578
-Software Engineering,Não Informado,EastEuropean,28,1.8276762402088773
-Software Engineering,Não Informado,GreaterEastAsian,723,47.193211488250654
-Software Engineering,Não Informado,IndianSubContinent,196,12.793733681462141
-Software Engineering,Não Informado,Jewish,68,4.43864229765013
-Software Engineering,Não Informado,Muslim,46,3.0026109660574414
-Software Engineering,Não Informado,WestEuropean,205,13.381201044386422
-Theory,Feminino,Africans,160,1.9216910881575788
-Theory,Feminino,British,1010,12.130674993994715
-Theory,Feminino,EastEuropean,611,7.338457842901754
-Theory,Feminino,GreaterEastAsian,1589,19.08479461926495
-Theory,Feminino,IndianSubContinent,802,9.632476579389863
-Theory,Feminino,Jewish,1462,17.559452318039874
-Theory,Feminino,Muslim,469,5.632957002161902
-Theory,Feminino,WestEuropean,2223,26.69949555608936
-Theory,Masculino,Africans,1402,2.745789267528398
-Theory,Masculino,British,7969,15.607128867998432
-Theory,Masculino,EastEuropean,5073,9.935370152761456
-Theory,Masculino,GreaterEastAsian,5064,9.917743830787309
-Theory,Masculino,IndianSubContinent,6324,12.385428907168038
-Theory,Masculino,Jewish,9281,18.17665491578535
-Theory,Masculino,Muslim,2655,5.199764982373678
-Theory,Masculino,WestEuropean,13292,26.032119075597336
-Theory,Não Informado,Africans,30,1.0442046641141665
-Theory,Não Informado,British,214,7.4486599373477205
-Theory,Não Informado,EastEuropean,16,0.5569091541942222
-Theory,Não Informado,GreaterEastAsian,1562,54.36825617821093
-Theory,Não Informado,IndianSubContinent,646,22.485207100591715
-Theory,Não Informado,Jewish,107,3.7243299686738602
-Theory,Não Informado,Muslim,117,4.072398190045249
-Theory,Não Informado,WestEuropean,181,6.300034806822137
+subarea,genero,etnia,ano,autores,prop_autores
+Computer Science,Feminino,Africans,2000,14,1.3220018885741265
+Computer Science,Feminino,Africans,2001,11,1.0387157695939566
+Computer Science,Feminino,Africans,2002,18,1.69971671388102
+Computer Science,Feminino,Africans,2003,30,2.8328611898017
+Computer Science,Feminino,Africans,2004,27,2.5495750708215295
+Computer Science,Feminino,Africans,2005,45,4.2492917847025495
+Computer Science,Feminino,Africans,2006,57,5.382436260623229
+Computer Science,Feminino,Africans,2007,65,6.137865911237016
+Computer Science,Feminino,Africans,2008,67,6.326723323890462
+Computer Science,Feminino,Africans,2009,69,6.515580736543909
+Computer Science,Feminino,Africans,2010,61,5.760151085930123
+Computer Science,Feminino,Africans,2011,76,7.176581680830972
+Computer Science,Feminino,Africans,2012,88,8.309726156751653
+Computer Science,Feminino,Africans,2013,96,9.06515580736544
+Computer Science,Feminino,Africans,2014,90,8.498583569405099
+Computer Science,Feminino,Africans,2015,118,11.142587346553352
+Computer Science,Feminino,Africans,2016,127,11.992445703493862
+Computer Science,Feminino,British,2000,261,3.1563671544322167
+Computer Science,Feminino,British,2001,287,3.470794533800943
+Computer Science,Feminino,British,2002,243,2.9386866610230986
+Computer Science,Feminino,British,2003,286,3.4587011730559927
+Computer Science,Feminino,British,2004,308,3.7247551094449145
+Computer Science,Feminino,British,2005,425,5.139678316604184
+Computer Science,Feminino,British,2006,433,5.236425202563792
+Computer Science,Feminino,British,2007,421,5.091304873624381
+Computer Science,Feminino,British,2008,446,5.3936388922481555
+Computer Science,Feminino,British,2009,428,5.175958398839038
+Computer Science,Feminino,British,2010,499,6.03458701173056
+Computer Science,Feminino,British,2011,619,7.485790301124682
+Computer Science,Feminino,British,2012,580,7.014149232071593
+Computer Science,Feminino,British,2013,735,8.888620147539001
+Computer Science,Feminino,British,2014,713,8.62256621115008
+Computer Science,Feminino,British,2015,746,9.021647115733462
+Computer Science,Feminino,British,2016,839,10.146329665013907
+Computer Science,Feminino,EastEuropean,2000,47,1.8687872763419482
+Computer Science,Feminino,EastEuropean,2001,58,2.3061630218687874
+Computer Science,Feminino,EastEuropean,2002,48,1.9085487077534793
+Computer Science,Feminino,EastEuropean,2003,90,3.5785288270377733
+Computer Science,Feminino,EastEuropean,2004,74,2.94234592445328
+Computer Science,Feminino,EastEuropean,2005,128,5.0894632206759445
+Computer Science,Feminino,EastEuropean,2006,113,4.493041749502982
+Computer Science,Feminino,EastEuropean,2007,134,5.328031809145129
+Computer Science,Feminino,EastEuropean,2008,126,5.009940357852883
+Computer Science,Feminino,EastEuropean,2009,163,6.4811133200795235
+Computer Science,Feminino,EastEuropean,2010,149,5.924453280318091
+Computer Science,Feminino,EastEuropean,2011,175,6.958250497017893
+Computer Science,Feminino,EastEuropean,2012,159,6.322067594433399
+Computer Science,Feminino,EastEuropean,2013,246,9.78131212723658
+Computer Science,Feminino,EastEuropean,2014,226,8.986083499005964
+Computer Science,Feminino,EastEuropean,2015,287,11.411530815109344
+Computer Science,Feminino,EastEuropean,2016,292,11.610337972166999
+Computer Science,Feminino,GreaterEastAsian,2000,228,0.9968956320230861
+Computer Science,Feminino,GreaterEastAsian,2001,265,1.1586725547636745
+Computer Science,Feminino,GreaterEastAsian,2002,287,1.2548642385553759
+Computer Science,Feminino,GreaterEastAsian,2003,467,2.0418871059420227
+Computer Science,Feminino,GreaterEastAsian,2004,559,2.4441432381618644
+Computer Science,Feminino,GreaterEastAsian,2005,815,3.5634646495562063
+Computer Science,Feminino,GreaterEastAsian,2006,846,3.69900747671724
+Computer Science,Feminino,GreaterEastAsian,2007,1119,4.892658825586988
+Computer Science,Feminino,GreaterEastAsian,2008,1131,4.945127016746097
+Computer Science,Feminino,GreaterEastAsian,2009,1342,5.8676927112937785
+Computer Science,Feminino,GreaterEastAsian,2010,1428,6.243714747934065
+Computer Science,Feminino,GreaterEastAsian,2011,1739,7.603515368807661
+Computer Science,Feminino,GreaterEastAsian,2012,1873,8.189410170084386
+Computer Science,Feminino,GreaterEastAsian,2013,2511,10.978969000043723
+Computer Science,Feminino,GreaterEastAsian,2014,2395,10.471776485505663
+Computer Science,Feminino,GreaterEastAsian,2015,2908,12.714791657557607
+Computer Science,Feminino,GreaterEastAsian,2016,2958,12.933409120720562
+Computer Science,Feminino,IndianSubContinent,2000,83,1.8867924528301887
+Computer Science,Feminino,IndianSubContinent,2001,110,2.500568310979768
+Computer Science,Feminino,IndianSubContinent,2002,110,2.500568310979768
+Computer Science,Feminino,IndianSubContinent,2003,147,3.3416685610365997
+Computer Science,Feminino,IndianSubContinent,2004,152,3.4553307569902247
+Computer Science,Feminino,IndianSubContinent,2005,195,4.432825642191407
+Computer Science,Feminino,IndianSubContinent,2006,211,4.796544669243009
+Computer Science,Feminino,IndianSubContinent,2007,241,5.478517844964765
+Computer Science,Feminino,IndianSubContinent,2008,254,5.774039554444192
+Computer Science,Feminino,IndianSubContinent,2009,266,6.046828824732894
+Computer Science,Feminino,IndianSubContinent,2010,269,6.115026142305069
+Computer Science,Feminino,IndianSubContinent,2011,370,8.411002500568312
+Computer Science,Feminino,IndianSubContinent,2012,305,6.9333939531711755
+Computer Science,Feminino,IndianSubContinent,2013,437,9.934075926346896
+Computer Science,Feminino,IndianSubContinent,2014,366,8.320072743805412
+Computer Science,Feminino,IndianSubContinent,2015,407,9.252102750625141
+Computer Science,Feminino,IndianSubContinent,2016,476,10.820641054785177
+Computer Science,Feminino,Jewish,2000,143,3.0959082052392293
+Computer Science,Feminino,Jewish,2001,146,3.1608573284260664
+Computer Science,Feminino,Jewish,2002,155,3.3557046979865772
+Computer Science,Feminino,Jewish,2003,171,3.7021000216497075
+Computer Science,Feminino,Jewish,2004,161,3.4856029443602514
+Computer Science,Feminino,Jewish,2005,211,4.568088330807534
+Computer Science,Feminino,Jewish,2006,252,5.4557263476943065
+Computer Science,Feminino,Jewish,2007,248,5.369127516778524
+Computer Science,Feminino,Jewish,2008,243,5.260878978133795
+Computer Science,Feminino,Jewish,2009,260,5.628924009525871
+Computer Science,Feminino,Jewish,2010,270,5.845421086815328
+Computer Science,Feminino,Jewish,2011,344,7.4474994587573065
+Computer Science,Feminino,Jewish,2012,337,7.295951504654687
+Computer Science,Feminino,Jewish,2013,430,9.309374323446633
+Computer Science,Feminino,Jewish,2014,379,8.205239229270404
+Computer Science,Feminino,Jewish,2015,436,9.439272569820307
+Computer Science,Feminino,Jewish,2016,433,9.37432344663347
+Computer Science,Feminino,Muslim,2000,18,0.7735281478298238
+Computer Science,Feminino,Muslim,2001,40,1.7189514396218308
+Computer Science,Feminino,Muslim,2002,41,1.7619252256123763
+Computer Science,Feminino,Muslim,2003,69,2.965191233347658
+Computer Science,Feminino,Muslim,2004,59,2.5354533734422002
+Computer Science,Feminino,Muslim,2005,94,4.039535883111302
+Computer Science,Feminino,Muslim,2006,105,4.512247529007306
+Computer Science,Feminino,Muslim,2007,95,4.082509669101848
+Computer Science,Feminino,Muslim,2008,137,5.88740868070477
+Computer Science,Feminino,Muslim,2009,127,5.457670820799312
+Computer Science,Feminino,Muslim,2010,158,6.7898581865062315
+Computer Science,Feminino,Muslim,2011,170,7.305543618392781
+Computer Science,Feminino,Muslim,2012,182,7.82122905027933
+Computer Science,Feminino,Muslim,2013,236,10.141813493768801
+Computer Science,Feminino,Muslim,2014,234,10.05586592178771
+Computer Science,Feminino,Muslim,2015,260,11.1731843575419
+Computer Science,Feminino,Muslim,2016,302,12.978083369144821
+Computer Science,Feminino,WestEuropean,2000,172,1.9756489777165174
+Computer Science,Feminino,WestEuropean,2001,219,2.5155065472088216
+Computer Science,Feminino,WestEuropean,2002,176,2.0215943027796923
+Computer Science,Feminino,WestEuropean,2003,270,3.1013094417643003
+Computer Science,Feminino,WestEuropean,2004,221,2.5384792097404087
+Computer Science,Feminino,WestEuropean,2005,368,4.2269699058120835
+Computer Science,Feminino,WestEuropean,2006,366,4.203997243280496
+Computer Science,Feminino,WestEuropean,2007,465,5.341144038594073
+Computer Science,Feminino,WestEuropean,2008,413,4.743854812772801
+Computer Science,Feminino,WestEuropean,2009,469,5.387089363657248
+Computer Science,Feminino,WestEuropean,2010,503,5.777624626694234
+Computer Science,Feminino,WestEuropean,2011,679,7.799218929473926
+Computer Science,Feminino,WestEuropean,2012,718,8.24718584883988
+Computer Science,Feminino,WestEuropean,2013,955,10.96944635883299
+Computer Science,Feminino,WestEuropean,2014,738,8.476912474155755
+Computer Science,Feminino,WestEuropean,2015,1047,12.02618883528601
+Computer Science,Feminino,WestEuropean,2016,927,10.647829083390766
+Computer Science,Masculino,Africans,2000,90,2.0974131903985085
+Computer Science,Masculino,Africans,2001,118,2.7499417385224887
+Computer Science,Masculino,Africans,2002,104,2.4236774644604986
+Computer Science,Masculino,Africans,2003,129,3.0062922395711955
+Computer Science,Masculino,Africans,2004,141,3.2859473316243304
+Computer Science,Masculino,Africans,2005,196,4.567699836867863
+Computer Science,Masculino,Africans,2006,194,4.521090654859007
+Computer Science,Masculino,Africans,2007,260,6.059193661151246
+Computer Science,Masculino,Africans,2008,230,5.360055931018411
+Computer Science,Masculino,Africans,2009,247,5.756233978093685
+Computer Science,Masculino,Africans,2010,232,5.406665113027266
+Computer Science,Masculino,Africans,2011,312,7.271032393381496
+Computer Science,Masculino,Africans,2012,329,7.6672104404567705
+Computer Science,Masculino,Africans,2013,402,9.368445583780005
+Computer Science,Masculino,Africans,2014,363,8.459566534607317
+Computer Science,Masculino,Africans,2015,473,11.023071545094384
+Computer Science,Masculino,Africans,2016,471,10.976462363085528
+Computer Science,Masculino,British,2000,1126,2.9763163459505177
+Computer Science,Masculino,British,2001,1128,2.9816028758722775
+Computer Science,Masculino,British,2002,1158,3.0609008246986678
+Computer Science,Masculino,British,2003,1412,3.7322901247621063
+Computer Science,Masculino,British,2004,1518,4.012476210615352
+Computer Science,Masculino,British,2005,2018,5.334108691055191
+Computer Science,Masculino,British,2006,2002,5.291816451681116
+Computer Science,Masculino,British,2007,2258,5.968492281666314
+Computer Science,Masculino,British,2008,2196,5.804609854091773
+Computer Science,Masculino,British,2009,2167,5.727955170226264
+Computer Science,Masculino,British,2010,2225,5.881264537957285
+Computer Science,Masculino,British,2011,2861,7.562381053076761
+Computer Science,Masculino,British,2012,2591,6.8486995136392474
+Computer Science,Masculino,British,2013,3334,8.81264537957285
+Computer Science,Masculino,British,2014,2987,7.8954324381475995
+Computer Science,Masculino,British,2015,3554,9.394163670966378
+Computer Science,Masculino,British,2016,3297,8.714844576020301
+Computer Science,Masculino,EastEuropean,2000,209,2.107067244681924
+Computer Science,Masculino,EastEuropean,2001,238,2.399435426958363
+Computer Science,Masculino,EastEuropean,2002,235,2.369190442584938
+Computer Science,Masculino,EastEuropean,2003,325,3.2765399737876804
+Computer Science,Masculino,EastEuropean,2004,332,3.347111603992338
+Computer Science,Masculino,EastEuropean,2005,506,5.101320697650973
+Computer Science,Masculino,EastEuropean,2006,480,4.839197499747958
+Computer Science,Masculino,EastEuropean,2007,536,5.40377054138522
+Computer Science,Masculino,EastEuropean,2008,547,5.514668817421111
+Computer Science,Masculino,EastEuropean,2009,578,5.827200322613167
+Computer Science,Masculino,EastEuropean,2010,620,6.250630103841114
+Computer Science,Masculino,EastEuropean,2011,757,7.631817723560842
+Computer Science,Masculino,EastEuropean,2012,700,7.057163020465773
+Computer Science,Masculino,EastEuropean,2013,917,9.244883556810162
+Computer Science,Masculino,EastEuropean,2014,808,8.145982457909064
+Computer Science,Masculino,EastEuropean,2015,1169,11.785462244177841
+Computer Science,Masculino,EastEuropean,2016,962,9.698558322411534
+Computer Science,Masculino,GreaterEastAsian,2000,636,1.35183964971199
+Computer Science,Masculino,GreaterEastAsian,2001,782,1.662167619614428
+Computer Science,Masculino,GreaterEastAsian,2002,699,1.4857482942589326
+Computer Science,Masculino,GreaterEastAsian,2003,1225,2.6037791995238804
+Computer Science,Masculino,GreaterEastAsian,2004,1208,2.5676451208366102
+Computer Science,Masculino,GreaterEastAsian,2005,1868,3.970497587518864
+Computer Science,Masculino,GreaterEastAsian,2006,1904,4.04701681297426
+Computer Science,Masculino,GreaterEastAsian,2007,2335,4.9631219843985805
+Computer Science,Masculino,GreaterEastAsian,2008,2354,5.003507131166705
+Computer Science,Masculino,GreaterEastAsian,2009,2871,6.102408230067804
+Computer Science,Masculino,GreaterEastAsian,2010,2805,5.9621229833995795
+Computer Science,Masculino,GreaterEastAsian,2011,3658,7.775203519884371
+Computer Science,Masculino,GreaterEastAsian,2012,3638,7.732692839075818
+Computer Science,Masculino,GreaterEastAsian,2013,4769,10.136671838799497
+Computer Science,Masculino,GreaterEastAsian,2014,4506,9.577656386167025
+Computer Science,Masculino,GreaterEastAsian,2015,5979,12.708568027716963
+Computer Science,Masculino,GreaterEastAsian,2016,5810,12.34935277488469
+Computer Science,Masculino,IndianSubContinent,2000,548,2.437939318444702
+Computer Science,Masculino,IndianSubContinent,2001,587,2.6114422991369337
+Computer Science,Masculino,IndianSubContinent,2002,609,2.7093157754248596
+Computer Science,Masculino,IndianSubContinent,2003,796,3.541240323872231
+Computer Science,Masculino,IndianSubContinent,2004,935,4.159622742236854
+Computer Science,Masculino,IndianSubContinent,2005,1118,4.973752113177329
+Computer Science,Masculino,IndianSubContinent,2006,1058,4.706824450573895
+Computer Science,Masculino,IndianSubContinent,2007,1344,5.979179642316932
+Computer Science,Masculino,IndianSubContinent,2008,1344,5.979179642316932
+Computer Science,Masculino,IndianSubContinent,2009,1403,6.241658510543643
+Computer Science,Masculino,IndianSubContinent,2010,1426,6.343980781208293
+Computer Science,Masculino,IndianSubContinent,2011,1728,7.687516682978912
+Computer Science,Masculino,IndianSubContinent,2012,1559,6.9356704333125725
+Computer Science,Masculino,IndianSubContinent,2013,1954,8.692944212118515
+Computer Science,Masculino,IndianSubContinent,2014,1848,8.221372008185782
+Computer Science,Masculino,IndianSubContinent,2015,2129,9.4714832280452
+Computer Science,Masculino,IndianSubContinent,2016,2092,9.306877836106416
+Computer Science,Masculino,Jewish,2000,696,3.055043455359494
+Computer Science,Masculino,Jewish,2001,769,3.375471863752085
+Computer Science,Masculino,Jewish,2002,694,3.0462645948555878
+Computer Science,Masculino,Jewish,2003,923,4.051444122552892
+Computer Science,Masculino,Jewish,2004,911,3.998770959529453
+Computer Science,Masculino,Jewish,2005,1211,5.315600035115442
+Computer Science,Masculino,Jewish,2006,1222,5.363883767886928
+Computer Science,Masculino,Jewish,2007,1455,6.386621016592047
+Computer Science,Masculino,Jewish,2008,1367,6.000351154420156
+Computer Science,Masculino,Jewish,2009,1351,5.930120270388904
+Computer Science,Masculino,Jewish,2010,1380,6.0574137476955485
+Computer Science,Masculino,Jewish,2011,1678,7.365463962777631
+Computer Science,Masculino,Jewish,2012,1493,6.553419366166271
+Computer Science,Masculino,Jewish,2013,1993,8.74813449214292
+Computer Science,Masculino,Jewish,2014,1709,7.501536300588183
+Computer Science,Masculino,Jewish,2015,2093,9.187077517338249
+Computer Science,Masculino,Jewish,2016,1837,8.063383372838205
+Computer Science,Masculino,Muslim,2000,182,1.8437848242326007
+Computer Science,Masculino,Muslim,2001,224,2.269273629824739
+Computer Science,Masculino,Muslim,2002,202,2.046398541181238
+Computer Science,Masculino,Muslim,2003,278,2.8163306655860603
+Computer Science,Masculino,Muslim,2004,276,2.7960692938911964
+Computer Science,Masculino,Muslim,2005,432,4.376456286090568
+Computer Science,Masculino,Muslim,2006,441,4.467632458717455
+Computer Science,Masculino,Muslim,2007,603,6.108803566001418
+Computer Science,Masculino,Muslim,2008,560,5.673184074561847
+Computer Science,Masculino,Muslim,2009,528,5.349002127444028
+Computer Science,Masculino,Muslim,2010,587,5.946712592442508
+Computer Science,Masculino,Muslim,2011,742,7.516968898794449
+Computer Science,Masculino,Muslim,2012,705,7.142133522439469
+Computer Science,Masculino,Muslim,2013,1004,10.171208590821598
+Computer Science,Masculino,Muslim,2014,936,9.48232195319623
+Computer Science,Masculino,Muslim,2015,1085,10.991794144463581
+Computer Science,Masculino,Muslim,2016,1086,11.001924830311012
+Computer Science,Masculino,WestEuropean,2000,905,2.2353406115694314
+Computer Science,Masculino,WestEuropean,2001,1077,2.6601788272489255
+Computer Science,Masculino,WestEuropean,2002,856,2.1143111198932965
+Computer Science,Masculino,WestEuropean,2003,1309,3.233216420491034
+Computer Science,Masculino,WestEuropean,2004,1234,3.047967198537766
+Computer Science,Masculino,WestEuropean,2005,1950,4.816479770784963
+Computer Science,Masculino,WestEuropean,2006,1713,4.231092229412637
+Computer Science,Masculino,WestEuropean,2007,2409,5.950205009138962
+Computer Science,Masculino,WestEuropean,2008,2201,5.436447166921899
+Computer Science,Masculino,WestEuropean,2009,2403,5.935385071382701
+Computer Science,Masculino,WestEuropean,2010,2399,5.925505112878525
+Computer Science,Masculino,WestEuropean,2011,3084,7.617448006718372
+Computer Science,Masculino,WestEuropean,2012,3053,7.540878328311021
+Computer Science,Masculino,WestEuropean,2013,4001,9.882428493800326
+Computer Science,Masculino,WestEuropean,2014,3320,8.200365558464656
+Computer Science,Masculino,WestEuropean,2015,4619,11.408882082695254
+Computer Science,Masculino,WestEuropean,2016,3953,9.763868991750236
+Computer Science,Não Informado,Africans,2000,4,1.1940298507462688
+Computer Science,Não Informado,Africans,2001,13,3.880597014925373
+Computer Science,Não Informado,Africans,2002,9,2.6865671641791042
+Computer Science,Não Informado,Africans,2003,5,1.4925373134328357
+Computer Science,Não Informado,Africans,2004,7,2.0895522388059704
+Computer Science,Não Informado,Africans,2005,12,3.582089552238806
+Computer Science,Não Informado,Africans,2006,16,4.776119402985075
+Computer Science,Não Informado,Africans,2007,17,5.074626865671641
+Computer Science,Não Informado,Africans,2008,22,6.567164179104477
+Computer Science,Não Informado,Africans,2009,11,3.2835820895522385
+Computer Science,Não Informado,Africans,2010,20,5.970149253731343
+Computer Science,Não Informado,Africans,2011,24,7.164179104477612
+Computer Science,Não Informado,Africans,2012,29,8.656716417910449
+Computer Science,Não Informado,Africans,2013,29,8.656716417910449
+Computer Science,Não Informado,Africans,2014,31,9.253731343283581
+Computer Science,Não Informado,Africans,2015,46,13.73134328358209
+Computer Science,Não Informado,Africans,2016,40,11.940298507462686
+Computer Science,Não Informado,British,2000,57,4.408352668213457
+Computer Science,Não Informado,British,2001,56,4.331013147718484
+Computer Science,Não Informado,British,2002,58,4.4856921887084305
+Computer Science,Não Informado,British,2003,61,4.7177107501933495
+Computer Science,Não Informado,British,2004,56,4.331013147718484
+Computer Science,Não Informado,British,2005,79,6.109822119102862
+Computer Science,Não Informado,British,2006,87,6.728538283062645
+Computer Science,Não Informado,British,2007,94,7.269914926527456
+Computer Science,Não Informado,British,2008,79,6.109822119102862
+Computer Science,Não Informado,British,2009,71,5.4911059551430785
+Computer Science,Não Informado,British,2010,96,7.424593967517401
+Computer Science,Não Informado,British,2011,87,6.728538283062645
+Computer Science,Não Informado,British,2012,78,6.0324825986078885
+Computer Science,Não Informado,British,2013,75,5.800464037122969
+Computer Science,Não Informado,British,2014,77,5.955143078112916
+Computer Science,Não Informado,British,2015,82,6.34184068058778
+Computer Science,Não Informado,British,2016,100,7.733952049497293
+Computer Science,Não Informado,EastEuropean,2000,3,2.2388059701492535
+Computer Science,Não Informado,EastEuropean,2001,2,1.4925373134328357
+Computer Science,Não Informado,EastEuropean,2002,7,5.223880597014925
+Computer Science,Não Informado,EastEuropean,2003,9,6.7164179104477615
+Computer Science,Não Informado,EastEuropean,2004,4,2.9850746268656714
+Computer Science,Não Informado,EastEuropean,2005,1,0.7462686567164178
+Computer Science,Não Informado,EastEuropean,2006,6,4.477611940298507
+Computer Science,Não Informado,EastEuropean,2007,11,8.208955223880597
+Computer Science,Não Informado,EastEuropean,2008,8,5.970149253731343
+Computer Science,Não Informado,EastEuropean,2009,11,8.208955223880597
+Computer Science,Não Informado,EastEuropean,2010,8,5.970149253731343
+Computer Science,Não Informado,EastEuropean,2011,9,6.7164179104477615
+Computer Science,Não Informado,EastEuropean,2012,6,4.477611940298507
+Computer Science,Não Informado,EastEuropean,2013,15,11.194029850746269
+Computer Science,Não Informado,EastEuropean,2014,10,7.462686567164178
+Computer Science,Não Informado,EastEuropean,2015,9,6.7164179104477615
+Computer Science,Não Informado,EastEuropean,2016,15,11.194029850746269
+Computer Science,Não Informado,GreaterEastAsian,2000,212,1.4741673040817744
+Computer Science,Não Informado,GreaterEastAsian,2001,292,2.030456852791878
+Computer Science,Não Informado,GreaterEastAsian,2002,232,1.6132396912593006
+Computer Science,Não Informado,GreaterEastAsian,2003,382,2.6562825950907447
+Computer Science,Não Informado,GreaterEastAsian,2004,394,2.73972602739726
+Computer Science,Não Informado,GreaterEastAsian,2005,547,3.8036297893053335
+Computer Science,Não Informado,GreaterEastAsian,2006,613,4.262568666991169
+Computer Science,Não Informado,GreaterEastAsian,2007,747,5.1943536610805925
+Computer Science,Não Informado,GreaterEastAsian,2008,724,5.034420415826438
+Computer Science,Não Informado,GreaterEastAsian,2009,979,6.807593352339893
+Computer Science,Não Informado,GreaterEastAsian,2010,822,5.715875112996314
+Computer Science,Não Informado,GreaterEastAsian,2011,1119,7.781100062582574
+Computer Science,Não Informado,GreaterEastAsian,2012,1103,7.669842152840553
+Computer Science,Não Informado,GreaterEastAsian,2013,1468,10.207913218830402
+Computer Science,Não Informado,GreaterEastAsian,2014,1419,9.867185870245462
+Computer Science,Não Informado,GreaterEastAsian,2015,1707,11.869828245601836
+Computer Science,Não Informado,GreaterEastAsian,2016,1621,11.271816980738475
+Computer Science,Não Informado,IndianSubContinent,2000,77,3.2366540563261874
+Computer Science,Não Informado,IndianSubContinent,2001,71,2.9844472467423286
+Computer Science,Não Informado,IndianSubContinent,2002,87,3.6569987389659517
+Computer Science,Não Informado,IndianSubContinent,2003,92,3.867171080285835
+Computer Science,Não Informado,IndianSubContinent,2004,93,3.909205548549811
+Computer Science,Não Informado,IndianSubContinent,2005,141,5.926860025220681
+Computer Science,Não Informado,IndianSubContinent,2006,135,5.674653215636822
+Computer Science,Não Informado,IndianSubContinent,2007,177,7.440100882723834
+Computer Science,Não Informado,IndianSubContinent,2008,148,6.221101303068517
+Computer Science,Não Informado,IndianSubContinent,2009,148,6.221101303068517
+Computer Science,Não Informado,IndianSubContinent,2010,132,5.548549810844893
+Computer Science,Não Informado,IndianSubContinent,2011,187,7.860445565363598
+Computer Science,Não Informado,IndianSubContinent,2012,159,6.6834804539722565
+Computer Science,Não Informado,IndianSubContinent,2013,161,6.767549390500211
+Computer Science,Não Informado,IndianSubContinent,2014,174,7.3139974779319035
+Computer Science,Não Informado,IndianSubContinent,2015,196,8.238755779739385
+Computer Science,Não Informado,IndianSubContinent,2016,201,8.448928121059268
+Computer Science,Não Informado,Jewish,2000,8,2.3054755043227666
+Computer Science,Não Informado,Jewish,2001,5,1.440922190201729
+Computer Science,Não Informado,Jewish,2002,16,4.610951008645533
+Computer Science,Não Informado,Jewish,2003,13,3.7463976945244957
+Computer Science,Não Informado,Jewish,2004,9,2.5936599423631126
+Computer Science,Não Informado,Jewish,2005,20,5.763688760806916
+Computer Science,Não Informado,Jewish,2006,26,7.492795389048991
+Computer Science,Não Informado,Jewish,2007,25,7.204610951008646
+Computer Science,Não Informado,Jewish,2008,30,8.645533141210375
+Computer Science,Não Informado,Jewish,2009,28,8.069164265129682
+Computer Science,Não Informado,Jewish,2010,24,6.9164265129683
+Computer Science,Não Informado,Jewish,2011,24,6.9164265129683
+Computer Science,Não Informado,Jewish,2012,28,8.069164265129682
+Computer Science,Não Informado,Jewish,2013,25,7.204610951008646
+Computer Science,Não Informado,Jewish,2014,15,4.322766570605188
+Computer Science,Não Informado,Jewish,2015,22,6.340057636887608
+Computer Science,Não Informado,Jewish,2016,29,8.357348703170029
+Computer Science,Não Informado,Muslim,2000,18,4.176334106728538
+Computer Science,Não Informado,Muslim,2001,12,2.784222737819025
+Computer Science,Não Informado,Muslim,2002,8,1.8561484918793503
+Computer Science,Não Informado,Muslim,2003,16,3.7122969837587005
+Computer Science,Não Informado,Muslim,2004,14,3.248259860788863
+Computer Science,Não Informado,Muslim,2005,25,5.800464037122969
+Computer Science,Não Informado,Muslim,2006,23,5.336426914153132
+Computer Science,Não Informado,Muslim,2007,20,4.640371229698376
+Computer Science,Não Informado,Muslim,2008,21,4.872389791183294
+Computer Science,Não Informado,Muslim,2009,30,6.960556844547564
+Computer Science,Não Informado,Muslim,2010,24,5.56844547563805
+Computer Science,Não Informado,Muslim,2011,23,5.336426914153132
+Computer Science,Não Informado,Muslim,2012,33,7.65661252900232
+Computer Science,Não Informado,Muslim,2013,60,13.921113689095128
+Computer Science,Não Informado,Muslim,2014,36,8.352668213457076
+Computer Science,Não Informado,Muslim,2015,41,9.51276102088167
+Computer Science,Não Informado,Muslim,2016,27,6.2645011600928076
+Computer Science,Não Informado,WestEuropean,2000,28,3.290246768507638
+Computer Science,Não Informado,WestEuropean,2001,33,3.8777908343125738
+Computer Science,Não Informado,WestEuropean,2002,28,3.290246768507638
+Computer Science,Não Informado,WestEuropean,2003,30,3.525264394829612
+Computer Science,Não Informado,WestEuropean,2004,28,3.290246768507638
+Computer Science,Não Informado,WestEuropean,2005,47,5.522914218566393
+Computer Science,Não Informado,WestEuropean,2006,47,5.522914218566393
+Computer Science,Não Informado,WestEuropean,2007,61,7.1680376028202115
+Computer Science,Não Informado,WestEuropean,2008,41,4.81786133960047
+Computer Science,Não Informado,WestEuropean,2009,48,5.64042303172738
+Computer Science,Não Informado,WestEuropean,2010,53,6.227967097532315
+Computer Science,Não Informado,WestEuropean,2011,62,7.285546415981199
+Computer Science,Não Informado,WestEuropean,2012,67,7.873090481786134
+Computer Science,Não Informado,WestEuropean,2013,67,7.873090481786134
+Computer Science,Não Informado,WestEuropean,2014,54,6.345475910693302
+Computer Science,Não Informado,WestEuropean,2015,74,8.695652173913043
+Computer Science,Não Informado,WestEuropean,2016,83,9.753231492361927
+Data Engineering,Feminino,Africans,2000,4,1.282051282051282
+Data Engineering,Feminino,Africans,2001,1,0.3205128205128205
+Data Engineering,Feminino,Africans,2002,10,3.205128205128205
+Data Engineering,Feminino,Africans,2003,13,4.166666666666666
+Data Engineering,Feminino,Africans,2004,12,3.8461538461538463
+Data Engineering,Feminino,Africans,2005,15,4.807692307692308
+Data Engineering,Feminino,Africans,2006,16,5.128205128205128
+Data Engineering,Feminino,Africans,2007,27,8.653846153846153
+Data Engineering,Feminino,Africans,2008,16,5.128205128205128
+Data Engineering,Feminino,Africans,2009,21,6.730769230769231
+Data Engineering,Feminino,Africans,2010,19,6.089743589743589
+Data Engineering,Feminino,Africans,2011,22,7.051282051282051
+Data Engineering,Feminino,Africans,2012,31,9.935897435897436
+Data Engineering,Feminino,Africans,2013,25,8.012820512820513
+Data Engineering,Feminino,Africans,2014,22,7.051282051282051
+Data Engineering,Feminino,Africans,2015,36,11.538461538461538
+Data Engineering,Feminino,Africans,2016,22,7.051282051282051
+Data Engineering,Feminino,British,2000,35,3.025064822817632
+Data Engineering,Feminino,British,2001,54,4.66724286949006
+Data Engineering,Feminino,British,2002,57,4.926534140017287
+Data Engineering,Feminino,British,2003,50,4.32152117545376
+Data Engineering,Feminino,British,2004,65,5.617977528089887
+Data Engineering,Feminino,British,2005,73,6.309420916162489
+Data Engineering,Feminino,British,2006,84,7.260155574762317
+Data Engineering,Feminino,British,2007,69,5.963699222126189
+Data Engineering,Feminino,British,2008,90,7.778738115816767
+Data Engineering,Feminino,British,2009,62,5.358686257562662
+Data Engineering,Feminino,British,2010,89,7.6923076923076925
+Data Engineering,Feminino,British,2011,83,7.17372515125324
+Data Engineering,Feminino,British,2012,76,6.568712186689715
+Data Engineering,Feminino,British,2013,77,6.65514261019879
+Data Engineering,Feminino,British,2014,75,6.482281763180639
+Data Engineering,Feminino,British,2015,61,5.2722558340535866
+Data Engineering,Feminino,British,2016,57,4.926534140017287
+Data Engineering,Feminino,EastEuropean,2000,12,2.030456852791878
+Data Engineering,Feminino,EastEuropean,2001,12,2.030456852791878
+Data Engineering,Feminino,EastEuropean,2002,17,2.8764805414551606
+Data Engineering,Feminino,EastEuropean,2003,26,4.39932318104907
+Data Engineering,Feminino,EastEuropean,2004,23,3.8917089678511
+Data Engineering,Feminino,EastEuropean,2005,23,3.8917089678511
+Data Engineering,Feminino,EastEuropean,2006,18,3.0456852791878175
+Data Engineering,Feminino,EastEuropean,2007,34,5.752961082910321
+Data Engineering,Feminino,EastEuropean,2008,44,7.4450084602368864
+Data Engineering,Feminino,EastEuropean,2009,27,4.568527918781726
+Data Engineering,Feminino,EastEuropean,2010,44,7.4450084602368864
+Data Engineering,Feminino,EastEuropean,2011,53,8.967851099830796
+Data Engineering,Feminino,EastEuropean,2012,53,8.967851099830796
+Data Engineering,Feminino,EastEuropean,2013,53,8.967851099830796
+Data Engineering,Feminino,EastEuropean,2014,43,7.2758037225042305
+Data Engineering,Feminino,EastEuropean,2015,50,8.460236886632826
+Data Engineering,Feminino,EastEuropean,2016,59,9.983079526226735
+Data Engineering,Feminino,GreaterEastAsian,2000,51,0.7983719474013776
+Data Engineering,Feminino,GreaterEastAsian,2001,97,1.5184721352536006
+Data Engineering,Feminino,GreaterEastAsian,2002,140,2.1916092673763305
+Data Engineering,Feminino,GreaterEastAsian,2003,148,2.316844082654978
+Data Engineering,Feminino,GreaterEastAsian,2004,280,4.383218534752661
+Data Engineering,Feminino,GreaterEastAsian,2005,317,4.962429555416406
+Data Engineering,Feminino,GreaterEastAsian,2006,325,5.0876643706950535
+Data Engineering,Feminino,GreaterEastAsian,2007,361,5.651221039448967
+Data Engineering,Feminino,GreaterEastAsian,2008,338,5.291170945522855
+Data Engineering,Feminino,GreaterEastAsian,2009,495,7.748904195366311
+Data Engineering,Feminino,GreaterEastAsian,2010,481,7.529743268628679
+Data Engineering,Feminino,GreaterEastAsian,2011,472,7.3888541014402005
+Data Engineering,Feminino,GreaterEastAsian,2012,513,8.030682529743268
+Data Engineering,Feminino,GreaterEastAsian,2013,540,8.453350031308704
+Data Engineering,Feminino,GreaterEastAsian,2014,592,9.267376330619912
+Data Engineering,Feminino,GreaterEastAsian,2015,568,8.89167188478397
+Data Engineering,Feminino,GreaterEastAsian,2016,670,10.488415779586726
+Data Engineering,Feminino,IndianSubContinent,2000,16,1.5655577299412915
+Data Engineering,Feminino,IndianSubContinent,2001,40,3.9138943248532287
+Data Engineering,Feminino,IndianSubContinent,2002,57,5.577299412915851
+Data Engineering,Feminino,IndianSubContinent,2003,34,3.326810176125244
+Data Engineering,Feminino,IndianSubContinent,2004,39,3.816046966731898
+Data Engineering,Feminino,IndianSubContinent,2005,51,4.990215264187866
+Data Engineering,Feminino,IndianSubContinent,2006,57,5.577299412915851
+Data Engineering,Feminino,IndianSubContinent,2007,41,4.011741682974559
+Data Engineering,Feminino,IndianSubContinent,2008,74,7.240704500978473
+Data Engineering,Feminino,IndianSubContinent,2009,83,8.12133072407045
+Data Engineering,Feminino,IndianSubContinent,2010,54,5.283757338551859
+Data Engineering,Feminino,IndianSubContinent,2011,80,7.8277886497064575
+Data Engineering,Feminino,IndianSubContinent,2012,75,7.338551859099804
+Data Engineering,Feminino,IndianSubContinent,2013,83,8.12133072407045
+Data Engineering,Feminino,IndianSubContinent,2014,80,7.8277886497064575
+Data Engineering,Feminino,IndianSubContinent,2015,72,7.045009784735812
+Data Engineering,Feminino,IndianSubContinent,2016,86,8.414872798434441
+Data Engineering,Feminino,Jewish,2000,34,3.5827186512118017
+Data Engineering,Feminino,Jewish,2001,28,2.9504741833508956
+Data Engineering,Feminino,Jewish,2002,36,3.7934668071654376
+Data Engineering,Feminino,Jewish,2003,36,3.7934668071654376
+Data Engineering,Feminino,Jewish,2004,57,6.006322444678609
+Data Engineering,Feminino,Jewish,2005,59,6.217070600632244
+Data Engineering,Feminino,Jewish,2006,57,6.006322444678609
+Data Engineering,Feminino,Jewish,2007,66,6.954689146469968
+Data Engineering,Feminino,Jewish,2008,64,6.743940990516332
+Data Engineering,Feminino,Jewish,2009,61,6.42781875658588
+Data Engineering,Feminino,Jewish,2010,62,6.533192834562697
+Data Engineering,Feminino,Jewish,2011,73,7.6923076923076925
+Data Engineering,Feminino,Jewish,2012,61,6.42781875658588
+Data Engineering,Feminino,Jewish,2013,68,7.165437302423603
+Data Engineering,Feminino,Jewish,2014,72,7.586933614330875
+Data Engineering,Feminino,Jewish,2015,63,6.638566912539515
+Data Engineering,Feminino,Jewish,2016,52,5.47945205479452
+Data Engineering,Feminino,Muslim,2000,13,1.870503597122302
+Data Engineering,Feminino,Muslim,2001,13,1.870503597122302
+Data Engineering,Feminino,Muslim,2002,19,2.7338129496402876
+Data Engineering,Feminino,Muslim,2003,13,1.870503597122302
+Data Engineering,Feminino,Muslim,2004,31,4.460431654676259
+Data Engineering,Feminino,Muslim,2005,23,3.3093525179856114
+Data Engineering,Feminino,Muslim,2006,30,4.316546762589928
+Data Engineering,Feminino,Muslim,2007,28,4.028776978417266
+Data Engineering,Feminino,Muslim,2008,53,7.625899280575539
+Data Engineering,Feminino,Muslim,2009,44,6.330935251798561
+Data Engineering,Feminino,Muslim,2010,54,7.76978417266187
+Data Engineering,Feminino,Muslim,2011,47,6.762589928057554
+Data Engineering,Feminino,Muslim,2012,53,7.625899280575539
+Data Engineering,Feminino,Muslim,2013,69,9.928057553956835
+Data Engineering,Feminino,Muslim,2014,70,10.071942446043165
+Data Engineering,Feminino,Muslim,2015,80,11.510791366906476
+Data Engineering,Feminino,Muslim,2016,55,7.913669064748201
+Data Engineering,Feminino,WestEuropean,2000,55,2.5034137460172965
+Data Engineering,Feminino,WestEuropean,2001,72,3.2771961766044604
+Data Engineering,Feminino,WestEuropean,2002,103,4.688211197086937
+Data Engineering,Feminino,WestEuropean,2003,84,3.8233955393718713
+Data Engineering,Feminino,WestEuropean,2004,108,4.91579426490669
+Data Engineering,Feminino,WestEuropean,2005,109,4.961310878470642
+Data Engineering,Feminino,WestEuropean,2006,121,5.507510241238052
+Data Engineering,Feminino,WestEuropean,2007,153,6.964041875284479
+Data Engineering,Feminino,WestEuropean,2008,174,7.919890760127446
+Data Engineering,Feminino,WestEuropean,2009,119,5.41647701411015
+Data Engineering,Feminino,WestEuropean,2010,131,5.96267637687756
+Data Engineering,Feminino,WestEuropean,2011,173,7.874374146563495
+Data Engineering,Feminino,WestEuropean,2012,166,7.555757851615839
+Data Engineering,Feminino,WestEuropean,2013,149,6.781975421028676
+Data Engineering,Feminino,WestEuropean,2014,162,7.373691397360036
+Data Engineering,Feminino,WestEuropean,2015,154,7.00955848884843
+Data Engineering,Feminino,WestEuropean,2016,164,7.464724624487938
+Data Engineering,Masculino,Africans,2000,32,2.359882005899705
+Data Engineering,Masculino,Africans,2001,51,3.761061946902655
+Data Engineering,Masculino,Africans,2002,48,3.5398230088495577
+Data Engineering,Masculino,Africans,2003,35,2.5811209439528024
+Data Engineering,Masculino,Africans,2004,67,4.941002949852508
+Data Engineering,Masculino,Africans,2005,76,5.604719764011799
+Data Engineering,Masculino,Africans,2006,79,5.825958702064897
+Data Engineering,Masculino,Africans,2007,107,7.890855457227139
+Data Engineering,Masculino,Africans,2008,96,7.079646017699115
+Data Engineering,Masculino,Africans,2009,102,7.52212389380531
+Data Engineering,Masculino,Africans,2010,78,5.752212389380531
+Data Engineering,Masculino,Africans,2011,85,6.268436578171091
+Data Engineering,Masculino,Africans,2012,89,6.563421828908554
+Data Engineering,Masculino,Africans,2013,89,6.563421828908554
+Data Engineering,Masculino,Africans,2014,104,7.669616519174041
+Data Engineering,Masculino,Africans,2015,113,8.333333333333332
+Data Engineering,Masculino,Africans,2016,105,7.7433628318584065
+Data Engineering,Masculino,British,2000,188,3.04798962386511
+Data Engineering,Masculino,British,2001,215,3.485732814526589
+Data Engineering,Masculino,British,2002,316,5.123216601815823
+Data Engineering,Masculino,British,2003,248,4.020752269779507
+Data Engineering,Masculino,British,2004,365,5.9176394293125805
+Data Engineering,Masculino,British,2005,343,5.560959792477302
+Data Engineering,Masculino,British,2006,367,5.95006485084306
+Data Engineering,Masculino,British,2007,380,6.160830090791181
+Data Engineering,Masculino,British,2008,421,6.825551232166018
+Data Engineering,Masculino,British,2009,362,5.869001297016861
+Data Engineering,Masculino,British,2010,405,6.56614785992218
+Data Engineering,Masculino,British,2011,408,6.614785992217899
+Data Engineering,Masculino,British,2012,434,7.036316472114137
+Data Engineering,Masculino,British,2013,485,7.863164721141374
+Data Engineering,Masculino,British,2014,461,7.474059662775616
+Data Engineering,Masculino,British,2015,401,6.50129701686122
+Data Engineering,Masculino,British,2016,369,5.982490272373541
+Data Engineering,Masculino,EastEuropean,2000,74,2.8019689511548656
+Data Engineering,Masculino,EastEuropean,2001,75,2.839833396440742
+Data Engineering,Masculino,EastEuropean,2002,124,4.695191215448694
+Data Engineering,Masculino,EastEuropean,2003,86,3.256342294585384
+Data Engineering,Masculino,EastEuropean,2004,116,4.392275653161681
+Data Engineering,Masculino,EastEuropean,2005,134,5.07383566830746
+Data Engineering,Masculino,EastEuropean,2006,148,5.603937902309731
+Data Engineering,Masculino,EastEuropean,2007,130,4.922377887163953
+Data Engineering,Masculino,EastEuropean,2008,172,6.512684589170768
+Data Engineering,Masculino,EastEuropean,2009,142,5.376751230594472
+Data Engineering,Masculino,EastEuropean,2010,205,7.762211283604695
+Data Engineering,Masculino,EastEuropean,2011,192,7.2699734948883
+Data Engineering,Masculino,EastEuropean,2012,199,7.535024611889436
+Data Engineering,Masculino,EastEuropean,2013,230,8.708822415751609
+Data Engineering,Masculino,EastEuropean,2014,205,7.762211283604695
+Data Engineering,Masculino,EastEuropean,2015,205,7.762211283604695
+Data Engineering,Masculino,EastEuropean,2016,204,7.7243468383188185
+Data Engineering,Masculino,GreaterEastAsian,2000,170,1.3627254509018036
+Data Engineering,Masculino,GreaterEastAsian,2001,282,2.2605210420841684
+Data Engineering,Masculino,GreaterEastAsian,2002,366,2.9338677354709417
+Data Engineering,Masculino,GreaterEastAsian,2003,275,2.2044088176352705
+Data Engineering,Masculino,GreaterEastAsian,2004,555,4.448897795591182
+Data Engineering,Masculino,GreaterEastAsian,2005,759,6.084168336673346
+Data Engineering,Masculino,GreaterEastAsian,2006,582,4.6653306613226455
+Data Engineering,Masculino,GreaterEastAsian,2007,686,5.498997995991984
+Data Engineering,Masculino,GreaterEastAsian,2008,727,5.8276553106212425
+Data Engineering,Masculino,GreaterEastAsian,2009,929,7.44689378757515
+Data Engineering,Masculino,GreaterEastAsian,2010,899,7.206412825651302
+Data Engineering,Masculino,GreaterEastAsian,2011,883,7.07815631262525
+Data Engineering,Masculino,GreaterEastAsian,2012,1029,8.248496993987976
+Data Engineering,Masculino,GreaterEastAsian,2013,992,7.95190380761523
+Data Engineering,Masculino,GreaterEastAsian,2014,1053,8.440881763527054
+Data Engineering,Masculino,GreaterEastAsian,2015,1066,8.545090180360722
+Data Engineering,Masculino,GreaterEastAsian,2016,1222,9.79559118236473
+Data Engineering,Masculino,IndianSubContinent,2000,155,2.6094276094276094
+Data Engineering,Masculino,IndianSubContinent,2001,205,3.4511784511784516
+Data Engineering,Masculino,IndianSubContinent,2002,290,4.882154882154882
+Data Engineering,Masculino,IndianSubContinent,2003,256,4.30976430976431
+Data Engineering,Masculino,IndianSubContinent,2004,395,6.6498316498316505
+Data Engineering,Masculino,IndianSubContinent,2005,332,5.589225589225589
+Data Engineering,Masculino,IndianSubContinent,2006,407,6.851851851851852
+Data Engineering,Masculino,IndianSubContinent,2007,370,6.228956228956229
+Data Engineering,Masculino,IndianSubContinent,2008,446,7.508417508417509
+Data Engineering,Masculino,IndianSubContinent,2009,386,6.498316498316499
+Data Engineering,Masculino,IndianSubContinent,2010,400,6.7340067340067336
+Data Engineering,Masculino,IndianSubContinent,2011,371,6.245791245791246
+Data Engineering,Masculino,IndianSubContinent,2012,401,6.75084175084175
+Data Engineering,Masculino,IndianSubContinent,2013,402,6.767676767676768
+Data Engineering,Masculino,IndianSubContinent,2014,396,6.666666666666667
+Data Engineering,Masculino,IndianSubContinent,2015,331,5.572390572390573
+Data Engineering,Masculino,IndianSubContinent,2016,397,6.683501683501683
+Data Engineering,Masculino,Jewish,2000,138,2.9626449119793903
+Data Engineering,Masculino,Jewish,2001,193,4.143409188492916
+Data Engineering,Masculino,Jewish,2002,245,5.259768140832975
+Data Engineering,Masculino,Jewish,2003,160,3.4349506225848003
+Data Engineering,Masculino,Jewish,2004,274,5.88235294117647
+Data Engineering,Masculino,Jewish,2005,272,5.839416058394161
+Data Engineering,Masculino,Jewish,2006,301,6.462000858737656
+Data Engineering,Masculino,Jewish,2007,273,5.860884499785316
+Data Engineering,Masculino,Jewish,2008,310,6.655216831258051
+Data Engineering,Masculino,Jewish,2009,264,5.6676685272649205
+Data Engineering,Masculino,Jewish,2010,344,7.385143838557321
+Data Engineering,Masculino,Jewish,2011,288,6.182911120652641
+Data Engineering,Masculino,Jewish,2012,295,6.333190210390725
+Data Engineering,Masculino,Jewish,2013,375,8.050665521683126
+Data Engineering,Masculino,Jewish,2014,315,6.762559038213825
+Data Engineering,Masculino,Jewish,2015,331,7.106054100472306
+Data Engineering,Masculino,Jewish,2016,280,6.011163589523401
+Data Engineering,Masculino,Muslim,2000,82,2.8792134831460676
+Data Engineering,Masculino,Muslim,2001,82,2.8792134831460676
+Data Engineering,Masculino,Muslim,2002,104,3.651685393258427
+Data Engineering,Masculino,Muslim,2003,69,2.422752808988764
+Data Engineering,Masculino,Muslim,2004,152,5.337078651685393
+Data Engineering,Masculino,Muslim,2005,128,4.49438202247191
+Data Engineering,Masculino,Muslim,2006,146,5.126404494382022
+Data Engineering,Masculino,Muslim,2007,167,5.86376404494382
+Data Engineering,Masculino,Muslim,2008,210,7.373595505617978
+Data Engineering,Masculino,Muslim,2009,154,5.407303370786517
+Data Engineering,Masculino,Muslim,2010,186,6.530898876404495
+Data Engineering,Masculino,Muslim,2011,185,6.495786516853933
+Data Engineering,Masculino,Muslim,2012,222,7.794943820224718
+Data Engineering,Masculino,Muslim,2013,232,8.146067415730338
+Data Engineering,Masculino,Muslim,2014,230,8.0758426966292145
+Data Engineering,Masculino,Muslim,2015,244,8.567415730337078
+Data Engineering,Masculino,Muslim,2016,255,8.95365168539326
+Data Engineering,Masculino,WestEuropean,2000,312,2.851137713606872
+Data Engineering,Masculino,WestEuropean,2001,327,2.988211642145664
+Data Engineering,Masculino,WestEuropean,2002,498,4.5508544274878915
+Data Engineering,Masculino,WestEuropean,2003,359,3.28063602302842
+Data Engineering,Masculino,WestEuropean,2004,554,5.062597094032715
+Data Engineering,Masculino,WestEuropean,2005,516,4.715343141734442
+Data Engineering,Masculino,WestEuropean,2006,578,5.281915379694782
+Data Engineering,Masculino,WestEuropean,2007,707,6.460751165128392
+Data Engineering,Masculino,WestEuropean,2008,740,6.762313807913735
+Data Engineering,Masculino,WestEuropean,2009,634,5.793658046239606
+Data Engineering,Masculino,WestEuropean,2010,723,6.606963355569771
+Data Engineering,Masculino,WestEuropean,2011,893,8.160467879009413
+Data Engineering,Masculino,WestEuropean,2012,841,7.685278260074933
+Data Engineering,Masculino,WestEuropean,2013,806,7.365439093484419
+Data Engineering,Masculino,WestEuropean,2014,827,7.557342593438728
+Data Engineering,Masculino,WestEuropean,2015,818,7.475098236315453
+Data Engineering,Masculino,WestEuropean,2016,810,7.401992141094764
+Data Engineering,Não Informado,Africans,2000,1,1.0416666666666665
+Data Engineering,Não Informado,Africans,2001,1,1.0416666666666665
+Data Engineering,Não Informado,Africans,2002,0,0
+Data Engineering,Não Informado,Africans,2003,0,0
+Data Engineering,Não Informado,Africans,2004,4,4.166666666666666
+Data Engineering,Não Informado,Africans,2005,7,7.291666666666667
+Data Engineering,Não Informado,Africans,2006,2,2.083333333333333
+Data Engineering,Não Informado,Africans,2007,5,5.208333333333334
+Data Engineering,Não Informado,Africans,2008,6,6.25
+Data Engineering,Não Informado,Africans,2009,6,6.25
+Data Engineering,Não Informado,Africans,2010,4,4.166666666666666
+Data Engineering,Não Informado,Africans,2011,9,9.375
+Data Engineering,Não Informado,Africans,2012,16,16.666666666666664
+Data Engineering,Não Informado,Africans,2013,5,5.208333333333334
+Data Engineering,Não Informado,Africans,2014,12,12.5
+Data Engineering,Não Informado,Africans,2015,9,9.375
+Data Engineering,Não Informado,Africans,2016,9,9.375
+Data Engineering,Não Informado,British,2000,9,3.3582089552238807
+Data Engineering,Não Informado,British,2001,15,5.597014925373134
+Data Engineering,Não Informado,British,2002,30,11.194029850746269
+Data Engineering,Não Informado,British,2003,10,3.731343283582089
+Data Engineering,Não Informado,British,2004,12,4.477611940298507
+Data Engineering,Não Informado,British,2005,19,7.08955223880597
+Data Engineering,Não Informado,British,2006,18,6.7164179104477615
+Data Engineering,Não Informado,British,2007,15,5.597014925373134
+Data Engineering,Não Informado,British,2008,18,6.7164179104477615
+Data Engineering,Não Informado,British,2009,19,7.08955223880597
+Data Engineering,Não Informado,British,2010,14,5.223880597014925
+Data Engineering,Não Informado,British,2011,16,5.970149253731343
+Data Engineering,Não Informado,British,2012,20,7.462686567164178
+Data Engineering,Não Informado,British,2013,15,5.597014925373134
+Data Engineering,Não Informado,British,2014,11,4.104477611940299
+Data Engineering,Não Informado,British,2015,9,3.3582089552238807
+Data Engineering,Não Informado,British,2016,18,6.7164179104477615
+Data Engineering,Não Informado,EastEuropean,2000,3,5.454545454545454
+Data Engineering,Não Informado,EastEuropean,2001,1,1.8181818181818181
+Data Engineering,Não Informado,EastEuropean,2002,5,9.090909090909092
+Data Engineering,Não Informado,EastEuropean,2003,0,0
+Data Engineering,Não Informado,EastEuropean,2004,1,1.8181818181818181
+Data Engineering,Não Informado,EastEuropean,2005,1,1.8181818181818181
+Data Engineering,Não Informado,EastEuropean,2006,3,5.454545454545454
+Data Engineering,Não Informado,EastEuropean,2007,9,16.363636363636363
+Data Engineering,Não Informado,EastEuropean,2008,7,12.727272727272727
+Data Engineering,Não Informado,EastEuropean,2009,3,5.454545454545454
+Data Engineering,Não Informado,EastEuropean,2010,5,9.090909090909092
+Data Engineering,Não Informado,EastEuropean,2011,5,9.090909090909092
+Data Engineering,Não Informado,EastEuropean,2012,2,3.6363636363636362
+Data Engineering,Não Informado,EastEuropean,2013,3,5.454545454545454
+Data Engineering,Não Informado,EastEuropean,2014,3,5.454545454545454
+Data Engineering,Não Informado,EastEuropean,2015,1,1.8181818181818181
+Data Engineering,Não Informado,EastEuropean,2016,3,5.454545454545454
+Data Engineering,Não Informado,GreaterEastAsian,2000,87,2.201417004048583
+Data Engineering,Não Informado,GreaterEastAsian,2001,157,3.972672064777328
+Data Engineering,Não Informado,GreaterEastAsian,2002,141,3.5678137651821857
+Data Engineering,Não Informado,GreaterEastAsian,2003,112,2.834008097165992
+Data Engineering,Não Informado,GreaterEastAsian,2004,201,5.086032388663968
+Data Engineering,Não Informado,GreaterEastAsian,2005,238,6.022267206477733
+Data Engineering,Não Informado,GreaterEastAsian,2006,241,6.098178137651821
+Data Engineering,Não Informado,GreaterEastAsian,2007,260,6.578947368421052
+Data Engineering,Não Informado,GreaterEastAsian,2008,199,5.035425101214575
+Data Engineering,Não Informado,GreaterEastAsian,2009,290,7.338056680161944
+Data Engineering,Não Informado,GreaterEastAsian,2010,234,5.921052631578947
+Data Engineering,Não Informado,GreaterEastAsian,2011,251,6.351214574898785
+Data Engineering,Não Informado,GreaterEastAsian,2012,318,8.04655870445344
+Data Engineering,Não Informado,GreaterEastAsian,2013,322,8.147773279352228
+Data Engineering,Não Informado,GreaterEastAsian,2014,303,7.667004048582996
+Data Engineering,Não Informado,GreaterEastAsian,2015,271,6.857287449392713
+Data Engineering,Não Informado,GreaterEastAsian,2016,327,8.274291497975709
+Data Engineering,Não Informado,IndianSubContinent,2000,23,3.225806451612903
+Data Engineering,Não Informado,IndianSubContinent,2001,23,3.225806451612903
+Data Engineering,Não Informado,IndianSubContinent,2002,43,6.03085553997195
+Data Engineering,Não Informado,IndianSubContinent,2003,42,5.890603085553997
+Data Engineering,Não Informado,IndianSubContinent,2004,44,6.171107994389901
+Data Engineering,Não Informado,IndianSubContinent,2005,51,7.152875175315568
+Data Engineering,Não Informado,IndianSubContinent,2006,57,7.994389901823282
+Data Engineering,Não Informado,IndianSubContinent,2007,60,8.415147265077138
+Data Engineering,Não Informado,IndianSubContinent,2008,50,7.012622720897616
+Data Engineering,Não Informado,IndianSubContinent,2009,32,4.488078541374474
+Data Engineering,Não Informado,IndianSubContinent,2010,41,5.750350631136045
+Data Engineering,Não Informado,IndianSubContinent,2011,48,6.732117812061711
+Data Engineering,Não Informado,IndianSubContinent,2012,37,5.189340813464235
+Data Engineering,Não Informado,IndianSubContinent,2013,46,6.451612903225806
+Data Engineering,Não Informado,IndianSubContinent,2014,47,6.5918653576437585
+Data Engineering,Não Informado,IndianSubContinent,2015,35,4.908835904628331
+Data Engineering,Não Informado,IndianSubContinent,2016,34,4.768583450210379
+Data Engineering,Não Informado,Jewish,2000,3,4.6875
+Data Engineering,Não Informado,Jewish,2001,3,4.6875
+Data Engineering,Não Informado,Jewish,2002,10,15.625
+Data Engineering,Não Informado,Jewish,2003,2,3.125
+Data Engineering,Não Informado,Jewish,2004,2,3.125
+Data Engineering,Não Informado,Jewish,2005,5,7.8125
+Data Engineering,Não Informado,Jewish,2006,4,6.25
+Data Engineering,Não Informado,Jewish,2007,3,4.6875
+Data Engineering,Não Informado,Jewish,2008,4,6.25
+Data Engineering,Não Informado,Jewish,2009,6,9.375
+Data Engineering,Não Informado,Jewish,2010,2,3.125
+Data Engineering,Não Informado,Jewish,2011,2,3.125
+Data Engineering,Não Informado,Jewish,2012,5,7.8125
+Data Engineering,Não Informado,Jewish,2013,4,6.25
+Data Engineering,Não Informado,Jewish,2014,1,1.5625
+Data Engineering,Não Informado,Jewish,2015,5,7.8125
+Data Engineering,Não Informado,Jewish,2016,3,4.6875
+Data Engineering,Não Informado,Muslim,2000,5,2.6737967914438503
+Data Engineering,Não Informado,Muslim,2001,6,3.2085561497326207
+Data Engineering,Não Informado,Muslim,2002,6,3.2085561497326207
+Data Engineering,Não Informado,Muslim,2003,6,3.2085561497326207
+Data Engineering,Não Informado,Muslim,2004,12,6.417112299465241
+Data Engineering,Não Informado,Muslim,2005,16,8.55614973262032
+Data Engineering,Não Informado,Muslim,2006,11,5.88235294117647
+Data Engineering,Não Informado,Muslim,2007,20,10.695187165775401
+Data Engineering,Não Informado,Muslim,2008,17,9.090909090909092
+Data Engineering,Não Informado,Muslim,2009,9,4.81283422459893
+Data Engineering,Não Informado,Muslim,2010,8,4.27807486631016
+Data Engineering,Não Informado,Muslim,2011,7,3.7433155080213902
+Data Engineering,Não Informado,Muslim,2012,10,5.347593582887701
+Data Engineering,Não Informado,Muslim,2013,11,5.88235294117647
+Data Engineering,Não Informado,Muslim,2014,19,10.16042780748663
+Data Engineering,Não Informado,Muslim,2015,13,6.951871657754011
+Data Engineering,Não Informado,Muslim,2016,11,5.88235294117647
+Data Engineering,Não Informado,WestEuropean,2000,4,1.465201465201465
+Data Engineering,Não Informado,WestEuropean,2001,12,4.395604395604396
+Data Engineering,Não Informado,WestEuropean,2002,12,4.395604395604396
+Data Engineering,Não Informado,WestEuropean,2003,5,1.8315018315018317
+Data Engineering,Não Informado,WestEuropean,2004,18,6.593406593406594
+Data Engineering,Não Informado,WestEuropean,2005,11,4.029304029304029
+Data Engineering,Não Informado,WestEuropean,2006,18,6.593406593406594
+Data Engineering,Não Informado,WestEuropean,2007,20,7.326007326007327
+Data Engineering,Não Informado,WestEuropean,2008,21,7.6923076923076925
+Data Engineering,Não Informado,WestEuropean,2009,15,5.4945054945054945
+Data Engineering,Não Informado,WestEuropean,2010,14,5.128205128205128
+Data Engineering,Não Informado,WestEuropean,2011,21,7.6923076923076925
+Data Engineering,Não Informado,WestEuropean,2012,25,9.157509157509157
+Data Engineering,Não Informado,WestEuropean,2013,21,7.6923076923076925
+Data Engineering,Não Informado,WestEuropean,2014,20,7.326007326007327
+Data Engineering,Não Informado,WestEuropean,2015,20,7.326007326007327
+Data Engineering,Não Informado,WestEuropean,2016,16,5.86080586080586
+Software Engineering,Feminino,Africans,2000,2,1.1049723756906076
+Software Engineering,Feminino,Africans,2001,1,0.5524861878453038
+Software Engineering,Feminino,Africans,2002,0,0
+Software Engineering,Feminino,Africans,2003,5,2.7624309392265194
+Software Engineering,Feminino,Africans,2004,5,2.7624309392265194
+Software Engineering,Feminino,Africans,2005,3,1.6574585635359116
+Software Engineering,Feminino,Africans,2006,3,1.6574585635359116
+Software Engineering,Feminino,Africans,2007,4,2.209944751381215
+Software Engineering,Feminino,Africans,2008,10,5.524861878453039
+Software Engineering,Feminino,Africans,2009,11,6.077348066298343
+Software Engineering,Feminino,Africans,2010,14,7.734806629834254
+Software Engineering,Feminino,Africans,2011,12,6.629834254143646
+Software Engineering,Feminino,Africans,2012,27,14.917127071823206
+Software Engineering,Feminino,Africans,2013,22,12.154696132596685
+Software Engineering,Feminino,Africans,2014,18,9.94475138121547
+Software Engineering,Feminino,Africans,2015,22,12.154696132596685
+Software Engineering,Feminino,Africans,2016,22,12.154696132596685
+Software Engineering,Feminino,British,2000,58,4.075895994378074
+Software Engineering,Feminino,British,2001,58,4.075895994378074
+Software Engineering,Feminino,British,2002,41,2.881236823612087
+Software Engineering,Feminino,British,2003,54,3.794799718903725
+Software Engineering,Feminino,British,2004,55,3.865073787772312
+Software Engineering,Feminino,British,2005,92,6.46521433591005
+Software Engineering,Feminino,British,2006,68,4.778636683063949
+Software Engineering,Feminino,British,2007,64,4.497540407589599
+Software Engineering,Feminino,British,2008,76,5.3408292340126495
+Software Engineering,Feminino,British,2009,105,7.3787772312016875
+Software Engineering,Feminino,British,2010,81,5.692199578355587
+Software Engineering,Feminino,British,2011,116,8.151791988756148
+Software Engineering,Feminino,British,2012,107,7.519325368938862
+Software Engineering,Feminino,British,2013,140,9.838369641602249
+Software Engineering,Feminino,British,2014,98,6.886858749121575
+Software Engineering,Feminino,British,2015,129,9.065354884047787
+Software Engineering,Feminino,British,2016,81,5.692199578355587
+Software Engineering,Feminino,EastEuropean,2000,8,2.099737532808399
+Software Engineering,Feminino,EastEuropean,2001,15,3.937007874015748
+Software Engineering,Feminino,EastEuropean,2002,13,3.4120734908136483
+Software Engineering,Feminino,EastEuropean,2003,11,2.8871391076115485
+Software Engineering,Feminino,EastEuropean,2004,10,2.6246719160104988
+Software Engineering,Feminino,EastEuropean,2005,17,4.4619422572178475
+Software Engineering,Feminino,EastEuropean,2006,8,2.099737532808399
+Software Engineering,Feminino,EastEuropean,2007,15,3.937007874015748
+Software Engineering,Feminino,EastEuropean,2008,21,5.511811023622047
+Software Engineering,Feminino,EastEuropean,2009,20,5.2493438320209975
+Software Engineering,Feminino,EastEuropean,2010,31,8.136482939632545
+Software Engineering,Feminino,EastEuropean,2011,31,8.136482939632545
+Software Engineering,Feminino,EastEuropean,2012,33,8.661417322834646
+Software Engineering,Feminino,EastEuropean,2013,35,9.186351706036746
+Software Engineering,Feminino,EastEuropean,2014,37,9.711286089238845
+Software Engineering,Feminino,EastEuropean,2015,50,13.123359580052494
+Software Engineering,Feminino,EastEuropean,2016,26,6.824146981627297
+Software Engineering,Feminino,GreaterEastAsian,2000,11,0.6567164179104478
+Software Engineering,Feminino,GreaterEastAsian,2001,25,1.4925373134328357
+Software Engineering,Feminino,GreaterEastAsian,2002,28,1.671641791044776
+Software Engineering,Feminino,GreaterEastAsian,2003,31,1.8507462686567162
+Software Engineering,Feminino,GreaterEastAsian,2004,56,3.343283582089552
+Software Engineering,Feminino,GreaterEastAsian,2005,63,3.7611940298507465
+Software Engineering,Feminino,GreaterEastAsian,2006,87,5.1940298507462686
+Software Engineering,Feminino,GreaterEastAsian,2007,71,4.2388059701492535
+Software Engineering,Feminino,GreaterEastAsian,2008,84,5.014925373134329
+Software Engineering,Feminino,GreaterEastAsian,2009,87,5.1940298507462686
+Software Engineering,Feminino,GreaterEastAsian,2010,107,6.388059701492538
+Software Engineering,Feminino,GreaterEastAsian,2011,127,7.5820895522388065
+Software Engineering,Feminino,GreaterEastAsian,2012,143,8.53731343283582
+Software Engineering,Feminino,GreaterEastAsian,2013,152,9.074626865671643
+Software Engineering,Feminino,GreaterEastAsian,2014,177,10.567164179104479
+Software Engineering,Feminino,GreaterEastAsian,2015,215,12.835820895522387
+Software Engineering,Feminino,GreaterEastAsian,2016,211,12.597014925373134
+Software Engineering,Feminino,IndianSubContinent,2000,11,1.7828200972447326
+Software Engineering,Feminino,IndianSubContinent,2001,13,2.106969205834684
+Software Engineering,Feminino,IndianSubContinent,2002,11,1.7828200972447326
+Software Engineering,Feminino,IndianSubContinent,2003,18,2.9173419773095626
+Software Engineering,Feminino,IndianSubContinent,2004,16,2.593192868719611
+Software Engineering,Feminino,IndianSubContinent,2005,20,3.2414910858995136
+Software Engineering,Feminino,IndianSubContinent,2006,22,3.565640194489465
+Software Engineering,Feminino,IndianSubContinent,2007,18,2.9173419773095626
+Software Engineering,Feminino,IndianSubContinent,2008,25,4.051863857374392
+Software Engineering,Feminino,IndianSubContinent,2009,33,5.348460291734198
+Software Engineering,Feminino,IndianSubContinent,2010,33,5.348460291734198
+Software Engineering,Feminino,IndianSubContinent,2011,55,8.914100486223662
+Software Engineering,Feminino,IndianSubContinent,2012,41,6.645056726094004
+Software Engineering,Feminino,IndianSubContinent,2013,83,13.452188006482983
+Software Engineering,Feminino,IndianSubContinent,2014,90,14.58670988654781
+Software Engineering,Feminino,IndianSubContinent,2015,68,11.021069692058347
+Software Engineering,Feminino,IndianSubContinent,2016,60,9.724473257698541
+Software Engineering,Feminino,Jewish,2000,11,1.936619718309859
+Software Engineering,Feminino,Jewish,2001,12,2.112676056338028
+Software Engineering,Feminino,Jewish,2002,18,3.169014084507042
+Software Engineering,Feminino,Jewish,2003,31,5.457746478873239
+Software Engineering,Feminino,Jewish,2004,12,2.112676056338028
+Software Engineering,Feminino,Jewish,2005,21,3.697183098591549
+Software Engineering,Feminino,Jewish,2006,21,3.697183098591549
+Software Engineering,Feminino,Jewish,2007,35,6.161971830985916
+Software Engineering,Feminino,Jewish,2008,31,5.457746478873239
+Software Engineering,Feminino,Jewish,2009,45,7.922535211267606
+Software Engineering,Feminino,Jewish,2010,39,6.866197183098592
+Software Engineering,Feminino,Jewish,2011,39,6.866197183098592
+Software Engineering,Feminino,Jewish,2012,49,8.626760563380282
+Software Engineering,Feminino,Jewish,2013,57,10.035211267605634
+Software Engineering,Feminino,Jewish,2014,45,7.922535211267606
+Software Engineering,Feminino,Jewish,2015,61,10.73943661971831
+Software Engineering,Feminino,Jewish,2016,41,7.21830985915493
+Software Engineering,Feminino,Muslim,2000,8,1.550387596899225
+Software Engineering,Feminino,Muslim,2001,12,2.3255813953488373
+Software Engineering,Feminino,Muslim,2002,4,0.7751937984496124
+Software Engineering,Feminino,Muslim,2003,14,2.7131782945736433
+Software Engineering,Feminino,Muslim,2004,16,3.10077519379845
+Software Engineering,Feminino,Muslim,2005,16,3.10077519379845
+Software Engineering,Feminino,Muslim,2006,28,5.426356589147287
+Software Engineering,Feminino,Muslim,2007,25,4.844961240310078
+Software Engineering,Feminino,Muslim,2008,26,5.038759689922481
+Software Engineering,Feminino,Muslim,2009,36,6.976744186046512
+Software Engineering,Feminino,Muslim,2010,50,9.689922480620156
+Software Engineering,Feminino,Muslim,2011,39,7.55813953488372
+Software Engineering,Feminino,Muslim,2012,45,8.720930232558139
+Software Engineering,Feminino,Muslim,2013,54,10.465116279069768
+Software Engineering,Feminino,Muslim,2014,51,9.883720930232558
+Software Engineering,Feminino,Muslim,2015,46,8.914728682170542
+Software Engineering,Feminino,Muslim,2016,46,8.914728682170542
+Software Engineering,Feminino,WestEuropean,2000,48,2.3494860499265786
+Software Engineering,Feminino,WestEuropean,2001,55,2.692119432207538
+Software Engineering,Feminino,WestEuropean,2002,64,3.1326480665687715
+Software Engineering,Feminino,WestEuropean,2003,65,3.1815956926089086
+Software Engineering,Feminino,WestEuropean,2004,65,3.1815956926089086
+Software Engineering,Feminino,WestEuropean,2005,79,3.8668624571708268
+Software Engineering,Feminino,WestEuropean,2006,94,4.601076847772883
+Software Engineering,Feminino,WestEuropean,2007,107,5.237395986294665
+Software Engineering,Feminino,WestEuropean,2008,131,6.412139011257954
+Software Engineering,Feminino,WestEuropean,2009,130,6.363191385217817
+Software Engineering,Feminino,WestEuropean,2010,137,6.705824767498776
+Software Engineering,Feminino,WestEuropean,2011,130,6.363191385217817
+Software Engineering,Feminino,WestEuropean,2012,198,9.691629955947137
+Software Engineering,Feminino,WestEuropean,2013,172,8.418991678903573
+Software Engineering,Feminino,WestEuropean,2014,160,7.831620166421928
+Software Engineering,Feminino,WestEuropean,2015,252,12.334801762114537
+Software Engineering,Feminino,WestEuropean,2016,156,7.63582966226138
+Software Engineering,Masculino,Africans,2000,25,3.2383419689119166
+Software Engineering,Masculino,Africans,2001,23,2.9792746113989637
+Software Engineering,Masculino,Africans,2002,18,2.33160621761658
+Software Engineering,Masculino,Africans,2003,21,2.7202072538860103
+Software Engineering,Masculino,Africans,2004,31,4.015544041450777
+Software Engineering,Masculino,Africans,2005,38,4.922279792746114
+Software Engineering,Masculino,Africans,2006,33,4.274611398963731
+Software Engineering,Masculino,Africans,2007,46,5.958549222797927
+Software Engineering,Masculino,Africans,2008,42,5.4404145077720205
+Software Engineering,Masculino,Africans,2009,44,5.699481865284974
+Software Engineering,Masculino,Africans,2010,52,6.7357512953367875
+Software Engineering,Masculino,Africans,2011,53,6.865284974093264
+Software Engineering,Masculino,Africans,2012,73,9.455958549222798
+Software Engineering,Masculino,Africans,2013,55,7.124352331606218
+Software Engineering,Masculino,Africans,2014,63,8.160621761658032
+Software Engineering,Masculino,Africans,2015,83,10.751295336787564
+Software Engineering,Masculino,Africans,2016,72,9.32642487046632
+Software Engineering,Masculino,British,2000,223,3.582904884318766
+Software Engineering,Masculino,British,2001,281,4.514781491002571
+Software Engineering,Masculino,British,2002,221,3.550771208226221
+Software Engineering,Masculino,British,2003,291,4.675449871465295
+Software Engineering,Masculino,British,2004,242,3.888174807197944
+Software Engineering,Masculino,British,2005,338,5.430591259640103
+Software Engineering,Masculino,British,2006,293,4.7075835475578405
+Software Engineering,Masculino,British,2007,384,6.169665809768637
+Software Engineering,Masculino,British,2008,381,6.12146529562982
+Software Engineering,Masculino,British,2009,413,6.635604113110539
+Software Engineering,Masculino,British,2010,356,5.719794344473008
+Software Engineering,Masculino,British,2011,450,7.230077120822623
+Software Engineering,Masculino,British,2012,460,7.3907455012853465
+Software Engineering,Masculino,British,2013,516,8.290488431876607
+Software Engineering,Masculino,British,2014,417,6.69987146529563
+Software Engineering,Masculino,British,2015,538,8.6439588688946
+Software Engineering,Masculino,British,2016,420,6.748071979434448
+Software Engineering,Masculino,EastEuropean,2000,38,2.0529443544030253
+Software Engineering,Masculino,EastEuropean,2001,59,3.1874662344678555
+Software Engineering,Masculino,EastEuropean,2002,55,2.971366828741221
+Software Engineering,Masculino,EastEuropean,2003,67,3.6196650459211237
+Software Engineering,Masculino,EastEuropean,2004,68,3.6736898973527823
+Software Engineering,Masculino,EastEuropean,2005,103,5.564559697460832
+Software Engineering,Masculino,EastEuropean,2006,74,3.9978390059427333
+Software Engineering,Masculino,EastEuropean,2007,67,3.6196650459211237
+Software Engineering,Masculino,EastEuropean,2008,91,4.916261480280929
+Software Engineering,Masculino,EastEuropean,2009,140,7.5634792004322
+Software Engineering,Masculino,EastEuropean,2010,121,6.537007023230686
+Software Engineering,Masculino,EastEuropean,2011,152,8.211777417612101
+Software Engineering,Masculino,EastEuropean,2012,147,7.941653160453808
+Software Engineering,Masculino,EastEuropean,2013,150,8.103727714748784
+Software Engineering,Masculino,EastEuropean,2014,162,8.752025931928689
+Software Engineering,Masculino,EastEuropean,2015,221,11.939492166396542
+Software Engineering,Masculino,EastEuropean,2016,136,7.347379794705565
+Software Engineering,Masculino,GreaterEastAsian,2000,42,1.0218978102189782
+Software Engineering,Masculino,GreaterEastAsian,2001,80,1.9464720194647203
+Software Engineering,Masculino,GreaterEastAsian,2002,120,2.9197080291970803
+Software Engineering,Masculino,GreaterEastAsian,2003,97,2.3600973236009732
+Software Engineering,Masculino,GreaterEastAsian,2004,119,2.895377128953771
+Software Engineering,Masculino,GreaterEastAsian,2005,160,3.8929440389294405
+Software Engineering,Masculino,GreaterEastAsian,2006,279,6.788321167883211
+Software Engineering,Masculino,GreaterEastAsian,2007,170,4.13625304136253
+Software Engineering,Masculino,GreaterEastAsian,2008,207,5.036496350364963
+Software Engineering,Masculino,GreaterEastAsian,2009,238,5.790754257907542
+Software Engineering,Masculino,GreaterEastAsian,2010,207,5.036496350364963
+Software Engineering,Masculino,GreaterEastAsian,2011,283,6.885644768856447
+Software Engineering,Masculino,GreaterEastAsian,2012,358,8.710462287104622
+Software Engineering,Masculino,GreaterEastAsian,2013,380,9.245742092457421
+Software Engineering,Masculino,GreaterEastAsian,2014,418,10.170316301703162
+Software Engineering,Masculino,GreaterEastAsian,2015,466,11.338199513381996
+Software Engineering,Masculino,GreaterEastAsian,2016,486,11.824817518248175
+Software Engineering,Masculino,IndianSubContinent,2000,28,1.3455069678039404
+Software Engineering,Masculino,IndianSubContinent,2001,42,2.0182604517059106
+Software Engineering,Masculino,IndianSubContinent,2002,47,2.2585295530994713
+Software Engineering,Masculino,IndianSubContinent,2003,64,3.0754444978375783
+Software Engineering,Masculino,IndianSubContinent,2004,83,3.9884670831331093
+Software Engineering,Masculino,IndianSubContinent,2005,78,3.7481979817395485
+Software Engineering,Masculino,IndianSubContinent,2006,78,3.7481979817395485
+Software Engineering,Masculino,IndianSubContinent,2007,107,5.141758769822201
+Software Engineering,Masculino,IndianSubContinent,2008,111,5.33397405093705
+Software Engineering,Masculino,IndianSubContinent,2009,131,6.2950504565112935
+Software Engineering,Masculino,IndianSubContinent,2010,112,5.382027871215762
+Software Engineering,Masculino,IndianSubContinent,2011,164,7.880826525708794
+Software Engineering,Masculino,IndianSubContinent,2012,142,6.823642479577126
+Software Engineering,Masculino,IndianSubContinent,2013,217,10.427679000480538
+Software Engineering,Masculino,IndianSubContinent,2014,245,11.773185968284478
+Software Engineering,Masculino,IndianSubContinent,2015,234,11.244593945218645
+Software Engineering,Masculino,IndianSubContinent,2016,198,9.514656415185009
+Software Engineering,Masculino,Jewish,2000,98,2.810438772583883
+Software Engineering,Masculino,Jewish,2001,143,4.100946372239748
+Software Engineering,Masculino,Jewish,2002,123,3.527387439059363
+Software Engineering,Masculino,Jewish,2003,135,3.8715227989675935
+Software Engineering,Masculino,Jewish,2004,118,3.3839977057642674
+Software Engineering,Masculino,Jewish,2005,170,4.875250932033266
+Software Engineering,Masculino,Jewish,2006,189,5.420131918554631
+Software Engineering,Masculino,Jewish,2007,201,5.764267278462862
+Software Engineering,Masculino,Jewish,2008,227,6.509893891597361
+Software Engineering,Masculino,Jewish,2009,256,7.341554344708919
+Software Engineering,Masculino,Jewish,2010,211,6.051046745053054
+Software Engineering,Masculino,Jewish,2011,249,7.140808718095784
+Software Engineering,Masculino,Jewish,2012,285,8.173214797820476
+Software Engineering,Masculino,Jewish,2013,275,7.886435331230284
+Software Engineering,Masculino,Jewish,2014,246,7.054774878118726
+Software Engineering,Masculino,Jewish,2015,329,9.435044450817323
+Software Engineering,Masculino,Jewish,2016,232,6.653283624892457
+Software Engineering,Masculino,Muslim,2000,28,1.5765765765765765
+Software Engineering,Masculino,Muslim,2001,32,1.8018018018018018
+Software Engineering,Masculino,Muslim,2002,56,3.153153153153153
+Software Engineering,Masculino,Muslim,2003,47,2.6463963963963963
+Software Engineering,Masculino,Muslim,2004,50,2.815315315315315
+Software Engineering,Masculino,Muslim,2005,75,4.222972972972973
+Software Engineering,Masculino,Muslim,2006,61,3.434684684684685
+Software Engineering,Masculino,Muslim,2007,99,5.574324324324325
+Software Engineering,Masculino,Muslim,2008,97,5.461711711711711
+Software Engineering,Masculino,Muslim,2009,121,6.813063063063063
+Software Engineering,Masculino,Muslim,2010,117,6.587837837837837
+Software Engineering,Masculino,Muslim,2011,157,8.84009009009009
+Software Engineering,Masculino,Muslim,2012,160,9.00900900900901
+Software Engineering,Masculino,Muslim,2013,175,9.853603603603604
+Software Engineering,Masculino,Muslim,2014,142,7.995495495495495
+Software Engineering,Masculino,Muslim,2015,191,10.754504504504505
+Software Engineering,Masculino,Muslim,2016,168,9.45945945945946
+Software Engineering,Masculino,WestEuropean,2000,218,2.2708333333333335
+Software Engineering,Masculino,WestEuropean,2001,278,2.895833333333333
+Software Engineering,Masculino,WestEuropean,2002,286,2.979166666666667
+Software Engineering,Masculino,WestEuropean,2003,296,3.0833333333333335
+Software Engineering,Masculino,WestEuropean,2004,319,3.3229166666666665
+Software Engineering,Masculino,WestEuropean,2005,376,3.916666666666667
+Software Engineering,Masculino,WestEuropean,2006,418,4.354166666666667
+Software Engineering,Masculino,WestEuropean,2007,456,4.75
+Software Engineering,Masculino,WestEuropean,2008,608,6.333333333333334
+Software Engineering,Masculino,WestEuropean,2009,655,6.822916666666666
+Software Engineering,Masculino,WestEuropean,2010,715,7.447916666666667
+Software Engineering,Masculino,WestEuropean,2011,662,6.895833333333333
+Software Engineering,Masculino,WestEuropean,2012,912,9.5
+Software Engineering,Masculino,WestEuropean,2013,819,8.53125
+Software Engineering,Masculino,WestEuropean,2014,804,8.375
+Software Engineering,Masculino,WestEuropean,2015,1075,11.197916666666668
+Software Engineering,Masculino,WestEuropean,2016,703,7.322916666666666
+Software Engineering,Não Informado,Africans,2000,0,0
+Software Engineering,Não Informado,Africans,2001,0,0
+Software Engineering,Não Informado,Africans,2002,3,3.4090909090909087
+Software Engineering,Não Informado,Africans,2003,0,0
+Software Engineering,Não Informado,Africans,2004,0,0
+Software Engineering,Não Informado,Africans,2005,3,3.4090909090909087
+Software Engineering,Não Informado,Africans,2006,1,1.1363636363636365
+Software Engineering,Não Informado,Africans,2007,3,3.4090909090909087
+Software Engineering,Não Informado,Africans,2008,4,4.545454545454546
+Software Engineering,Não Informado,Africans,2009,6,6.8181818181818175
+Software Engineering,Não Informado,Africans,2010,6,6.8181818181818175
+Software Engineering,Não Informado,Africans,2011,5,5.681818181818182
+Software Engineering,Não Informado,Africans,2012,12,13.636363636363635
+Software Engineering,Não Informado,Africans,2013,12,13.636363636363635
+Software Engineering,Não Informado,Africans,2014,9,10.227272727272728
+Software Engineering,Não Informado,Africans,2015,11,12.5
+Software Engineering,Não Informado,Africans,2016,13,14.772727272727273
+Software Engineering,Não Informado,British,2000,15,8.426966292134832
+Software Engineering,Não Informado,British,2001,12,6.741573033707865
+Software Engineering,Não Informado,British,2002,12,6.741573033707865
+Software Engineering,Não Informado,British,2003,11,6.179775280898876
+Software Engineering,Não Informado,British,2004,5,2.8089887640449436
+Software Engineering,Não Informado,British,2005,14,7.865168539325842
+Software Engineering,Não Informado,British,2006,20,11.235955056179774
+Software Engineering,Não Informado,British,2007,10,5.617977528089887
+Software Engineering,Não Informado,British,2008,8,4.49438202247191
+Software Engineering,Não Informado,British,2009,10,5.617977528089887
+Software Engineering,Não Informado,British,2010,10,5.617977528089887
+Software Engineering,Não Informado,British,2011,5,2.8089887640449436
+Software Engineering,Não Informado,British,2012,6,3.3707865168539324
+Software Engineering,Não Informado,British,2013,11,6.179775280898876
+Software Engineering,Não Informado,British,2014,8,4.49438202247191
+Software Engineering,Não Informado,British,2015,10,5.617977528089887
+Software Engineering,Não Informado,British,2016,11,6.179775280898876
+Software Engineering,Não Informado,EastEuropean,2000,1,3.571428571428571
+Software Engineering,Não Informado,EastEuropean,2001,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2002,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2003,1,3.571428571428571
+Software Engineering,Não Informado,EastEuropean,2004,1,3.571428571428571
+Software Engineering,Não Informado,EastEuropean,2005,0,0
+Software Engineering,Não Informado,EastEuropean,2006,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2007,0,0
+Software Engineering,Não Informado,EastEuropean,2008,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2009,3,10.714285714285714
+Software Engineering,Não Informado,EastEuropean,2010,0,0
+Software Engineering,Não Informado,EastEuropean,2011,0,0
+Software Engineering,Não Informado,EastEuropean,2012,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2013,3,10.714285714285714
+Software Engineering,Não Informado,EastEuropean,2014,4,14.285714285714285
+Software Engineering,Não Informado,EastEuropean,2015,2,7.142857142857142
+Software Engineering,Não Informado,EastEuropean,2016,3,10.714285714285714
+Software Engineering,Não Informado,GreaterEastAsian,2000,7,0.9681881051175657
+Software Engineering,Não Informado,GreaterEastAsian,2001,16,2.2130013831258646
+Software Engineering,Não Informado,GreaterEastAsian,2002,22,3.0428769017980635
+Software Engineering,Não Informado,GreaterEastAsian,2003,14,1.9363762102351314
+Software Engineering,Não Informado,GreaterEastAsian,2004,31,4.287690179806362
+Software Engineering,Não Informado,GreaterEastAsian,2005,23,3.18118948824343
+Software Engineering,Não Informado,GreaterEastAsian,2006,56,7.745504840940526
+Software Engineering,Não Informado,GreaterEastAsian,2007,46,6.36237897648686
+Software Engineering,Não Informado,GreaterEastAsian,2008,33,4.564315352697095
+Software Engineering,Não Informado,GreaterEastAsian,2009,45,6.224066390041494
+Software Engineering,Não Informado,GreaterEastAsian,2010,27,3.7344398340248963
+Software Engineering,Não Informado,GreaterEastAsian,2011,66,9.12863070539419
+Software Engineering,Não Informado,GreaterEastAsian,2012,54,7.468879668049793
+Software Engineering,Não Informado,GreaterEastAsian,2013,46,6.36237897648686
+Software Engineering,Não Informado,GreaterEastAsian,2014,74,10.235131396957122
+Software Engineering,Não Informado,GreaterEastAsian,2015,63,8.71369294605809
+Software Engineering,Não Informado,GreaterEastAsian,2016,100,13.831258644536653
+Software Engineering,Não Informado,IndianSubContinent,2000,6,3.061224489795918
+Software Engineering,Não Informado,IndianSubContinent,2001,4,2.0408163265306123
+Software Engineering,Não Informado,IndianSubContinent,2002,2,1.0204081632653061
+Software Engineering,Não Informado,IndianSubContinent,2003,8,4.081632653061225
+Software Engineering,Não Informado,IndianSubContinent,2004,4,2.0408163265306123
+Software Engineering,Não Informado,IndianSubContinent,2005,3,1.530612244897959
+Software Engineering,Não Informado,IndianSubContinent,2006,10,5.1020408163265305
+Software Engineering,Não Informado,IndianSubContinent,2007,16,8.16326530612245
+Software Engineering,Não Informado,IndianSubContinent,2008,5,2.5510204081632653
+Software Engineering,Não Informado,IndianSubContinent,2009,9,4.591836734693878
+Software Engineering,Não Informado,IndianSubContinent,2010,16,8.16326530612245
+Software Engineering,Não Informado,IndianSubContinent,2011,13,6.63265306122449
+Software Engineering,Não Informado,IndianSubContinent,2012,10,5.1020408163265305
+Software Engineering,Não Informado,IndianSubContinent,2013,27,13.77551020408163
+Software Engineering,Não Informado,IndianSubContinent,2014,25,12.755102040816327
+Software Engineering,Não Informado,IndianSubContinent,2015,22,11.224489795918368
+Software Engineering,Não Informado,IndianSubContinent,2016,16,8.16326530612245
+Software Engineering,Não Informado,Jewish,2000,5,7.352941176470589
+Software Engineering,Não Informado,Jewish,2001,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2002,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2003,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2004,0,0
+Software Engineering,Não Informado,Jewish,2005,4,5.88235294117647
+Software Engineering,Não Informado,Jewish,2006,9,13.23529411764706
+Software Engineering,Não Informado,Jewish,2007,7,10.294117647058822
+Software Engineering,Não Informado,Jewish,2008,6,8.823529411764707
+Software Engineering,Não Informado,Jewish,2009,3,4.411764705882353
+Software Engineering,Não Informado,Jewish,2010,6,8.823529411764707
+Software Engineering,Não Informado,Jewish,2011,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2012,6,8.823529411764707
+Software Engineering,Não Informado,Jewish,2013,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2014,2,2.941176470588235
+Software Engineering,Não Informado,Jewish,2015,4,5.88235294117647
+Software Engineering,Não Informado,Jewish,2016,6,8.823529411764707
+Software Engineering,Não Informado,Muslim,2000,1,2.1739130434782608
+Software Engineering,Não Informado,Muslim,2001,0,0
+Software Engineering,Não Informado,Muslim,2002,2,4.3478260869565215
+Software Engineering,Não Informado,Muslim,2003,4,8.695652173913043
+Software Engineering,Não Informado,Muslim,2004,1,2.1739130434782608
+Software Engineering,Não Informado,Muslim,2005,2,4.3478260869565215
+Software Engineering,Não Informado,Muslim,2006,2,4.3478260869565215
+Software Engineering,Não Informado,Muslim,2007,3,6.521739130434782
+Software Engineering,Não Informado,Muslim,2008,1,2.1739130434782608
+Software Engineering,Não Informado,Muslim,2009,3,6.521739130434782
+Software Engineering,Não Informado,Muslim,2010,1,2.1739130434782608
+Software Engineering,Não Informado,Muslim,2011,2,4.3478260869565215
+Software Engineering,Não Informado,Muslim,2012,5,10.869565217391305
+Software Engineering,Não Informado,Muslim,2013,10,21.73913043478261
+Software Engineering,Não Informado,Muslim,2014,3,6.521739130434782
+Software Engineering,Não Informado,Muslim,2015,3,6.521739130434782
+Software Engineering,Não Informado,Muslim,2016,3,6.521739130434782
+Software Engineering,Não Informado,WestEuropean,2000,6,2.9268292682926833
+Software Engineering,Não Informado,WestEuropean,2001,13,6.341463414634147
+Software Engineering,Não Informado,WestEuropean,2002,10,4.878048780487805
+Software Engineering,Não Informado,WestEuropean,2003,4,1.951219512195122
+Software Engineering,Não Informado,WestEuropean,2004,6,2.9268292682926833
+Software Engineering,Não Informado,WestEuropean,2005,4,1.951219512195122
+Software Engineering,Não Informado,WestEuropean,2006,12,5.853658536585367
+Software Engineering,Não Informado,WestEuropean,2007,9,4.390243902439024
+Software Engineering,Não Informado,WestEuropean,2008,10,4.878048780487805
+Software Engineering,Não Informado,WestEuropean,2009,11,5.365853658536586
+Software Engineering,Não Informado,WestEuropean,2010,15,7.317073170731707
+Software Engineering,Não Informado,WestEuropean,2011,18,8.780487804878048
+Software Engineering,Não Informado,WestEuropean,2012,23,11.219512195121952
+Software Engineering,Não Informado,WestEuropean,2013,17,8.292682926829269
+Software Engineering,Não Informado,WestEuropean,2014,14,6.829268292682928
+Software Engineering,Não Informado,WestEuropean,2015,17,8.292682926829269
+Software Engineering,Não Informado,WestEuropean,2016,16,7.804878048780488
+Theory,Feminino,Africans,2000,7,4.375
+Theory,Feminino,Africans,2001,7,4.375
+Theory,Feminino,Africans,2002,6,3.75
+Theory,Feminino,Africans,2003,7,4.375
+Theory,Feminino,Africans,2004,8,5
+Theory,Feminino,Africans,2005,7,4.375
+Theory,Feminino,Africans,2006,10,6.25
+Theory,Feminino,Africans,2007,8,5
+Theory,Feminino,Africans,2008,7,4.375
+Theory,Feminino,Africans,2009,7,4.375
+Theory,Feminino,Africans,2010,9,5.625
+Theory,Feminino,Africans,2011,12,7.5
+Theory,Feminino,Africans,2012,8,5
+Theory,Feminino,Africans,2013,11,6.875000000000001
+Theory,Feminino,Africans,2014,11,6.875000000000001
+Theory,Feminino,Africans,2015,22,13.750000000000002
+Theory,Feminino,Africans,2016,13,8.125
+Theory,Feminino,British,2000,48,4.752475247524752
+Theory,Feminino,British,2001,50,4.9504950495049505
+Theory,Feminino,British,2002,40,3.9603960396039604
+Theory,Feminino,British,2003,59,5.841584158415842
+Theory,Feminino,British,2004,74,7.326732673267326
+Theory,Feminino,British,2005,55,5.445544554455446
+Theory,Feminino,British,2006,55,5.445544554455446
+Theory,Feminino,British,2007,64,6.336633663366337
+Theory,Feminino,British,2008,52,5.148514851485149
+Theory,Feminino,British,2009,60,5.9405940594059405
+Theory,Feminino,British,2010,59,5.841584158415842
+Theory,Feminino,British,2011,68,6.732673267326733
+Theory,Feminino,British,2012,63,6.237623762376238
+Theory,Feminino,British,2013,50,4.9504950495049505
+Theory,Feminino,British,2014,80,7.920792079207921
+Theory,Feminino,British,2015,70,6.9306930693069315
+Theory,Feminino,British,2016,63,6.237623762376238
+Theory,Feminino,EastEuropean,2000,18,2.9459901800327333
+Theory,Feminino,EastEuropean,2001,20,3.273322422258593
+Theory,Feminino,EastEuropean,2002,25,4.091653027823241
+Theory,Feminino,EastEuropean,2003,29,4.746317512274959
+Theory,Feminino,EastEuropean,2004,33,5.400981996726677
+Theory,Feminino,EastEuropean,2005,34,5.5646481178396074
+Theory,Feminino,EastEuropean,2006,40,6.546644844517186
+Theory,Feminino,EastEuropean,2007,46,7.528641571194762
+Theory,Feminino,EastEuropean,2008,38,6.219312602291326
+Theory,Feminino,EastEuropean,2009,32,5.237315875613748
+Theory,Feminino,EastEuropean,2010,48,7.855973813420622
+Theory,Feminino,EastEuropean,2011,40,6.546644844517186
+Theory,Feminino,EastEuropean,2012,44,7.201309328968904
+Theory,Feminino,EastEuropean,2013,28,4.582651391162029
+Theory,Feminino,EastEuropean,2014,50,8.183306055646481
+Theory,Feminino,EastEuropean,2015,35,5.728314238952537
+Theory,Feminino,EastEuropean,2016,51,8.346972176759412
+Theory,Feminino,GreaterEastAsian,2000,51,3.2095657646318436
+Theory,Feminino,GreaterEastAsian,2001,56,3.524229074889868
+Theory,Feminino,GreaterEastAsian,2002,45,2.8319697923222154
+Theory,Feminino,GreaterEastAsian,2003,60,3.775959723096287
+Theory,Feminino,GreaterEastAsian,2004,88,5.538074260541221
+Theory,Feminino,GreaterEastAsian,2005,96,6.041535556954059
+Theory,Feminino,GreaterEastAsian,2006,88,5.538074260541221
+Theory,Feminino,GreaterEastAsian,2007,92,5.78980490874764
+Theory,Feminino,GreaterEastAsian,2008,96,6.041535556954059
+Theory,Feminino,GreaterEastAsian,2009,99,6.230333543108873
+Theory,Feminino,GreaterEastAsian,2010,110,6.922592825676527
+Theory,Feminino,GreaterEastAsian,2011,100,6.293266205160478
+Theory,Feminino,GreaterEastAsian,2012,103,6.482064191315293
+Theory,Feminino,GreaterEastAsian,2013,128,8.055380742605413
+Theory,Feminino,GreaterEastAsian,2014,130,8.181246066708622
+Theory,Feminino,GreaterEastAsian,2015,132,8.307111390811832
+Theory,Feminino,GreaterEastAsian,2016,115,7.23725613593455
+Theory,Feminino,IndianSubContinent,2000,27,3.366583541147132
+Theory,Feminino,IndianSubContinent,2001,22,2.7431421446384037
+Theory,Feminino,IndianSubContinent,2002,30,3.7406483790523692
+Theory,Feminino,IndianSubContinent,2003,33,4.114713216957606
+Theory,Feminino,IndianSubContinent,2004,31,3.865336658354115
+Theory,Feminino,IndianSubContinent,2005,40,4.987531172069826
+Theory,Feminino,IndianSubContinent,2006,54,6.733167082294264
+Theory,Feminino,IndianSubContinent,2007,34,4.239401496259352
+Theory,Feminino,IndianSubContinent,2008,56,6.982543640897755
+Theory,Feminino,IndianSubContinent,2009,40,4.987531172069826
+Theory,Feminino,IndianSubContinent,2010,46,5.7356608478802995
+Theory,Feminino,IndianSubContinent,2011,38,4.738154613466334
+Theory,Feminino,IndianSubContinent,2012,58,7.231920199501247
+Theory,Feminino,IndianSubContinent,2013,66,8.229426433915211
+Theory,Feminino,IndianSubContinent,2014,73,9.102244389027431
+Theory,Feminino,IndianSubContinent,2015,81,10.099750623441397
+Theory,Feminino,IndianSubContinent,2016,73,9.102244389027431
+Theory,Feminino,Jewish,2000,63,4.309165526675787
+Theory,Feminino,Jewish,2001,68,4.651162790697675
+Theory,Feminino,Jewish,2002,76,5.198358413132695
+Theory,Feminino,Jewish,2003,64,4.377564979480164
+Theory,Feminino,Jewish,2004,88,6.019151846785226
+Theory,Feminino,Jewish,2005,90,6.155950752393981
+Theory,Feminino,Jewish,2006,114,7.7975376196990425
+Theory,Feminino,Jewish,2007,84,5.745554035567715
+Theory,Feminino,Jewish,2008,101,6.908344733242135
+Theory,Feminino,Jewish,2009,82,5.60875512995896
+Theory,Feminino,Jewish,2010,92,6.292749658002736
+Theory,Feminino,Jewish,2011,92,6.292749658002736
+Theory,Feminino,Jewish,2012,78,5.33515731874145
+Theory,Feminino,Jewish,2013,83,5.677154582763338
+Theory,Feminino,Jewish,2014,91,6.224350205198358
+Theory,Feminino,Jewish,2015,99,6.771545827633379
+Theory,Feminino,Jewish,2016,97,6.6347469220246245
+Theory,Feminino,Muslim,2000,13,2.771855010660981
+Theory,Feminino,Muslim,2001,10,2.1321961620469083
+Theory,Feminino,Muslim,2002,14,2.9850746268656714
+Theory,Feminino,Muslim,2003,16,3.411513859275053
+Theory,Feminino,Muslim,2004,19,4.051172707889126
+Theory,Feminino,Muslim,2005,28,5.970149253731343
+Theory,Feminino,Muslim,2006,27,5.756929637526652
+Theory,Feminino,Muslim,2007,29,6.183368869936034
+Theory,Feminino,Muslim,2008,25,5.330490405117271
+Theory,Feminino,Muslim,2009,29,6.183368869936034
+Theory,Feminino,Muslim,2010,37,7.889125799573561
+Theory,Feminino,Muslim,2011,32,6.823027718550106
+Theory,Feminino,Muslim,2012,39,8.315565031982942
+Theory,Feminino,Muslim,2013,41,8.742004264392325
+Theory,Feminino,Muslim,2014,40,8.528784648187633
+Theory,Feminino,Muslim,2015,36,7.675906183368871
+Theory,Feminino,Muslim,2016,34,7.249466950959488
+Theory,Feminino,WestEuropean,2000,108,4.8582995951417
+Theory,Feminino,WestEuropean,2001,99,4.4534412955465585
+Theory,Feminino,WestEuropean,2002,94,4.228520017993702
+Theory,Feminino,WestEuropean,2003,101,4.543409806567701
+Theory,Feminino,WestEuropean,2004,115,5.1731893837157
+Theory,Feminino,WestEuropean,2005,131,5.89293747188484
+Theory,Feminino,WestEuropean,2006,130,5.847953216374268
+Theory,Feminino,WestEuropean,2007,132,5.937921727395412
+Theory,Feminino,WestEuropean,2008,122,5.488079172289698
+Theory,Feminino,WestEuropean,2009,148,6.657669815564553
+Theory,Feminino,WestEuropean,2010,153,6.882591093117409
+Theory,Feminino,WestEuropean,2011,142,6.387764282501125
+Theory,Feminino,WestEuropean,2012,132,5.937921727395412
+Theory,Feminino,WestEuropean,2013,143,6.432748538011696
+Theory,Feminino,WestEuropean,2014,158,7.107512370670266
+Theory,Feminino,WestEuropean,2015,157,7.062528115159694
+Theory,Feminino,WestEuropean,2016,158,7.107512370670266
+Theory,Masculino,Africans,2000,51,3.637660485021398
+Theory,Masculino,Africans,2001,75,5.349500713266762
+Theory,Masculino,Africans,2002,63,4.49358059914408
+Theory,Masculino,Africans,2003,67,4.778887303851641
+Theory,Masculino,Africans,2004,80,5.706134094151213
+Theory,Masculino,Africans,2005,96,6.847360912981455
+Theory,Masculino,Africans,2006,106,7.560627674750357
+Theory,Masculino,Africans,2007,100,7.132667617689016
+Theory,Masculino,Africans,2008,104,7.417974322396577
+Theory,Masculino,Africans,2009,84,5.991440798858773
+Theory,Masculino,Africans,2010,98,6.990014265335236
+Theory,Masculino,Africans,2011,75,5.349500713266762
+Theory,Masculino,Africans,2012,91,6.490727532097004
+Theory,Masculino,Africans,2013,67,4.778887303851641
+Theory,Masculino,Africans,2014,94,6.704707560627675
+Theory,Masculino,Africans,2015,87,6.205420827389443
+Theory,Masculino,Africans,2016,64,4.56490727532097
+Theory,Masculino,British,2000,392,4.919061362780776
+Theory,Masculino,British,2001,341,4.279081440582256
+Theory,Masculino,British,2002,352,4.417116325762329
+Theory,Masculino,British,2003,357,4.479859455389635
+Theory,Masculino,British,2004,438,5.496298155351989
+Theory,Masculino,British,2005,446,5.5966871627556785
+Theory,Masculino,British,2006,440,5.5213954072029114
+Theory,Masculino,British,2007,492,6.173923955326892
+Theory,Masculino,British,2008,499,6.26176433680512
+Theory,Masculino,British,2009,504,6.324507466432426
+Theory,Masculino,British,2010,518,6.500188229388881
+Theory,Masculino,British,2011,514,6.449993725687038
+Theory,Masculino,British,2012,499,6.26176433680512
+Theory,Masculino,British,2013,567,7.115070899736479
+Theory,Masculino,British,2014,534,6.700966244196261
+Theory,Masculino,British,2015,561,7.039779144183712
+Theory,Masculino,British,2016,515,6.462542351612499
+Theory,Masculino,EastEuropean,2000,156,3.075103489059728
+Theory,Masculino,EastEuropean,2001,190,3.7453183520599254
+Theory,Masculino,EastEuropean,2002,212,4.178986792824759
+Theory,Masculino,EastEuropean,2003,217,4.277547802089494
+Theory,Masculino,EastEuropean,2004,275,5.420855509560417
+Theory,Masculino,EastEuropean,2005,305,6.0122215651488276
+Theory,Masculino,EastEuropean,2006,294,5.79538734476641
+Theory,Masculino,EastEuropean,2007,278,5.479992115119259
+Theory,Masculino,EastEuropean,2008,323,6.367041198501873
+Theory,Masculino,EastEuropean,2009,274,5.401143307707471
+Theory,Masculino,EastEuropean,2010,370,7.29351468559038
+Theory,Masculino,EastEuropean,2011,306,6.0319337670017745
+Theory,Masculino,EastEuropean,2012,363,7.155529272619751
+Theory,Masculino,EastEuropean,2013,388,7.648334318943426
+Theory,Masculino,EastEuropean,2014,365,7.194953676325645
+Theory,Masculino,EastEuropean,2015,398,7.845456337472896
+Theory,Masculino,EastEuropean,2016,359,7.076680465207964
+Theory,Masculino,GreaterEastAsian,2000,195,3.850710900473934
+Theory,Masculino,GreaterEastAsian,2001,197,3.8902053712480256
+Theory,Masculino,GreaterEastAsian,2002,202,3.9889415481832544
+Theory,Masculino,GreaterEastAsian,2003,208,4.107424960505529
+Theory,Masculino,GreaterEastAsian,2004,291,5.746445497630331
+Theory,Masculino,GreaterEastAsian,2005,313,6.1808846761453395
+Theory,Masculino,GreaterEastAsian,2006,260,5.134281200631912
+Theory,Masculino,GreaterEastAsian,2007,333,6.575829383886256
+Theory,Masculino,GreaterEastAsian,2008,309,6.101895734597156
+Theory,Masculino,GreaterEastAsian,2009,336,6.6350710900473935
+Theory,Masculino,GreaterEastAsian,2010,304,6.003159557661927
+Theory,Masculino,GreaterEastAsian,2011,297,5.8649289099526065
+Theory,Masculino,GreaterEastAsian,2012,340,6.714060031595577
+Theory,Masculino,GreaterEastAsian,2013,316,6.240126382306476
+Theory,Masculino,GreaterEastAsian,2014,389,7.681674565560821
+Theory,Masculino,GreaterEastAsian,2015,408,8.056872037914692
+Theory,Masculino,GreaterEastAsian,2016,366,7.2274881516587675
+Theory,Masculino,IndianSubContinent,2000,261,4.127134724857686
+Theory,Masculino,IndianSubContinent,2001,258,4.0796963946869065
+Theory,Masculino,IndianSubContinent,2002,292,4.617330803289057
+Theory,Masculino,IndianSubContinent,2003,308,4.870335230866541
+Theory,Masculino,IndianSubContinent,2004,338,5.34471853257432
+Theory,Masculino,IndianSubContinent,2005,343,5.423782416192283
+Theory,Masculino,IndianSubContinent,2006,354,5.597722960151803
+Theory,Masculino,IndianSubContinent,2007,364,5.755850727387729
+Theory,Masculino,IndianSubContinent,2008,419,6.625553447185325
+Theory,Masculino,IndianSubContinent,2009,387,6.11954459203036
+Theory,Masculino,IndianSubContinent,2010,437,6.9101834282099945
+Theory,Masculino,IndianSubContinent,2011,376,5.945604048070841
+Theory,Masculino,IndianSubContinent,2012,441,6.9734345351043645
+Theory,Masculino,IndianSubContinent,2013,406,6.41998734977862
+Theory,Masculino,IndianSubContinent,2014,488,7.71663504111322
+Theory,Masculino,IndianSubContinent,2015,460,7.2738772928526245
+Theory,Masculino,IndianSubContinent,2016,392,6.198608475648324
+Theory,Masculino,Jewish,2000,425,4.579247925870058
+Theory,Masculino,Jewish,2001,445,4.794741945911001
+Theory,Masculino,Jewish,2002,468,5.042560068958086
+Theory,Masculino,Jewish,2003,471,5.074884171964228
+Theory,Masculino,Jewish,2004,554,5.9691843551341455
+Theory,Masculino,Jewish,2005,551,5.936860252128003
+Theory,Masculino,Jewish,2006,547,5.893761448119815
+Theory,Masculino,Jewish,2007,561,6.044607262148475
+Theory,Masculino,Jewish,2008,610,6.572567611248788
+Theory,Masculino,Jewish,2009,515,5.548971016054304
+Theory,Masculino,Jewish,2010,596,6.421721797220127
+Theory,Masculino,Jewish,2011,552,5.947634953130051
+Theory,Masculino,Jewish,2012,539,5.8075638401034375
+Theory,Masculino,Jewish,2013,634,6.83116043529792
+Theory,Masculino,Jewish,2014,597,6.432496498222175
+Theory,Masculino,Jewish,2015,618,6.658765219265166
+Theory,Masculino,Jewish,2016,598,6.44327119922422
+Theory,Masculino,Muslim,2000,78,2.937853107344633
+Theory,Masculino,Muslim,2001,94,3.540489642184558
+Theory,Masculino,Muslim,2002,100,3.766478342749529
+Theory,Masculino,Muslim,2003,106,3.992467043314501
+Theory,Masculino,Muslim,2004,133,5.009416195856874
+Theory,Masculino,Muslim,2005,118,4.444444444444445
+Theory,Masculino,Muslim,2006,162,6.101694915254238
+Theory,Masculino,Muslim,2007,162,6.101694915254238
+Theory,Masculino,Muslim,2008,148,5.574387947269304
+Theory,Masculino,Muslim,2009,164,6.177024482109228
+Theory,Masculino,Muslim,2010,165,6.214689265536723
+Theory,Masculino,Muslim,2011,179,6.7419962335216574
+Theory,Masculino,Muslim,2012,183,6.892655367231638
+Theory,Masculino,Muslim,2013,185,6.96798493408663
+Theory,Masculino,Muslim,2014,202,7.608286252354049
+Theory,Masculino,Muslim,2015,261,9.830508474576272
+Theory,Masculino,Muslim,2016,215,8.097928436911488
+Theory,Masculino,WestEuropean,2000,602,4.529040024074631
+Theory,Masculino,WestEuropean,2001,563,4.235630454408667
+Theory,Masculino,WestEuropean,2002,628,4.724646403851941
+Theory,Masculino,WestEuropean,2003,592,4.453806801083358
+Theory,Masculino,WestEuropean,2004,751,5.650015046644598
+Theory,Masculino,WestEuropean,2005,772,5.808004814926272
+Theory,Masculino,WestEuropean,2006,749,5.6349684020463435
+Theory,Masculino,WestEuropean,2007,850,6.394823954258201
+Theory,Masculino,WestEuropean,2008,827,6.221787541378273
+Theory,Masculino,WestEuropean,2009,830,6.244357508275654
+Theory,Masculino,WestEuropean,2010,874,6.575383689437256
+Theory,Masculino,WestEuropean,2011,771,5.800481492627144
+Theory,Masculino,WestEuropean,2012,863,6.492627144146855
+Theory,Masculino,WestEuropean,2013,916,6.8913632260006015
+Theory,Masculino,WestEuropean,2014,887,6.673186879325909
+Theory,Masculino,WestEuropean,2015,878,6.605476978633765
+Theory,Masculino,WestEuropean,2016,939,7.06439963888053
+Theory,Não Informado,Africans,2000,1,3.3333333333333335
+Theory,Não Informado,Africans,2001,0,0
+Theory,Não Informado,Africans,2002,1,3.3333333333333335
+Theory,Não Informado,Africans,2003,1,3.3333333333333335
+Theory,Não Informado,Africans,2004,3,10
+Theory,Não Informado,Africans,2005,1,3.3333333333333335
+Theory,Não Informado,Africans,2006,3,10
+Theory,Não Informado,Africans,2007,5,16.666666666666664
+Theory,Não Informado,Africans,2008,2,6.666666666666667
+Theory,Não Informado,Africans,2009,1,3.3333333333333335
+Theory,Não Informado,Africans,2010,2,6.666666666666667
+Theory,Não Informado,Africans,2011,0,0
+Theory,Não Informado,Africans,2012,3,10
+Theory,Não Informado,Africans,2013,1,3.3333333333333335
+Theory,Não Informado,Africans,2014,2,6.666666666666667
+Theory,Não Informado,Africans,2015,4,13.333333333333334
+Theory,Não Informado,Africans,2016,0,0
+Theory,Não Informado,British,2000,16,7.476635514018691
+Theory,Não Informado,British,2001,5,2.336448598130841
+Theory,Não Informado,British,2002,11,5.14018691588785
+Theory,Não Informado,British,2003,13,6.074766355140187
+Theory,Não Informado,British,2004,12,5.607476635514018
+Theory,Não Informado,British,2005,14,6.5420560747663545
+Theory,Não Informado,British,2006,15,7.009345794392523
+Theory,Não Informado,British,2007,18,8.411214953271028
+Theory,Não Informado,British,2008,15,7.009345794392523
+Theory,Não Informado,British,2009,11,5.14018691588785
+Theory,Não Informado,British,2010,10,4.672897196261682
+Theory,Não Informado,British,2011,18,8.411214953271028
+Theory,Não Informado,British,2012,10,4.672897196261682
+Theory,Não Informado,British,2013,14,6.5420560747663545
+Theory,Não Informado,British,2014,13,6.074766355140187
+Theory,Não Informado,British,2015,13,6.074766355140187
+Theory,Não Informado,British,2016,6,2.803738317757009
+Theory,Não Informado,EastEuropean,2000,0,0
+Theory,Não Informado,EastEuropean,2001,0,0
+Theory,Não Informado,EastEuropean,2002,0,0
+Theory,Não Informado,EastEuropean,2003,1,6.25
+Theory,Não Informado,EastEuropean,2004,1,6.25
+Theory,Não Informado,EastEuropean,2005,2,12.5
+Theory,Não Informado,EastEuropean,2006,1,6.25
+Theory,Não Informado,EastEuropean,2007,0,0
+Theory,Não Informado,EastEuropean,2008,2,12.5
+Theory,Não Informado,EastEuropean,2009,0,0
+Theory,Não Informado,EastEuropean,2010,1,6.25
+Theory,Não Informado,EastEuropean,2011,1,6.25
+Theory,Não Informado,EastEuropean,2012,0,0
+Theory,Não Informado,EastEuropean,2013,1,6.25
+Theory,Não Informado,EastEuropean,2014,2,12.5
+Theory,Não Informado,EastEuropean,2015,1,6.25
+Theory,Não Informado,EastEuropean,2016,3,18.75
+Theory,Não Informado,GreaterEastAsian,2000,63,4.0332906530089625
+Theory,Não Informado,GreaterEastAsian,2001,67,4.289372599231754
+Theory,Não Informado,GreaterEastAsian,2002,58,3.713188220230474
+Theory,Não Informado,GreaterEastAsian,2003,76,4.865556978233035
+Theory,Não Informado,GreaterEastAsian,2004,79,5.057618437900127
+Theory,Não Informado,GreaterEastAsian,2005,121,7.746478873239436
+Theory,Não Informado,GreaterEastAsian,2006,90,5.761843790012804
+Theory,Não Informado,GreaterEastAsian,2007,113,7.2343149807938545
+Theory,Não Informado,GreaterEastAsian,2008,91,5.8258642765685025
+Theory,Não Informado,GreaterEastAsian,2009,106,6.786171574903969
+Theory,Não Informado,GreaterEastAsian,2010,94,6.017925736235595
+Theory,Não Informado,GreaterEastAsian,2011,102,6.530089628681178
+Theory,Não Informado,GreaterEastAsian,2012,101,6.46606914212548
+Theory,Não Informado,GreaterEastAsian,2013,109,6.978233034571063
+Theory,Não Informado,GreaterEastAsian,2014,101,6.46606914212548
+Theory,Não Informado,GreaterEastAsian,2015,110,7.042253521126761
+Theory,Não Informado,GreaterEastAsian,2016,81,5.185659411011524
+Theory,Não Informado,IndianSubContinent,2000,40,6.191950464396285
+Theory,Não Informado,IndianSubContinent,2001,35,5.41795665634675
+Theory,Não Informado,IndianSubContinent,2002,44,6.811145510835913
+Theory,Não Informado,IndianSubContinent,2003,39,6.037151702786378
+Theory,Não Informado,IndianSubContinent,2004,51,7.894736842105263
+Theory,Não Informado,IndianSubContinent,2005,45,6.96594427244582
+Theory,Não Informado,IndianSubContinent,2006,36,5.572755417956656
+Theory,Não Informado,IndianSubContinent,2007,37,5.727554179566564
+Theory,Não Informado,IndianSubContinent,2008,42,6.5015479876160995
+Theory,Não Informado,IndianSubContinent,2009,46,7.120743034055728
+Theory,Não Informado,IndianSubContinent,2010,30,4.643962848297214
+Theory,Não Informado,IndianSubContinent,2011,28,4.3343653250774
+Theory,Não Informado,IndianSubContinent,2012,39,6.037151702786378
+Theory,Não Informado,IndianSubContinent,2013,34,5.263157894736842
+Theory,Não Informado,IndianSubContinent,2014,31,4.798761609907121
+Theory,Não Informado,IndianSubContinent,2015,32,4.953560371517028
+Theory,Não Informado,IndianSubContinent,2016,37,5.727554179566564
+Theory,Não Informado,Jewish,2000,1,0.9345794392523363
+Theory,Não Informado,Jewish,2001,2,1.8691588785046727
+Theory,Não Informado,Jewish,2002,1,0.9345794392523363
+Theory,Não Informado,Jewish,2003,1,0.9345794392523363
+Theory,Não Informado,Jewish,2004,6,5.607476635514018
+Theory,Não Informado,Jewish,2005,10,9.345794392523365
+Theory,Não Informado,Jewish,2006,6,5.607476635514018
+Theory,Não Informado,Jewish,2007,6,5.607476635514018
+Theory,Não Informado,Jewish,2008,9,8.411214953271028
+Theory,Não Informado,Jewish,2009,2,1.8691588785046727
+Theory,Não Informado,Jewish,2010,8,7.476635514018691
+Theory,Não Informado,Jewish,2011,8,7.476635514018691
+Theory,Não Informado,Jewish,2012,6,5.607476635514018
+Theory,Não Informado,Jewish,2013,11,10.2803738317757
+Theory,Não Informado,Jewish,2014,12,11.214953271028037
+Theory,Não Informado,Jewish,2015,8,7.476635514018691
+Theory,Não Informado,Jewish,2016,10,9.345794392523365
+Theory,Não Informado,Muslim,2000,5,4.273504273504273
+Theory,Não Informado,Muslim,2001,5,4.273504273504273
+Theory,Não Informado,Muslim,2002,5,4.273504273504273
+Theory,Não Informado,Muslim,2003,5,4.273504273504273
+Theory,Não Informado,Muslim,2004,5,4.273504273504273
+Theory,Não Informado,Muslim,2005,1,0.8547008547008548
+Theory,Não Informado,Muslim,2006,7,5.982905982905983
+Theory,Não Informado,Muslim,2007,7,5.982905982905983
+Theory,Não Informado,Muslim,2008,14,11.965811965811966
+Theory,Não Informado,Muslim,2009,7,5.982905982905983
+Theory,Não Informado,Muslim,2010,14,11.965811965811966
+Theory,Não Informado,Muslim,2011,9,7.6923076923076925
+Theory,Não Informado,Muslim,2012,5,4.273504273504273
+Theory,Não Informado,Muslim,2013,7,5.982905982905983
+Theory,Não Informado,Muslim,2014,7,5.982905982905983
+Theory,Não Informado,Muslim,2015,5,4.273504273504273
+Theory,Não Informado,Muslim,2016,9,7.6923076923076925
+Theory,Não Informado,WestEuropean,2000,5,2.7624309392265194
+Theory,Não Informado,WestEuropean,2001,1,0.5524861878453038
+Theory,Não Informado,WestEuropean,2002,3,1.6574585635359116
+Theory,Não Informado,WestEuropean,2003,10,5.524861878453039
+Theory,Não Informado,WestEuropean,2004,8,4.41988950276243
+Theory,Não Informado,WestEuropean,2005,11,6.077348066298343
+Theory,Não Informado,WestEuropean,2006,7,3.867403314917127
+Theory,Não Informado,WestEuropean,2007,15,8.287292817679557
+Theory,Não Informado,WestEuropean,2008,17,9.392265193370166
+Theory,Não Informado,WestEuropean,2009,17,9.392265193370166
+Theory,Não Informado,WestEuropean,2010,11,6.077348066298343
+Theory,Não Informado,WestEuropean,2011,10,5.524861878453039
+Theory,Não Informado,WestEuropean,2012,11,6.077348066298343
+Theory,Não Informado,WestEuropean,2013,14,7.734806629834254
+Theory,Não Informado,WestEuropean,2014,9,4.972375690607735
+Theory,Não Informado,WestEuropean,2015,18,9.94475138121547
+Theory,Não Informado,WestEuropean,2016,14,7.734806629834254
