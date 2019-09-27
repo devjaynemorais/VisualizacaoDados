@@ -1,0 +1,97 @@
+subarea,genero,etnia,autores,prop_autores
+Computer Science,Feminino,Africans,1059,1.9337167899205698
+Computer Science,Feminino,British,8269,15.099059618369395
+Computer Science,Feminino,EastEuropean,2515,4.59234912809276
+Computer Science,Feminino,GreaterEastAsian,22871,41.76207431753857
+Computer Science,Feminino,IndianSubContinent,4399,8.032502510727655
+Computer Science,Feminino,Jewish,4619,8.434218935451474
+Computer Science,Feminino,Muslim,2327,4.249064183328769
+Computer Science,Feminino,WestEuropean,8706,15.897014516570804
+Computer Science,Masculino,Africans,4291,2.2038355263833678
+Computer Science,Masculino,British,37832,19.430320585909012
+Computer Science,Masculino,EastEuropean,9919,5.094347375016691
+Computer Science,Masculino,GreaterEastAsian,47047,24.16309718241862
+Computer Science,Masculino,IndianSubContinent,22478,11.544585169434942
+Computer Science,Masculino,Jewish,22782,11.700718005608456
+Computer Science,Masculino,Muslim,9871,5.069694821936664
+Computer Science,Masculino,WestEuropean,40486,20.79340133329225
+Computer Science,Não Informado,Africans,335,1.6624485137214033
+Computer Science,Não Informado,British,1293,6.416555009676939
+Computer Science,Não Informado,EastEuropean,134,0.6649794054885614
+Computer Science,Não Informado,GreaterEastAsian,14381,71.36618530097762
+Computer Science,Não Informado,IndianSubContinent,2379,11.805865713860355
+Computer Science,Não Informado,Jewish,347,1.7219989082427671
+Computer Science,Não Informado,Muslim,431,2.138851669892313
+Computer Science,Não Informado,WestEuropean,851,4.223115478140042
+Data Engineering,Feminino,Africans,312,2.3439260761775977
+Data Engineering,Feminino,British,1157,8.69205919915859
+Data Engineering,Feminino,EastEuropean,591,4.439936894297949
+Data Engineering,Feminino,GreaterEastAsian,6388,47.99038389302081
+Data Engineering,Feminino,IndianSubContinent,1022,7.67786041619713
+Data Engineering,Feminino,Jewish,949,7.129441815040193
+Data Engineering,Feminino,Muslim,695,5.221245586357148
+Data Engineering,Feminino,WestEuropean,2197,16.505146119750584
+Data Engineering,Masculino,Africans,1356,2.883327308681877
+Data Engineering,Masculino,British,6168,13.115311828871548
+Data Engineering,Masculino,EastEuropean,2641,5.615683939696782
+Data Engineering,Masculino,GreaterEastAsian,12475,26.52618597035871
+Data Engineering,Masculino,IndianSubContinent,5940,12.63050458227902
+Data Engineering,Masculino,Jewish,4658,9.904526993982437
+Data Engineering,Masculino,Muslim,2848,6.055837887261052
+Data Engineering,Masculino,WestEuropean,10943,23.268621488868572
+Data Engineering,Não Informado,Africans,96,1.7118402282453637
+Data Engineering,Não Informado,British,268,4.778887303851641
+Data Engineering,Não Informado,EastEuropean,55,0.9807417974322395
+Data Engineering,Não Informado,GreaterEastAsian,3952,70.47075606276746
+Data Engineering,Não Informado,IndianSubContinent,713,12.713980028530669
+Data Engineering,Não Informado,Jewish,64,1.1412268188302426
+Data Engineering,Não Informado,Muslim,187,3.3345221112696146
+Data Engineering,Não Informado,WestEuropean,273,4.868045649072753
+Software Engineering,Feminino,Africans,181,2.44462452728255
+Software Engineering,Feminino,British,1423,19.219340896812533
+Software Engineering,Feminino,EastEuropean,381,5.145867098865478
+Software Engineering,Feminino,GreaterEastAsian,1675,22.622906537007022
+Software Engineering,Feminino,IndianSubContinent,617,8.333333333333332
+Software Engineering,Feminino,Jewish,568,7.671528903295516
+Software Engineering,Feminino,Muslim,516,6.9692058346839545
+Software Engineering,Feminino,WestEuropean,2043,27.593192868719612
+Software Engineering,Masculino,Africans,772,2.581853449717401
+Software Engineering,Masculino,British,6224,20.815357345908165
+Software Engineering,Masculino,EastEuropean,1851,6.190428413765426
+Software Engineering,Masculino,GreaterEastAsian,4110,13.74535968696699
+Software Engineering,Masculino,IndianSubContinent,2081,6.959633457075014
+Software Engineering,Masculino,Jewish,3487,11.661817330524062
+Software Engineering,Masculino,Muslim,1776,5.939600682251429
+Software Engineering,Masculino,WestEuropean,9600,32.10594963379151
+Software Engineering,Não Informado,Africans,88,5.7441253263707575
+Software Engineering,Não Informado,British,178,11.618798955613578
+Software Engineering,Não Informado,EastEuropean,28,1.8276762402088773
+Software Engineering,Não Informado,GreaterEastAsian,723,47.193211488250654
+Software Engineering,Não Informado,IndianSubContinent,196,12.793733681462141
+Software Engineering,Não Informado,Jewish,68,4.43864229765013
+Software Engineering,Não Informado,Muslim,46,3.0026109660574414
+Software Engineering,Não Informado,WestEuropean,205,13.381201044386422
+Theory,Feminino,Africans,160,1.9216910881575788
+Theory,Feminino,British,1010,12.130674993994715
+Theory,Feminino,EastEuropean,611,7.338457842901754
+Theory,Feminino,GreaterEastAsian,1589,19.08479461926495
+Theory,Feminino,IndianSubContinent,802,9.632476579389863
+Theory,Feminino,Jewish,1462,17.559452318039874
+Theory,Feminino,Muslim,469,5.632957002161902
+Theory,Feminino,WestEuropean,2223,26.69949555608936
+Theory,Masculino,Africans,1402,2.745789267528398
+Theory,Masculino,British,7969,15.607128867998432
+Theory,Masculino,EastEuropean,5073,9.935370152761456
+Theory,Masculino,GreaterEastAsian,5064,9.917743830787309
+Theory,Masculino,IndianSubContinent,6324,12.385428907168038
+Theory,Masculino,Jewish,9281,18.17665491578535
+Theory,Masculino,Muslim,2655,5.199764982373678
+Theory,Masculino,WestEuropean,13292,26.032119075597336
+Theory,Não Informado,Africans,30,1.0442046641141665
+Theory,Não Informado,British,214,7.4486599373477205
+Theory,Não Informado,EastEuropean,16,0.5569091541942222
+Theory,Não Informado,GreaterEastAsian,1562,54.36825617821093
+Theory,Não Informado,IndianSubContinent,646,22.485207100591715
+Theory,Não Informado,Jewish,107,3.7243299686738602
+Theory,Não Informado,Muslim,117,4.072398190045249
+Theory,Não Informado,WestEuropean,181,6.300034806822137
