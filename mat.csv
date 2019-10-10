@@ -1,0 +1,25 @@
+libraryCatalog,status,analise,qtStatus
+ACM Digital Library,Aceito,Valido,4
+ACM Digital Library,Pendente,Não Analisado,13
+ACM Digital Library,Possível Reanálise,Valido,2
+ACM Digital Library,Rejeitado,Fora do Escopo,19
+ACM Digital Library,Rejeitado,Não Artigo,1
+DOI.org (Crossref),Pendente,Não Analisado,1
+Google Scholar,Aceito,Fora do Escopo,1
+Google Scholar,Aceito,Valido,6
+Google Scholar,Pendente,Não Analisado,13
+Google Scholar,Rejeitado,Fora do Escopo,12
+Google Scholar,Rejeitado,Inacessível,1
+Google Scholar,Rejeitado,Não Artigo,1
+IEEE Xplore,Aceito,Valido,9
+IEEE Xplore,Pendente,Não Analisado,29
+IEEE Xplore,Possível Reanálise,Valido,3
+IEEE Xplore,Rejeitado,Fora do Escopo,22
+ScienceDirect,Aceito,Valido,3
+ScienceDirect,Pendente,Não Analisado,14
+ScienceDirect,Rejeitado,Fora do Escopo,7
+ScienceDirect,Rejeitado,Não Artigo,1
+Springer Link,Aceito,Valido,3
+Springer Link,Pendente,Não Analisado,31
+Springer Link,Possível Reanálise,Valido,3
+Springer Link,Rejeitado,Fora do Escopo,28
