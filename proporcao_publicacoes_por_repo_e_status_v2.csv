@@ -1,0 +1,13 @@
+LibraryCatalog,Status,quantidade,prop_status
+ACM Digital Library,Aceito,2,1.25
+ACM Digital Library,Possível Reanálise,6,3.75
+ACM Digital Library,Rejeitado,32,20
+Google Scholar,Aceito,11,6.875000000000001
+Google Scholar,Possível Reanálise,3,1.875
+Google Scholar,Rejeitado,19,11.875
+IEEE Xplore,Aceito,6,3.75
+IEEE Xplore,Possível Reanálise,12,7.5
+IEEE Xplore,Rejeitado,44,27.500000000000004
+ScienceDirect,Aceito,3,1.875
+ScienceDirect,Possível Reanálise,6,3.75
+ScienceDirect,Rejeitado,16,10
